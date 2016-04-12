@@ -1,0 +1,28 @@
+.marginbottom {
+	margin-bottom:20px;
+}
+
+#timeslider {
+	width:800px;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  stroke-width:0px;
+  shape-rendering: crispEdges;
+}
+
+.questionbox {
+	height:80;
+	border-bottom-width:1px;
+	border-bottom-color:#ddd;
+	border-bottom-style:solid;
+	padding:10px;
+}
+
+.numberlabel {
+	font-size:20px;
+	font-weight:800;
+}
