@@ -18,8 +18,8 @@ var config = {
 	mapcolors:['#cccccc','#FFCDD2','#E57373','#F44336','#B71C1C'],
 	locations:'Location',
 	datafile:'data/resultskrc.csv',
-	geomfile:'data/nepal_adm3_simplified.geojson',
-	joinAttr:'DISTRICT'
+	geomfile:'data/krc_wards.geojson',
+	joinAttr:'NAME'
 
 }
 var map;

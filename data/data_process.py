@@ -70,7 +70,7 @@ def flattenOutput(data,output,line):
 print "Start"
 #krc
 questions = ["What is the main source of drinking water for members of your household?","Main Occupation of the Household Head _ HH","Where do you store water for drinking?","What do you usually do to make the water safer to drink?"]
-aggregatorList = ["Sub-Location"]
+aggregatorList = ["Ward"]
 headers = ['Question','Location','Answer','Count'];
 
 #nepal
