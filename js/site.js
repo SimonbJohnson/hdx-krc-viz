@@ -12,6 +12,7 @@
 }*/
 
 //krc
+
 var config = {
 	aggregators: [],
 	color:'#b71c1c',
@@ -20,8 +21,20 @@ var config = {
 	datafile:'data/resultskrc.csv',
 	geomfile:'data/krc_wards.geojson',
 	joinAttr:'NAME'
-
 }
+
+//unicef
+
+/*var config = {
+	aggregators: ['Sex'],
+	color:'#b71c1c',
+	mapcolors:['#cccccc','#FFCDD2','#E57373','#F44336','#B71C1C'],
+	locations:'Location',
+	datafile:'data/resultsunicef.csv',
+	geomfile:'data/krc_wards.geojson'
+	joinAttr:'NAME'
+}*/
+
 var map;
 var overlay;
 var mapon = false;
@@ -500,6 +513,22 @@ function createMap(geom){
 	    opacity: 0.8,
 	    fillOpacity: 0.6
 	}).addTo(map);
+
+	var legend = L.control({position: 'bottomright'});
+
+	legend.onAdd = function (map) {
+
+	    var div = L.DomUtil.create('div', 'info legend'),
+	        labels = ['No survey','0% <= x < 10%','10% <= x < 20%','20% <= x < 40%' ,'40% <= x'];
+
+	    for (var i = 0; i < labels.length; i++) {
+	        div.innerHTML +='<i style="background:' + config.mapcolors[i] + '"></i> ' + labels[i] + '<br />';
+	    }
+
+	    return div;
+	};
+
+	legend.addTo(map);	
 	
 	$('#map').hide();
 
@@ -527,9 +556,9 @@ function updateMap(data,cf){
 			var num = hash[feature.properties[config.joinAttr]]/totalperlocation[feature.properties[config.joinAttr]];
 			if(num>0.4){
 				var color = config.mapcolors[4];
-			} else if (num>0.3) {
+			} else if (num>0.2) {
 				var color = config.mapcolors[3];
-			} else if (num>0.2){
+			} else if (num>0.1){
 				var color = config.mapcolors[2];
 			} else{
 				var color = config.mapcolors[1];
