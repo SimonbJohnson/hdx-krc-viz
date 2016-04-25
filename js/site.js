@@ -1,6 +1,6 @@
 //Nepal
 
-/*var config = {
+var config = {
 	aggregators: ['Round'],
 	color:'#b71c1c',
 	mapcolors:['#cccccc','#FFCDD2','#E57373','#F44336','#B71C1C'],
@@ -9,11 +9,11 @@
 	geomfile:'data/nepal_adm3_simplified.geojson',
 	joinAttr:'DISTRICT'
 
-}*/
+}
 
 //krc
 
-var config = {
+/*var config = {
 	aggregators: [],
 	color:'#b71c1c',
 	mapcolors:['#cccccc','#FFCDD2','#E57373','#F44336','#B71C1C'],
@@ -21,7 +21,7 @@ var config = {
 	datafile:'data/resultskrc.csv',
 	geomfile:'data/krc_wards.geojson',
 	joinAttr:'NAME'
-}
+}*/
 
 //unicef
 
@@ -109,6 +109,13 @@ function genQuestion(data){
 	genDropdowns(cf,[config.locations].concat(config.aggregators));
 	
 	var data = cf.answersGroup.all();
+
+	var total=0;
+	data.forEach(function(d){
+			total+=d.value
+	});
+
+	$('#total').html(total+' respondants');
 	var mapData = cf.locationsGroup.all();
 	totalperlocation = {};
 	mapData.forEach(function(d){
@@ -127,7 +134,7 @@ function genQuestion(data){
 		drawGraph(data,true)
 	}*/
 	drawGraph(data,false);
-	$('#charts').html('<input class="charttype" type="radio" name="chart" value="bar" checked> Bar Chart <input class="charttype" type="radio" name="chart" value="barper"> Bar Chart (percent) <input class="charttype" type="radio" name="chart" value="ci"> 95% confidence intervals <input class="charttype" type="radio" name="chart" value="map"> Map');
+	$('#charts').html('<input class="charttype" type="radio" name="chart" value="bar" checked><span class="rightspace"> Bar Chart</span><input class="charttype" type="radio" name="chart" value="barper"><span class="rightspace"> Bar Chart (percent)</span><input class="charttype" type="radio" name="chart" value="ci"><span class="rightspace"> 95% confidence intervals </span><input class="charttype" type="radio" name="chart" value="map"> Map');
 	$('.charttype').on('change',function(){changeRadio(cf);});
 
 	function changeRadio(cf){
@@ -177,6 +184,9 @@ function genDropdowns(cf,aggs){
 	aggs.forEach(function(agg,i){
 		createDropdown(cf.aggs[agg].values,cf,i,agg);
 	});
+
+	$('#aggregators').append('<span id="total"></span>');
+
 	
 }
 
@@ -190,7 +200,7 @@ function updateDropdowns(cf,agg){
 		cf.aggs[agg].dim.filter(answers[0]);
 	}
 
-	var html = agg+': <select id="aggchange">';
+	var html = agg+': <select id="aggchange" class="rightspace">';
 
 	answers.forEach(function(a){
 		html = html + '<option value="'+a+'">'+a+'</option> ';
@@ -228,10 +238,10 @@ function createDropdown(answers,cf,i,agg){
 		cf.aggs[agg].dim.filter(answers[0]);
 	}
 	if(agg=="Answer" || agg==config.locations){
-		var html = '<span id="changeagg">'+agg+': <select id="aggchange">';
+		var html = '<span id="changeagg">'+agg+': <select id="aggchange" class="rightspace">';
 		var id = 'change';
 	} else {
-		var html = agg+': <select id="agg'+i+'">';
+		var html = agg+': <select id="agg'+i+'" class="rightspace">';
 		var id = i;
 	}
 
@@ -239,11 +249,12 @@ function createDropdown(answers,cf,i,agg){
 		html = html + '<option value="'+a+'">'+a+'</option> ';
 	});
 
-	html = html + '</option>';
+	html = html + '</select>';
 	if(agg=="Answer" || agg==config.locations){
 		html = html +"</span>"
 	}
 	$('#aggregators').append(html);
+
 	$('#agg'+id).on('change',function(){
 		if(this.value=='No filter'){
 			cf.aggs[agg].dim.filter();
@@ -251,13 +262,26 @@ function createDropdown(answers,cf,i,agg){
 			cf.aggs[agg].dim.filter(this.value);
 		}
 		var data = cf.answersGroup.all();
+		var total=0;
+			data.forEach(function(d){
+				total+=d.value
+			});
 		if($('input[type=radio][name=chart]:checked').val()=='ci'){
+			$('#total').html(total+' respondants');
 			confidenceGraph(data);		
 		} else if($('input[type=radio][name=chart]:checked').val()=='bar'){
+			$('#total').html(total+' respondants');
 			drawGraph(data);		
 		} else if($('input[type=radio][name=chart]:checked').val()=='barper'){
+			$('#total').html(total+' respondants');
 			drawGraph(data,true);
 		} else if($('input[type=radio][name=chart]:checked').val()=='map'){
+			var data = cf.locationsGroup.all();
+			var total=0;
+			data.forEach(function(d){
+				total+=d.value
+			});
+			$('#total').html(total+' respondants');
 			updateMap(cf.locationsGroup.all(),cf);
 		}		
 	});
@@ -506,13 +530,15 @@ function createMap(geom){
 		        layers: [base_hotosm]
 			});
 
-	overlay = L.geoJson(geom,{
+	var style = {
 	    fillColor: "#eeeeee",
 	    color: "#eeeeee",
 	    weight: 1,
 	    opacity: 0.8,
 	    fillOpacity: 0.6
-	}).addTo(map);
+	};
+
+	overlay = L.geoJson(geom,{style:style,onEachFeature:onEachFeature}).addTo(map);
 
 	var legend = L.control({position: 'bottomright'});
 
@@ -528,10 +554,38 @@ function createMap(geom){
 	    return div;
 	};
 
-	legend.addTo(map);	
+	legend.addTo(map);
+
+	var info = L.control();
+
+	info.onAdd = function (map) {
+	    this._div = L.DomUtil.create('div', 'info');
+	    this.update();
+	    return this._div;
+	};
+
+	info.update = function (props) {
+	    this._div.innerHTML = (props ?'<b>' + props[config.joinAttr] + '</b><br />' + Math.round(props.Svalue*100)+'%': 'Hover location for details');
+	};
+
+	info.addTo(map);		
 	
 	$('#map').hide();
 
+	function onEachFeature(feature, layer) {
+    	layer.on({
+	        mouseover: highlightFeature,
+	        mouseout: resetHighlight
+    	});
+	}
+
+	function highlightFeature(e) {
+	    info.update(e.target.feature.properties);
+	}
+
+	function resetHighlight(e) {
+	    info.update();
+	}
 }
 
 function updateMap(data,cf){
@@ -552,7 +606,9 @@ function updateMap(data,cf){
 	overlay.setStyle(style);
 
 	function style(feature){
+		feature.properties.Svalue = 'N/A';
 		if(feature.properties[config.joinAttr] in hash){
+			feature.properties.Svalue = hash[feature.properties[config.joinAttr]]/totalperlocation[feature.properties[config.joinAttr]];
 			var num = hash[feature.properties[config.joinAttr]]/totalperlocation[feature.properties[config.joinAttr]];
 			if(num>0.4){
 				var color = config.mapcolors[4];
