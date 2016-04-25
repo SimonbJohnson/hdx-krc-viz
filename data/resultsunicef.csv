@@ -1,0 +1,89 @@
+Question,Location,Sex,Answer,Count
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",Alzarqa,Male,Yes,33
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",Alzarqa,Male,No,3
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",Alzarqa,Male,No medical need,11
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",Alzarqa,Female,Yes,40
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",Alzarqa,Female,No,8
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",Alzarqa,Female,No medical need,17
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",Amman,Male,Yes,116
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",Amman,Male,No,9
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",Amman,Male,No medical need,54
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",Amman,Female,Yes,202
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",Amman,Female,No,24
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",Amman,Female,No medical need,59
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",AlMafraq,Male,Yes,47
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",AlMafraq,Male,No,5
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",AlMafraq,Male,No medical need,13
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",AlMafraq,Female,Yes,109
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",AlMafraq,Female,No,9
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",AlMafraq,Female,No medical need,27
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",Irbid,Male,Yes,118
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",Irbid,Male,No,15
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",Irbid,Male,No medical need,47
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",Irbid,Female,Yes,168
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",Irbid,Female,No,24
+"Q301: If there was a medical need, were you or any of children under 18 able to access public hospitals/clinics in the last six months?",Irbid,Female,No medical need,43
+Q201. What is the highest degree or level of school you have completed?,Alzarqa,Male,Masters,0
+Q201. What is the highest degree or level of school you have completed?,Alzarqa,Male,Did not attend school but can read and write,5
+Q201. What is the highest degree or level of school you have completed?,Alzarqa,Male,Ph.D.,0
+Q201. What is the highest degree or level of school you have completed?,Alzarqa,Male,Did not attend school (cannot write and read),1
+Q201. What is the highest degree or level of school you have completed?,Alzarqa,Male,Primary school certificate,28
+Q201. What is the highest degree or level of school you have completed?,Alzarqa,Male,Diploma,2
+Q201. What is the highest degree or level of school you have completed?,Alzarqa,Male,University degree,4
+Q201. What is the highest degree or level of school you have completed?,Alzarqa,Male,Secondary school certificate,7
+Q201. What is the highest degree or level of school you have completed?,Alzarqa,Female,Masters,0
+Q201. What is the highest degree or level of school you have completed?,Alzarqa,Female,Did not attend school but can read and write,7
+Q201. What is the highest degree or level of school you have completed?,Alzarqa,Female,Ph.D.,0
+Q201. What is the highest degree or level of school you have completed?,Alzarqa,Female,Did not attend school (cannot write and read),1
+Q201. What is the highest degree or level of school you have completed?,Alzarqa,Female,Primary school certificate,46
+Q201. What is the highest degree or level of school you have completed?,Alzarqa,Female,Diploma,2
+Q201. What is the highest degree or level of school you have completed?,Alzarqa,Female,University degree,1
+Q201. What is the highest degree or level of school you have completed?,Alzarqa,Female,Secondary school certificate,8
+Q201. What is the highest degree or level of school you have completed?,Amman,Male,Masters,1
+Q201. What is the highest degree or level of school you have completed?,Amman,Male,Did not attend school but can read and write,9
+Q201. What is the highest degree or level of school you have completed?,Amman,Male,Ph.D.,1
+Q201. What is the highest degree or level of school you have completed?,Amman,Male,Did not attend school (cannot write and read),13
+Q201. What is the highest degree or level of school you have completed?,Amman,Male,Primary school certificate,132
+Q201. What is the highest degree or level of school you have completed?,Amman,Male,Diploma,7
+Q201. What is the highest degree or level of school you have completed?,Amman,Male,University degree,2
+Q201. What is the highest degree or level of school you have completed?,Amman,Male,Secondary school certificate,14
+Q201. What is the highest degree or level of school you have completed?,Amman,Female,Masters,0
+Q201. What is the highest degree or level of school you have completed?,Amman,Female,Did not attend school but can read and write,26
+Q201. What is the highest degree or level of school you have completed?,Amman,Female,Ph.D.,0
+Q201. What is the highest degree or level of school you have completed?,Amman,Female,Did not attend school (cannot write and read),35
+Q201. What is the highest degree or level of school you have completed?,Amman,Female,Primary school certificate,195
+Q201. What is the highest degree or level of school you have completed?,Amman,Female,Diploma,2
+Q201. What is the highest degree or level of school you have completed?,Amman,Female,University degree,8
+Q201. What is the highest degree or level of school you have completed?,Amman,Female,Secondary school certificate,19
+Q201. What is the highest degree or level of school you have completed?,AlMafraq,Male,Masters,0
+Q201. What is the highest degree or level of school you have completed?,AlMafraq,Male,Did not attend school but can read and write,11
+Q201. What is the highest degree or level of school you have completed?,AlMafraq,Male,Ph.D.,0
+Q201. What is the highest degree or level of school you have completed?,AlMafraq,Male,Did not attend school (cannot write and read),14
+Q201. What is the highest degree or level of school you have completed?,AlMafraq,Male,Primary school certificate,33
+Q201. What is the highest degree or level of school you have completed?,AlMafraq,Male,Diploma,2
+Q201. What is the highest degree or level of school you have completed?,AlMafraq,Male,University degree,1
+Q201. What is the highest degree or level of school you have completed?,AlMafraq,Male,Secondary school certificate,4
+Q201. What is the highest degree or level of school you have completed?,AlMafraq,Female,Masters,0
+Q201. What is the highest degree or level of school you have completed?,AlMafraq,Female,Did not attend school but can read and write,13
+Q201. What is the highest degree or level of school you have completed?,AlMafraq,Female,Ph.D.,0
+Q201. What is the highest degree or level of school you have completed?,AlMafraq,Female,Did not attend school (cannot write and read),35
+Q201. What is the highest degree or level of school you have completed?,AlMafraq,Female,Primary school certificate,89
+Q201. What is the highest degree or level of school you have completed?,AlMafraq,Female,Diploma,0
+Q201. What is the highest degree or level of school you have completed?,AlMafraq,Female,University degree,2
+Q201. What is the highest degree or level of school you have completed?,AlMafraq,Female,Secondary school certificate,6
+Q201. What is the highest degree or level of school you have completed?,Irbid,Male,Masters,0
+Q201. What is the highest degree or level of school you have completed?,Irbid,Male,Did not attend school but can read and write,5
+Q201. What is the highest degree or level of school you have completed?,Irbid,Male,Ph.D.,0
+Q201. What is the highest degree or level of school you have completed?,Irbid,Male,Did not attend school (cannot write and read),6
+Q201. What is the highest degree or level of school you have completed?,Irbid,Male,Primary school certificate,132
+Q201. What is the highest degree or level of school you have completed?,Irbid,Male,Diploma,9
+Q201. What is the highest degree or level of school you have completed?,Irbid,Male,University degree,7
+Q201. What is the highest degree or level of school you have completed?,Irbid,Male,Secondary school certificate,21
+Q201. What is the highest degree or level of school you have completed?,Irbid,Female,Masters,0
+Q201. What is the highest degree or level of school you have completed?,Irbid,Female,Did not attend school but can read and write,11
+Q201. What is the highest degree or level of school you have completed?,Irbid,Female,Ph.D.,0
+Q201. What is the highest degree or level of school you have completed?,Irbid,Female,Did not attend school (cannot write and read),11
+Q201. What is the highest degree or level of school you have completed?,Irbid,Female,Primary school certificate,182
+Q201. What is the highest degree or level of school you have completed?,Irbid,Female,Diploma,1
+Q201. What is the highest degree or level of school you have completed?,Irbid,Female,University degree,2
+Q201. What is the highest degree or level of school you have completed?,Irbid,Female,Secondary school certificate,28
