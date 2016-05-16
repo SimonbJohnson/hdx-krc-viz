@@ -27,8 +27,17 @@
 	font-weight:800;
 }
 
+.numberlabelsmall {
+  font-size:12px;
+  font-weight:400;
+}
+
 #map {
 	height:500px;
+}
+
+#graph {
+  min-height:500px;
 }
 
 #aggregators{
@@ -61,6 +70,7 @@
 	margin-right:20px;
 }
 
-.rightspace {
-	margin-right:20px;
+.radio {
+  display:inline-block;
+  margin-top:0px !important;
 }
