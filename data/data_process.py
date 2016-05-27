@@ -69,10 +69,10 @@ def flattenOutput(data,output,line):
     
 print "Start"
 #krc
-questions = ["What is the main source of drinking water for members of your household?","Main Occupation of the Household Head _ HH","Where do you store water for drinking?","What do you usually do to make the water safer to drink?"]
-aggregatorList = ["Ward"]
-headers = ['Question','Location','Answer','Count'];
-with open('BIDP-Final_Data3.csv', 'rb') as csvfile:
+#questions = ["What is the main source of drinking water for members of your household?","Main Occupation of the Household Head _ HH","Where do you store water for drinking?","What do you usually do to make the water safer to drink?"]
+#aggregatorList = ["Ward"]
+#headers = ['Question','Location','Answer','Count'];
+#with open('BIDP-Final_Data3.csv', 'rb') as csvfile:
 
 #nepal
 #questions =['What is your biggest problem?','Are you satisfied with what NGOs are doing for you after the earthquake?','Are your main problems being addressed?','What is the top thing that you need information about?','Is support provided in a fair way?','Do_you_have_any_health_problem','Occupation']
@@ -86,12 +86,17 @@ with open('BIDP-Final_Data3.csv', 'rb') as csvfile:
 #headers = ['Question','Location','Sex','Answer','Count']
 #with open('unicef_jordan.csv', 'rb') as csvfile:
 
+#Tanzania
+questions = ["hh_size","hh_children","asset_elec","asset_water","income_source"]
+aggregatorList = ["wardcode"]
+headers = ['Question','Location','Answer','Count'];
+with open('TZ15_hhld.csv', 'rb') as csvfile:
 
     contents = list(list(rec) for rec in csv.reader(csvfile, delimiter=','))
 
 data = aggQuestions(questions,aggregatorList,contents)
 output = flattenOutput(data,[],[])
-with open('resultskrc.csv',"w") as csvfile:
+with open('tanzania.csv',"w") as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow(headers)
     writer.writerows(output)
