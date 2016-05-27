@@ -1,8 +1,14 @@
+//to do
+// put dropdowns into separate divs to break on mobile
+// turn radio buttons to buttons
+
 //Nepal
 /*
 var config = {
 	aggregators: ['Round'],
 	color:'#b71c1c',
+	colorbutton:'#EF5350',
+	colorfont:'#ffffff',
 	mapcolors:['#cccccc','#FFCDD2','#E57373','#F44336','#B71C1C'],
 	locations:'Location',
 	datafile:'data/resultsnepal.csv',
@@ -16,6 +22,8 @@ var config = {
 var config = {
 	aggregators: [],
 	color:'#b71c1c',
+	colorbutton:'#EF5350',
+	colorfont:'#ffffff',
 	mapcolors:['#cccccc','#FFCDD2','#E57373','#F44336','#B71C1C'],
 	locations:'Location',
 	datafile:'data/resultskrc.csv',
@@ -39,6 +47,9 @@ var map;
 var overlay;
 var mapon = false;
 
+
+// load data for dashboard
+
 function loadData(){
 
 	var dataCall = $.ajax({ 
@@ -59,25 +70,39 @@ function loadData(){
 
 }
 
+// loaded data pass to dash and crossfilter created to obtain questions
+// crossfilter also used to get subset of filtered question
+
 function initDash(data,geom){
 
+	// crossfilter of data
 	cf = crossfilter(data);
+
+	// questions dimensionalised and grouped
 	cf.questionsDim = cf.dimension(function(d){return d['Question']});
 
 	cf.questionsGroup = cf.questionsDim.group();
 
+	// get list of unique questions
 	var questions = cf.questionsGroup.all().map(function(v,i){
 		return v.key;
 	});
 
+	// generated question list and if clicked generated graph for question
 	questions.forEach(function(q,i){
 		$('#questions').append('<div id="question'+i+'" class="questionbox">'+q+'</div>');
 		$('#question'+i).on('click',function(){
 			cf.questionsDim.filter(q);
 			$('#question').html(q);
 			genQuestion(cf.questionsDim.top(Infinity));
+			if($(window).width()<940){
+				$(".questionbox").hide();
+				$("#collapse").show();
+			}
 		})
 	});
+
+	// render first question be default
 
 	cf.questionsDim.filter(questions[0]);
 	$('#question').html(questions[0]);
@@ -86,89 +111,130 @@ function initDash(data,geom){
 	
 }
 
+// question initialisation
+
 function genQuestion(data){
 
+	// create crossfilter of subset
 	var cf = crossfilter(data);
 	cf.data = data;
 	cf.aggs = [];
 	
+	// create answer dimension
 	cf.answersDim = cf.dimension(function(d){return d['Answer']});
 	
-
+	// aggregators are the dimensions for filtering.  These include the location, answers and aggregators element
 	aggregators = [config.locations,'Answer'].concat(config.aggregators);
 
+	//create crossfilter dimension for each aggregator
 	aggregators.forEach(function(agg,i){
 		cf.aggs[agg] = {};
 		cf.aggs[agg].dim = cf.dimension(function(d){return d[agg]});
 		cf.aggs[agg].values = cf.aggs[agg].dim.group().all().map(function(v,i){return v.key;});	
 	});
 
+	// create groups to display graphs + map
 	cf.answersGroup = cf.aggs['Answer'].dim.group().reduceSum(function(d){return d['Count']});
 	cf.locationsGroup = cf.aggs[config.locations].dim.group().reduceSum(function(d){return d['Count']});
 	
+	// drop down generated for graphs (map has answers, but not locations in dropdown)
 	genDropdowns(cf,[config.locations].concat(config.aggregators));
 	
+	// data for graph
 	var data = cf.answersGroup.all();
 
+	// get total of respondents
 	var total=0;
 	data.forEach(function(d){
 			total+=d.value
 	});
 
 	$('#total').html(total+' respondants');
-	var mapData = cf.locationsGroup.all();
-	totalperlocation = {};
-	mapData.forEach(function(d){
-		totalperlocation[d.key] =d.value;
-	});
+
+	// set radio buttons to default graph
 	$("input[type=radio][name=chart][value=bar]").prop('checked',true);
 	
+	//make sure graphs is showing and map isn't
 	$('#graph').show();
 	$('#map').hide();
-	/*
-	if($('input[type=radio][name=chart]:checked').val()=='ci'){
-		confidenceGraph(data);
-	} else if($('input[type=radio][name=chart]:checked').val()=='bar'){
-		drawGraph(data,false)
-	} else if($('input[type=radio][name=chart]:checked').val()=='barper'){
-		drawGraph(data,true)
-	}*/
+
+	// draw default graph
 	drawGraph(data,false);
-	$('#charts').html('<input class="charttype" type="radio" name="chart" value="bar" checked><span class="rightspace"> Bar Chart</span><input class="charttype" type="radio" name="chart" value="barper"><span class="rightspace"> Bar Chart (percent)</span><input class="charttype" type="radio" name="chart" value="ci"><span class="rightspace"> 95% confidence intervals </span><input class="charttype" type="radio" name="chart" value="map"> Map');
+
+	//add radio buttons for chart type
+	//$('#charts').html('<div class="radio"><input class="charttype" type="radio" name="chart" value="bar" checked><span class="rightspace"> Bar Chart</span></div><div class="radio"><input class="charttype" type="radio" name="chart" value="barper"><span class="rightspace"> Bar Chart (percent)</span></div><div class="radio"><input class="charttype" type="radio" name="chart" value="ci"><span class="rightspace"> 95% confidence intervals </span></div><div class="radio"><input class="charttype" type="radio" name="chart" value="map"> Map</div>');
+	$('#charts').html('<div><button id="barchart" class="chartbutton btn btn-default">Bar chart</button><button id="barper" class="chartbutton btn btn-default">Bar chart (percent)</button><button id="cichart" class="chartbutton btn btn-default">Confidence intervals</button><button id="mapchart" class="chartbutton btn btn-default">Map</button></div>');
+	$('.chartbutton').css({
+			'background-color':config.color,
+			'color':config.colorfont});
+		$('.questbutton').css({
+			'background-color':config.color,
+			'color':config.colorfont});
+	//redraw graph on window change
+	$(window).on('resize',function(){
+		drawGraph(data,false);
+	});
+
+	// generate new graph/map for radio button change
 	$('.charttype').on('change',function(){changeRadio(cf);});
 
-	function changeRadio(cf){
-        if($('input[type=radio][name=chart]:checked').val()=='ci'){			
+	$('.chartbutton').on('click',function(e){
+		changeChart(cf,e.currentTarget.id);
+	})
+}
+
+// action on choosing new graph type
+
+function changeChart(cf,chart){
+
+		//data for graphs
+		var data = cf.answersGroup.all();
+
+		//data for map
+		var mapData = cf.locationsGroup.all();
+			totalperlocation = {};
+			mapData.forEach(function(d){
+				totalperlocation[d.key] =d.value;
+		});
+		currentChart = chart;
+		// draw correct graph type and change dropdowns if appropriate
+        if(chart=='cichart'){			
 			$('#graph').show();
-			$('#map').hide();
+			$('#map').hide(); 
 			if(mapon){
 				mapon = false;
 				updateDropdowns(cf,config.locations);
 			}			
 			confidenceGraph(data);
-		} else if($('input[type=radio][name=chart]:checked').val()=='bar'){
+			$(window).on('resize',function(){
+				confidenceGraph(data);
+			});
+		} else if(chart=='barchart'){
 			$('#graph').show();
 			$('#map').hide();
 			if(mapon){
 				mapon = false;
-				console.log('bar');
-				console.log(cf);
 				updateDropdowns(cf,config.locations);
 			}			
 			drawGraph(data,false);
-		} else if($('input[type=radio][name=chart]:checked').val()=='barper'){			
+			$(window).on('resize',function(){
+				drawGraph(data,false);
+			});
+		} else if(chart=='barper'){			
 			$('#graph').show();
 			$('#map').hide();
 			if(mapon){
 				mapon = false;
 				updateDropdowns(cf,config.locations);
 			}
-			drawGraph(data,true);			
-		}  else if($('input[type=radio][name=chart]:checked').val()=='map'){
+			drawGraph(data,true);
+			$(window).on('resize',function(){
+				console.log('resize');
+				drawGraph(data,true);
+			});			
+		}  else if(chart=='mapchart'){
 			$('#graph').hide();
 			$('#map').show();
-			console.log('map');
-			console.log(cf);
 			updateDropdowns(cf,'Answer');
 			mapon = true;
 			updateMap(cf.locationsGroup.all(),cf);
@@ -176,7 +242,8 @@ function genQuestion(data){
 			map.fitBounds(overlay.getBounds());		
 		} 		
 	}
-}
+
+// generate drop downs	
 
 function genDropdowns(cf,aggs){
 
@@ -185,21 +252,31 @@ function genDropdowns(cf,aggs){
 		createDropdown(cf.aggs[agg].values,cf,i,agg);
 	});
 
-	$('#aggregators').append('<span id="total"></span>');
+	$('#aggregators').append('<div class="col-md-4"><span id="total"></span></div>');
 
 	
 }
 
+// function to change dropdown on graph/map switch
+
 function updateDropdowns(cf,agg){
+
+	// clear filters
+
 	cf.aggs['Answer'].dim.filter();
 	cf.aggs[config.locations].dim.filter();
+
+	// list of values created
 	answers = cf.aggs[agg].values;
+
+	// if locations include answer for no filter otherwise filter to first answer
 	if(agg!="Answer"){
 		answers = ['No filter'].concat(answers);
 	} else {
 		cf.aggs[agg].dim.filter(answers[0]);
 	}
 
+	// create html drop down
 	var html = agg+': <select id="aggchange" class="rightspace">';
 
 	answers.forEach(function(a){
@@ -208,8 +285,11 @@ function updateDropdowns(cf,agg){
 
 	html = html + '</option>';
 
+	// insert new dropdown
 	$('#changeagg').html(html);
 
+
+	//add on change event on drop down
 	$('#aggchange').on('change',function(){
 		if(this.value=='No filter'){
 			cf.aggs[agg].dim.filter();
@@ -217,19 +297,26 @@ function updateDropdowns(cf,agg){
 			cf.aggs[agg].dim.filter(this.value);
 		}
 		var data = cf.answersGroup.all();
-		console.log('dropdown');
-		console.log(cf);
-		if($('input[type=radio][name=chart]:checked').val()=='ci'){
+		if(currentChart=='cichart'){
 			confidenceGraph(data);		
-		} else if($('input[type=radio][name=chart]:checked').val()=='bar'){
+		} else if(currentChart=='bar'){
 			drawGraph(data,false);		
-		} else if($('input[type=radio][name=chart]:checked').val()=='barper'){
+		} else if(currentChart=='barper'){
 			drawGraph(data,true);
-		} else if($('input[type=radio][name=chart]:checked').val()=='map'){
+		} else if(currentChart=='mapchart'){
+			var data = cf.locationsGroup.all();
+			var total=0;
+			data.forEach(function(d){
+				total+=d.value
+			});
+			$('#total').html(total+' respondants');
+			
 			updateMap(cf.locationsGroup.all(),cf);
 		}		
 	});		
 }
+
+
 
 function createDropdown(answers,cf,i,agg){
 	if(agg!="Answer"){
@@ -238,10 +325,10 @@ function createDropdown(answers,cf,i,agg){
 		cf.aggs[agg].dim.filter(answers[0]);
 	}
 	if(agg=="Answer" || agg==config.locations){
-		var html = '<span id="changeagg">'+agg+': <select id="aggchange" class="rightspace">';
+		var html = '<div class="col-md-4"><span id="changeagg">'+agg+': <select id="aggchange" class="rightspace">';
 		var id = 'change';
 	} else {
-		var html = agg+': <select id="agg'+i+'" class="rightspace">';
+		var html = '<div class="col-md-4">'+agg+': <select id="agg'+i+'" class="rightspace">';
 		var id = i;
 	}
 
@@ -253,6 +340,7 @@ function createDropdown(answers,cf,i,agg){
 	if(agg=="Answer" || agg==config.locations){
 		html = html +"</span>"
 	}
+	html += '</div>';
 	$('#aggregators').append(html);
 
 	$('#agg'+id).on('change',function(){
@@ -266,16 +354,16 @@ function createDropdown(answers,cf,i,agg){
 			data.forEach(function(d){
 				total+=d.value
 			});
-		if($('input[type=radio][name=chart]:checked').val()=='ci'){
+		if(currentChart=='cichart'){
 			$('#total').html(total+' respondants');
 			confidenceGraph(data);		
-		} else if($('input[type=radio][name=chart]:checked').val()=='bar'){
+		} else if(currentChart=='barchart'){
 			$('#total').html(total+' respondants');
 			drawGraph(data);		
-		} else if($('input[type=radio][name=chart]:checked').val()=='barper'){
+		} else if(currentChart=='barper'){
 			$('#total').html(total+' respondants');
 			drawGraph(data,true);
-		} else if($('input[type=radio][name=chart]:checked').val()=='map'){
+		} else if(currentChart=='mapchart'){
 			var data = cf.locationsGroup.all();
 			var total=0;
 			data.forEach(function(d){
@@ -291,12 +379,14 @@ function drawGraph(data,percent){
 
 	$('#graph').html('');
 
+	data = shortenKey(data);
+
 	var total=0
 	data.forEach(function(d){
 		total += d.value;
 	});
 
-	var margin = {top: 40, right: 30, bottom: 150, left: 50},
+	var margin = {top: 40, right: 30, bottom: 200, left: 50},
 		width = $("#graph").width() - margin.left - margin.right,
 		height =  450 - margin.top - margin.bottom;
 		
@@ -332,7 +422,7 @@ function drawGraph(data,percent){
 		.selectAll("text")  
 		.style("text-anchor", "end")
 		 .attr("transform", function(d) {
-		    return "rotate(-35)" 
+		    return "rotate(-50)" 
 		});			    		    
 
 	svg.append("g").selectAll("rect")
@@ -353,6 +443,9 @@ function drawGraph(data,percent){
 	    .attr("y", function(d) {if(height-y(d.value)<30){
 	    		return y(d.value)-10;
 	    	}
+	    	if(x.rangeBand()<60){
+	    		return y(d.value)-10;
+	    	}
 	    	return y(d.value)+25;	    		
 	    })
 	    .text(function(d){
@@ -363,8 +456,17 @@ function drawGraph(data,percent){
 	    	}	        
 	    })
 	    .style("text-anchor", "middle")
-	    .attr("class","numberlabel")
+	    .attr("class",function(d){
+	    	if(x.rangeBand()>60){
+	    		return "numberlabel"
+	    	} else {
+	    		return "numberlabelsmall"
+	    	}
+	    })
 	    .attr("fill",function(d) {if(height-y(d.value)<30){
+	    		return '#000000'
+	    	}
+	    	if(x.rangeBand()<60){
 	    		return '#000000'
 	    	}
 	    	return '#ffffff';	    		
@@ -374,6 +476,8 @@ function drawGraph(data,percent){
 function confidenceGraph(data,confidence){
 	var total = 0;
 	confidence = 1.96;
+
+	data = shortenKey(data);
 
 	data.forEach(function(d){
 		total += d.value;
@@ -393,7 +497,7 @@ function confidenceGraph(data,confidence){
 	});
 	$('#graph').html('');
 
-	var margin = {top: 40, right: 30, bottom: 150, left: 50},
+	var margin = {top: 40, right: 30, bottom: 200, left: 50},
 		width = $("#graph").width() - margin.left - margin.right,
 		height =  450 - margin.top - margin.bottom;
 		
@@ -433,7 +537,7 @@ function confidenceGraph(data,confidence){
 		.selectAll("text")  
 		.style("text-anchor", "end")
 		 .attr("transform", function(d) {
-		    return "rotate(-35)" 
+		    return "rotate(-50)" 
 		});
 
 	svg.append("g").selectAll("rect")
@@ -501,7 +605,13 @@ function confidenceGraph(data,confidence){
 	    	return d3.format(".1%")(d.upper);        
 	    })
 	    .style("text-anchor", "middle")
-	    .attr("class","numberlabel")
+	    .attr("class",function(d){
+	    	if(x.rangeBand()>60){
+	    		return "numberlabel"
+	    	} else {
+	    		return "numberlabelsmall"
+	    	}
+	    })
 	    .attr("fill",function(d) {return '#000000';});
 
 	svg.append("g").selectAll("text")
@@ -514,7 +624,13 @@ function confidenceGraph(data,confidence){
 	    	return d3.format(".1%")(d.lower);        
 	    })
 	    .style("text-anchor", "middle")
-	    .attr("class","numberlabel")
+	    .attr("class",function(d){
+	    	if(x.rangeBand()>60){
+	    		return "numberlabel"
+	    	} else {
+	    		return "numberlabelsmall"
+	    	}
+	    })
 	    .attr("fill",function(d) {return '#000000';});	    
 }
 
@@ -588,6 +704,15 @@ function createMap(geom){
 	}
 }
 
+function shortenKey(data){
+	data.forEach(function(d){
+		if(d.key.length>32){
+			d.key = d.key.substring(0,30)+'...';
+		}
+	})
+	return data
+}
+
 function updateMap(data,cf){
 	var total = 0;
 	confidence = 1.96;
@@ -630,5 +755,10 @@ function updateMap(data,cf){
 }
 
 var cf;
-
+var currentChart='barchart';
+$('#collapse').hide();
+$('#expand').on('click',function(){
+	$('.questionbox').show();
+	$('#collapse').hide();
+});
 loadData();

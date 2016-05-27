@@ -15,7 +15,7 @@
 }
 
 .questionbox {
-	height:80;
+	min-height:80;
 	border-bottom-width:1px;
 	border-bottom-color:#ddd;
 	border-bottom-style:solid;
@@ -73,4 +73,10 @@
 .radio {
   display:inline-block;
   margin-top:0px !important;
+}
+
+.chartbutton{
+  margin-right:15px;
+  margin-bottom:10px;
+  width:200px;
 }
