@@ -101,6 +101,11 @@ function initDash(data,geom){
 			}
 		})
 	});
+	console.log($(window).width());
+	if($(window).width()<940){
+		$(".questionbox").hide();
+		$("#collapse").show();
+	}
 
 	// render first question be default
 
