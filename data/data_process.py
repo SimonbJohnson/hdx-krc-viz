@@ -69,10 +69,10 @@ def flattenOutput(data,output,line):
     
 print "Start"
 #krc
-#questions = ["What is the main source of drinking water for members of your household?","Main Occupation of the Household Head _ HH","Where do you store water for drinking?","What do you usually do to make the water safer to drink?"]
-#aggregatorList = ["Ward"]
-#headers = ['Question','Location','Answer','Count'];
-#with open('BIDP-Final_Data3.csv', 'rb') as csvfile:
+questions = ["What is the main source of drinking water for members of your household?","Main Occupation of the Household Head _ HH","What is your main current source of income","Where do you store water for drinking?","What do you usually do to make the water safer to drink?","What is the trekking distance to the current main water source?","Who usually goes to this source to fetch water","What is the main reason you are not satisfied with the water supply?","Information on the importance of hand washing with soap has never been given to you","What is your main mode of human waste disposal?","Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)","Most people you know only wash their hands with soap after going to the toilet","The last time [NAME OF YOUNGEST CHILD] passed stools, what was done to dispose of the stools?","How many mosquito nets does this household have?  ____________________","In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?","In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?","In the last one month, have you or anyone in your household gone to bed without food due to lack of it?","What is the average size of land you own?","In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?"]
+aggregatorList = ["Ward"]
+headers = ['Question','Location','Answer','Count'];
+with open('BIDP-Final_Data3.csv', 'rb') as csvfile:
 
 #nepal
 #questions =['What is your biggest problem?','Are you satisfied with what NGOs are doing for you after the earthquake?','Are your main problems being addressed?','What is the top thing that you need information about?','Is support provided in a fair way?','Do_you_have_any_health_problem','Occupation']
@@ -87,16 +87,16 @@ print "Start"
 #with open('unicef_jordan.csv', 'rb') as csvfile:
 
 #Tanzania
-questions = ["hh_size","hh_children","asset_elec","asset_water","income_source"]
-aggregatorList = ["wardcode"]
-headers = ['Question','Location','Answer','Count'];
-with open('TZ15_hhld.csv', 'rb') as csvfile:
+#questions = ["hh_size","hh_children","asset_elec","asset_water","income_source"]
+#aggregatorList = ["wardcode"]
+#headers = ['Question','Location','Answer','Count'];
+#with open('TZ15_hhld.csv', 'rb') as csvfile:
 
     contents = list(list(rec) for rec in csv.reader(csvfile, delimiter=','))
 
 data = aggQuestions(questions,aggregatorList,contents)
 output = flattenOutput(data,[],[])
-with open('tanzania.csv',"w") as csvfile:
+with open('resultskrc.csv',"w") as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow(headers)
     writer.writerows(output)

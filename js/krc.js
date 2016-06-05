@@ -1,6 +1,5 @@
 //to do
-// put dropdowns into separate divs to break on mobile
-// turn radio buttons to buttons
+// questions in right order and clean question variables
 
 //Nepal
 /*
@@ -148,14 +147,6 @@ function genQuestion(data){
 	// data for graph
 	var data = cf.answersGroup.all();
 
-	// get total of respondents
-	var total=0;
-	data.forEach(function(d){
-			total+=d.value
-	});
-
-	$('#total').html(total+' respondants');
-
 	// set radio buttons to default graph
 	$("input[type=radio][name=chart][value=bar]").prop('checked',true);
 	
@@ -302,20 +293,15 @@ function updateDropdowns(cf,agg){
 			cf.aggs[agg].dim.filter(this.value);
 		}
 		var data = cf.answersGroup.all();
+
 		if(currentChart=='cichart'){
 			confidenceGraph(data);		
-		} else if(currentChart=='bar'){
+		} else if(currentChart=='barchart'){
 			drawGraph(data,false);		
 		} else if(currentChart=='barper'){
 			drawGraph(data,true);
 		} else if(currentChart=='mapchart'){
-			var data = cf.locationsGroup.all();
-			var total=0;
-			data.forEach(function(d){
-				total+=d.value
-			});
-			$('#total').html(total+' respondants');
-			
+			var data = cf.locationsGroup.all();			
 			updateMap(cf.locationsGroup.all(),cf);
 		}		
 	});		
@@ -355,26 +341,13 @@ function createDropdown(answers,cf,i,agg){
 			cf.aggs[agg].dim.filter(this.value);
 		}
 		var data = cf.answersGroup.all();
-		var total=0;
-			data.forEach(function(d){
-				total+=d.value
-			});
 		if(currentChart=='cichart'){
-			$('#total').html(total+' respondants');
 			confidenceGraph(data);		
 		} else if(currentChart=='barchart'){
-			$('#total').html(total+' respondants');
 			drawGraph(data);		
 		} else if(currentChart=='barper'){
-			$('#total').html(total+' respondants');
 			drawGraph(data,true);
 		} else if(currentChart=='mapchart'){
-			var data = cf.locationsGroup.all();
-			var total=0;
-			data.forEach(function(d){
-				total+=d.value
-			});
-			$('#total').html(total+' respondants');
 			updateMap(cf.locationsGroup.all(),cf);
 		}		
 	});
@@ -390,10 +363,10 @@ function drawGraph(data,percent){
 	data.forEach(function(d){
 		total += d.value;
 	});
-
+	$('#total').html(total+' respondants');
 	var margin = {top: 40, right: 30, bottom: 200, left: 50},
 		width = $("#graph").width() - margin.left - margin.right,
-		height =  450 - margin.top - margin.bottom;
+		height =  430 - margin.top - margin.bottom;
 		
  	var x = d3.scale.ordinal()
         .rangeRoundBands([0, width]);
@@ -487,7 +460,7 @@ function confidenceGraph(data,confidence){
 	data.forEach(function(d){
 		total += d.value;
 	});
-
+	$('#total').html(total+' respondants');
 	data.forEach(function(d){
 		var p = d.value/total;
 		var se = Math.pow((p*(1-p)/total),0.5);
@@ -504,7 +477,7 @@ function confidenceGraph(data,confidence){
 
 	var margin = {top: 40, right: 30, bottom: 200, left: 50},
 		width = $("#graph").width() - margin.left - margin.right,
-		height =  450 - margin.top - margin.bottom;
+		height =  430 - margin.top - margin.bottom;
 		
  	var x = d3.scale.ordinal()
         .rangeRoundBands([0, width]);
@@ -537,7 +510,7 @@ function confidenceGraph(data,confidence){
 
     svg.append("g")
 		.attr("class", "x axis baraxis")
-		.attr("transform", "translate(0," + (height+15) + ")")
+		.attr("transform", "translate(0," + (height+20) + ")")
 		.call(xAxis)
 		.selectAll("text")  
 		.style("text-anchor", "end")
@@ -636,7 +609,9 @@ function confidenceGraph(data,confidence){
 	    		return "numberlabelsmall"
 	    	}
 	    })
-	    .attr("fill",function(d) {return '#000000';});	    
+	    .attr("fill",function(d) {return '#000000';});
+
+	$('#graph').append('<p>Confidence intervals calculated for simple random sample method.  Visual not appropriate for other sample methods.</p>');	    
 }
 
 function createMap(geom){
@@ -720,6 +695,13 @@ function shortenKey(data){
 
 function updateMap(data,cf){
 	var total = 0;
+
+	data.forEach(function(d){
+		total+=d.value
+	});
+
+	$('#total').html(total+' respondants');
+
 	confidence = 1.96;
 	var hash = {};
 
@@ -759,8 +741,25 @@ function updateMap(data,cf){
 
 }
 
+
+function stickydiv(){
+    var window_top = $(window).scrollTop();
+    var div_top = $('#sticky-anchor').offset().top;
+    if (window_top > div_top && $(window).width()>=940){
+        $('#analysis').addClass('sticky');
+    }
+    else{
+        $('#analysis').removeClass('sticky');
+    }
+};
+
 var cf;
 var currentChart='barchart';
+
+$(window).scroll(function(){
+    stickydiv();
+}); 
+
 $('#collapse').hide();
 $('#expand').on('click',function(){
 	$('.questionbox').show();
