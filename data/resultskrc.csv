@@ -1,1071 +1,1 @@
-Question,Location,Answer,Count
-Q) What is your main mode of human waste disposal?,Sigor,Pit latrine (covered/uncovered),95
-Q) What is your main mode of human waste disposal?,Sigor,Septic tank,0
-Q) What is your main mode of human waste disposal?,Sigor,Bush,2
-Q) What is your main mode of human waste disposal?,Sigor,Other,1
-Q) What is your main mode of human waste disposal?,Sigor,Vip pit latrine,0
-Q) What is your main mode of human waste disposal?,Sigor,Main sewer,0
-Q) What is your main mode of human waste disposal?,Siongiroi,Pit latrine (covered/uncovered),80
-Q) What is your main mode of human waste disposal?,Siongiroi,Septic tank,0
-Q) What is your main mode of human waste disposal?,Siongiroi,Bush,2
-Q) What is your main mode of human waste disposal?,Siongiroi,Other,0
-Q) What is your main mode of human waste disposal?,Siongiroi,Vip pit latrine,2
-Q) What is your main mode of human waste disposal?,Siongiroi,Main sewer,0
-Q) What is your main mode of human waste disposal?,Singorwet,Pit latrine (covered/uncovered),54
-Q) What is your main mode of human waste disposal?,Singorwet,Septic tank,0
-Q) What is your main mode of human waste disposal?,Singorwet,Bush,0
-Q) What is your main mode of human waste disposal?,Singorwet,Other,0
-Q) What is your main mode of human waste disposal?,Singorwet,Vip pit latrine,5
-Q) What is your main mode of human waste disposal?,Singorwet,Main sewer,0
-Q) What is your main mode of human waste disposal?,Silibwet Township,Pit latrine (covered/uncovered),74
-Q) What is your main mode of human waste disposal?,Silibwet Township,Septic tank,0
-Q) What is your main mode of human waste disposal?,Silibwet Township,Bush,0
-Q) What is your main mode of human waste disposal?,Silibwet Township,Other,1
-Q) What is your main mode of human waste disposal?,Silibwet Township,Vip pit latrine,1
-Q) What is your main mode of human waste disposal?,Silibwet Township,Main sewer,0
-Q) What is your main mode of human waste disposal?,Kong sis,Pit latrine (covered/uncovered),80
-Q) What is your main mode of human waste disposal?,Kong sis,Septic tank,0
-Q) What is your main mode of human waste disposal?,Kong sis,Bush,0
-Q) What is your main mode of human waste disposal?,Kong sis,Other,0
-Q) What is your main mode of human waste disposal?,Kong sis,Vip pit latrine,0
-Q) What is your main mode of human waste disposal?,Kong sis,Main sewer,0
-Q) What is your main mode of human waste disposal?,Nyangores,Pit latrine (covered/uncovered),91
-Q) What is your main mode of human waste disposal?,Nyangores,Septic tank,1
-Q) What is your main mode of human waste disposal?,Nyangores,Bush,3
-Q) What is your main mode of human waste disposal?,Nyangores,Other,1
-Q) What is your main mode of human waste disposal?,Nyangores,Vip pit latrine,5
-Q) What is your main mode of human waste disposal?,Nyangores,Main sewer,0
-Q) What is your main mode of human waste disposal?,Mutarakwa,Pit latrine (covered/uncovered),56
-Q) What is your main mode of human waste disposal?,Mutarakwa,Septic tank,0
-Q) What is your main mode of human waste disposal?,Mutarakwa,Bush,0
-Q) What is your main mode of human waste disposal?,Mutarakwa,Other,0
-Q) What is your main mode of human waste disposal?,Mutarakwa,Vip pit latrine,2
-Q) What is your main mode of human waste disposal?,Mutarakwa,Main sewer,0
-Q) What is your main mode of human waste disposal?,Chebunyo,Pit latrine (covered/uncovered),85
-Q) What is your main mode of human waste disposal?,Chebunyo,Septic tank,0
-Q) What is your main mode of human waste disposal?,Chebunyo,Bush,7
-Q) What is your main mode of human waste disposal?,Chebunyo,Other,0
-Q) What is your main mode of human waste disposal?,Chebunyo,Vip pit latrine,0
-Q) What is your main mode of human waste disposal?,Chebunyo,Main sewer,0
-Q) What is your main mode of human waste disposal?,Ndaraweta,Pit latrine (covered/uncovered),59
-Q) What is your main mode of human waste disposal?,Ndaraweta,Septic tank,0
-Q) What is your main mode of human waste disposal?,Ndaraweta,Bush,0
-Q) What is your main mode of human waste disposal?,Ndaraweta,Other,0
-Q) What is your main mode of human waste disposal?,Ndaraweta,Vip pit latrine,1
-Q) What is your main mode of human waste disposal?,Ndaraweta,Main sewer,0
-Q) What is your main mode of human waste disposal?,Cheseon,Pit latrine (covered/uncovered),86
-Q) What is your main mode of human waste disposal?,Cheseon,Septic tank,0
-Q) What is your main mode of human waste disposal?,Cheseon,Bush,0
-Q) What is your main mode of human waste disposal?,Cheseon,Other,0
-Q) What is your main mode of human waste disposal?,Cheseon,Vip pit latrine,5
-Q) What is your main mode of human waste disposal?,Cheseon,Main sewer,1
-I) What is the trekking distance to the current main water source?,Sigor,Less than 500m (Less than 15 minutes),76
-I) What is the trekking distance to the current main water source?,Sigor,More than 2km (1-2hrs),6
-I) What is the trekking distance to the current main water source?,Sigor,More than 1 km-less than 2km (30min-1 Hour),16
-I) What is the trekking distance to the current main water source?,Sigor, ,0
-I) What is the trekking distance to the current main water source?,Siongiroi,Less than 500m (Less than 15 minutes),75
-I) What is the trekking distance to the current main water source?,Siongiroi,More than 2km (1-2hrs),1
-I) What is the trekking distance to the current main water source?,Siongiroi,More than 1 km-less than 2km (30min-1 Hour),6
-I) What is the trekking distance to the current main water source?,Siongiroi, ,2
-I) What is the trekking distance to the current main water source?,Singorwet,Less than 500m (Less than 15 minutes),51
-I) What is the trekking distance to the current main water source?,Singorwet,More than 2km (1-2hrs),1
-I) What is the trekking distance to the current main water source?,Singorwet,More than 1 km-less than 2km (30min-1 Hour),6
-I) What is the trekking distance to the current main water source?,Singorwet, ,1
-I) What is the trekking distance to the current main water source?,Silibwet Township,Less than 500m (Less than 15 minutes),71
-I) What is the trekking distance to the current main water source?,Silibwet Township,More than 2km (1-2hrs),2
-I) What is the trekking distance to the current main water source?,Silibwet Township,More than 1 km-less than 2km (30min-1 Hour),3
-I) What is the trekking distance to the current main water source?,Silibwet Township, ,0
-I) What is the trekking distance to the current main water source?,Kong sis,Less than 500m (Less than 15 minutes),77
-I) What is the trekking distance to the current main water source?,Kong sis,More than 2km (1-2hrs),2
-I) What is the trekking distance to the current main water source?,Kong sis,More than 1 km-less than 2km (30min-1 Hour),1
-I) What is the trekking distance to the current main water source?,Kong sis, ,0
-I) What is the trekking distance to the current main water source?,Nyangores,Less than 500m (Less than 15 minutes),80
-I) What is the trekking distance to the current main water source?,Nyangores,More than 2km (1-2hrs),6
-I) What is the trekking distance to the current main water source?,Nyangores,More than 1 km-less than 2km (30min-1 Hour),12
-I) What is the trekking distance to the current main water source?,Nyangores, ,3
-I) What is the trekking distance to the current main water source?,Mutarakwa,Less than 500m (Less than 15 minutes),52
-I) What is the trekking distance to the current main water source?,Mutarakwa,More than 2km (1-2hrs),1
-I) What is the trekking distance to the current main water source?,Mutarakwa,More than 1 km-less than 2km (30min-1 Hour),2
-I) What is the trekking distance to the current main water source?,Mutarakwa, ,3
-I) What is the trekking distance to the current main water source?,Chebunyo,Less than 500m (Less than 15 minutes),78
-I) What is the trekking distance to the current main water source?,Chebunyo,More than 2km (1-2hrs),4
-I) What is the trekking distance to the current main water source?,Chebunyo,More than 1 km-less than 2km (30min-1 Hour),9
-I) What is the trekking distance to the current main water source?,Chebunyo, ,1
-I) What is the trekking distance to the current main water source?,Ndaraweta,Less than 500m (Less than 15 minutes),50
-I) What is the trekking distance to the current main water source?,Ndaraweta,More than 2km (1-2hrs),1
-I) What is the trekking distance to the current main water source?,Ndaraweta,More than 1 km-less than 2km (30min-1 Hour),7
-I) What is the trekking distance to the current main water source?,Ndaraweta, ,2
-I) What is the trekking distance to the current main water source?,Cheseon,Less than 500m (Less than 15 minutes),65
-I) What is the trekking distance to the current main water source?,Cheseon,More than 2km (1-2hrs),15
-I) What is the trekking distance to the current main water source?,Cheseon,More than 1 km-less than 2km (30min-1 Hour),10
-I) What is the trekking distance to the current main water source?,Cheseon, ,2
-B) What is the average size of land you own?,Sigor,2 - 5 acres,34
-B) What is the average size of land you own?,Sigor,5 - 10 acres,10
-B) What is the average size of land you own?,Sigor,0 - 2 acres,54
-B) What is the average size of land you own?,Sigor,More than 10 acres,0
-B) What is the average size of land you own?,Sigor,None,0
-B) What is the average size of land you own?,Siongiroi,2 - 5 acres,23
-B) What is the average size of land you own?,Siongiroi,5 - 10 acres,9
-B) What is the average size of land you own?,Siongiroi,0 - 2 acres,40
-B) What is the average size of land you own?,Siongiroi,More than 10 acres,10
-B) What is the average size of land you own?,Siongiroi,None,2
-B) What is the average size of land you own?,Singorwet,2 - 5 acres,15
-B) What is the average size of land you own?,Singorwet,5 - 10 acres,4
-B) What is the average size of land you own?,Singorwet,0 - 2 acres,39
-B) What is the average size of land you own?,Singorwet,More than 10 acres,1
-B) What is the average size of land you own?,Singorwet,None,0
-B) What is the average size of land you own?,Silibwet Township,2 - 5 acres,9
-B) What is the average size of land you own?,Silibwet Township,5 - 10 acres,7
-B) What is the average size of land you own?,Silibwet Township,0 - 2 acres,59
-B) What is the average size of land you own?,Silibwet Township,More than 10 acres,0
-B) What is the average size of land you own?,Silibwet Township,None,1
-B) What is the average size of land you own?,Kong sis,2 - 5 acres,28
-B) What is the average size of land you own?,Kong sis,5 - 10 acres,10
-B) What is the average size of land you own?,Kong sis,0 - 2 acres,39
-B) What is the average size of land you own?,Kong sis,More than 10 acres,2
-B) What is the average size of land you own?,Kong sis,None,1
-B) What is the average size of land you own?,Nyangores,2 - 5 acres,30
-B) What is the average size of land you own?,Nyangores,5 - 10 acres,12
-B) What is the average size of land you own?,Nyangores,0 - 2 acres,54
-B) What is the average size of land you own?,Nyangores,More than 10 acres,1
-B) What is the average size of land you own?,Nyangores,None,4
-B) What is the average size of land you own?,Mutarakwa,2 - 5 acres,14
-B) What is the average size of land you own?,Mutarakwa,5 - 10 acres,4
-B) What is the average size of land you own?,Mutarakwa,0 - 2 acres,38
-B) What is the average size of land you own?,Mutarakwa,More than 10 acres,2
-B) What is the average size of land you own?,Mutarakwa,None,0
-B) What is the average size of land you own?,Chebunyo,2 - 5 acres,26
-B) What is the average size of land you own?,Chebunyo,5 - 10 acres,9
-B) What is the average size of land you own?,Chebunyo,0 - 2 acres,53
-B) What is the average size of land you own?,Chebunyo,More than 10 acres,1
-B) What is the average size of land you own?,Chebunyo,None,3
-B) What is the average size of land you own?,Ndaraweta,2 - 5 acres,21
-B) What is the average size of land you own?,Ndaraweta,5 - 10 acres,4
-B) What is the average size of land you own?,Ndaraweta,0 - 2 acres,33
-B) What is the average size of land you own?,Ndaraweta,More than 10 acres,2
-B) What is the average size of land you own?,Ndaraweta,None,0
-B) What is the average size of land you own?,Cheseon,2 - 5 acres,21
-B) What is the average size of land you own?,Cheseon,5 - 10 acres,6
-B) What is the average size of land you own?,Cheseon,0 - 2 acres,63
-B) What is the average size of land you own?,Cheseon,More than 10 acres,2
-B) What is the average size of land you own?,Cheseon,None,0
-N) Information on the importance of hand washing with soap has never been given to you?,Sigor,Maybe,0
-N) Information on the importance of hand washing with soap has never been given to you?,Sigor,Yes,40
-N) Information on the importance of hand washing with soap has never been given to you?,Sigor,Don't Know,0
-N) Information on the importance of hand washing with soap has never been given to you?,Sigor,No,58
-N) Information on the importance of hand washing with soap has never been given to you?,Siongiroi,Maybe,0
-N) Information on the importance of hand washing with soap has never been given to you?,Siongiroi,Yes,51
-N) Information on the importance of hand washing with soap has never been given to you?,Siongiroi,Don't Know,0
-N) Information on the importance of hand washing with soap has never been given to you?,Siongiroi,No,33
-N) Information on the importance of hand washing with soap has never been given to you?,Singorwet,Maybe,1
-N) Information on the importance of hand washing with soap has never been given to you?,Singorwet,Yes,35
-N) Information on the importance of hand washing with soap has never been given to you?,Singorwet,Don't Know,1
-N) Information on the importance of hand washing with soap has never been given to you?,Singorwet,No,22
-N) Information on the importance of hand washing with soap has never been given to you?,Silibwet Township,Maybe,3
-N) Information on the importance of hand washing with soap has never been given to you?,Silibwet Township,Yes,31
-N) Information on the importance of hand washing with soap has never been given to you?,Silibwet Township,Don't Know,0
-N) Information on the importance of hand washing with soap has never been given to you?,Silibwet Township,No,42
-N) Information on the importance of hand washing with soap has never been given to you?,Kong sis,Maybe,0
-N) Information on the importance of hand washing with soap has never been given to you?,Kong sis,Yes,46
-N) Information on the importance of hand washing with soap has never been given to you?,Kong sis,Don't Know,0
-N) Information on the importance of hand washing with soap has never been given to you?,Kong sis,No,34
-N) Information on the importance of hand washing with soap has never been given to you?,Nyangores,Maybe,0
-N) Information on the importance of hand washing with soap has never been given to you?,Nyangores,Yes,53
-N) Information on the importance of hand washing with soap has never been given to you?,Nyangores,Don't Know,0
-N) Information on the importance of hand washing with soap has never been given to you?,Nyangores,No,48
-N) Information on the importance of hand washing with soap has never been given to you?,Mutarakwa,Maybe,1
-N) Information on the importance of hand washing with soap has never been given to you?,Mutarakwa,Yes,16
-N) Information on the importance of hand washing with soap has never been given to you?,Mutarakwa,Don't Know,0
-N) Information on the importance of hand washing with soap has never been given to you?,Mutarakwa,No,41
-N) Information on the importance of hand washing with soap has never been given to you?,Chebunyo,Maybe,0
-N) Information on the importance of hand washing with soap has never been given to you?,Chebunyo,Yes,39
-N) Information on the importance of hand washing with soap has never been given to you?,Chebunyo,Don't Know,0
-N) Information on the importance of hand washing with soap has never been given to you?,Chebunyo,No,53
-N) Information on the importance of hand washing with soap has never been given to you?,Ndaraweta,Maybe,0
-N) Information on the importance of hand washing with soap has never been given to you?,Ndaraweta,Yes,26
-N) Information on the importance of hand washing with soap has never been given to you?,Ndaraweta,Don't Know,1
-N) Information on the importance of hand washing with soap has never been given to you?,Ndaraweta,No,33
-N) Information on the importance of hand washing with soap has never been given to you?,Cheseon,Maybe,0
-N) Information on the importance of hand washing with soap has never been given to you?,Cheseon,Yes,37
-N) Information on the importance of hand washing with soap has never been given to you?,Cheseon,Don't Know,1
-N) Information on the importance of hand washing with soap has never been given to you?,Cheseon,No,54
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Sigor,Yes,12
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Sigor,Don't Know,0
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Sigor,No,86
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Siongiroi,Yes,10
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Siongiroi,Don't Know,0
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Siongiroi,No,74
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Singorwet,Yes,12
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Singorwet,Don't Know,0
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Singorwet,No,47
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Silibwet Township,Yes,15
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Silibwet Township,Don't Know,0
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Silibwet Township,No,61
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Kong sis,Yes,5
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Kong sis,Don't Know,0
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Kong sis,No,75
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Nyangores,Yes,8
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Nyangores,Don't Know,3
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Nyangores,No,90
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Mutarakwa,Yes,6
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Mutarakwa,Don't Know,0
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Mutarakwa,No,52
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Chebunyo,Yes,17
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Chebunyo,Don't Know,5
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Chebunyo,No,70
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Ndaraweta,Yes,8
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Ndaraweta,Don't Know,1
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Ndaraweta,No,51
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Cheseon,Yes,13
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Cheseon,Don't Know,0
-"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Cheseon,No,79
-"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Sigor,Yes,38
-"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Sigor,No,60
-"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Siongiroi,Yes,35
-"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Siongiroi,No,49
-"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Singorwet,Yes,22
-"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Singorwet,No,37
-"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Silibwet Township,Yes,33
-"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Silibwet Township,No,43
-"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Kong sis,Yes,21
-"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Kong sis,No,59
-"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Nyangores,Yes,41
-"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Nyangores,No,60
-"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Mutarakwa,Yes,33
-"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Mutarakwa,No,25
-"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Chebunyo,Yes,47
-"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Chebunyo,No,45
-"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Ndaraweta,Yes,24
-"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Ndaraweta,No,36
-"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Cheseon,Yes,41
-"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Cheseon,No,51
-C) What is your main current source of income?,Sigor,Permanent job,9
-C) What is your main current source of income?,Sigor,Sale of livestock products,11
-C) What is your main current source of income?,Sigor,Sale of crops,38
-C) What is your main current source of income?,Sigor,No income,3
-C) What is your main current source of income?,Sigor,Sale of livestock,2
-C) What is your main current source of income?,Sigor,Remittance,1
-C) What is your main current source of income?,Sigor,Sale of personal assets,0
-C) What is your main current source of income?,Sigor,Casual labor,20
-C) What is your main current source of income?,Sigor,Not Applicable,1
-C) What is your main current source of income?,Sigor,Petty trading e.g. sale of firewood,13
-C) What is your main current source of income?,Siongiroi,Permanent job,8
-C) What is your main current source of income?,Siongiroi,Sale of livestock products,21
-C) What is your main current source of income?,Siongiroi,Sale of crops,22
-C) What is your main current source of income?,Siongiroi,No income,1
-C) What is your main current source of income?,Siongiroi,Sale of livestock,3
-C) What is your main current source of income?,Siongiroi,Remittance,3
-C) What is your main current source of income?,Siongiroi,Sale of personal assets,1
-C) What is your main current source of income?,Siongiroi,Casual labor,17
-C) What is your main current source of income?,Siongiroi,Not Applicable,1
-C) What is your main current source of income?,Siongiroi,Petty trading e.g. sale of firewood,7
-C) What is your main current source of income?,Singorwet,Permanent job,5
-C) What is your main current source of income?,Singorwet,Sale of livestock products,0
-C) What is your main current source of income?,Singorwet,Sale of crops,31
-C) What is your main current source of income?,Singorwet,No income,1
-C) What is your main current source of income?,Singorwet,Sale of livestock,0
-C) What is your main current source of income?,Singorwet,Remittance,1
-C) What is your main current source of income?,Singorwet,Sale of personal assets,0
-C) What is your main current source of income?,Singorwet,Casual labor,18
-C) What is your main current source of income?,Singorwet,Not Applicable,2
-C) What is your main current source of income?,Singorwet,Petty trading e.g. sale of firewood,1
-C) What is your main current source of income?,Silibwet Township,Permanent job,3
-C) What is your main current source of income?,Silibwet Township,Sale of livestock products,0
-C) What is your main current source of income?,Silibwet Township,Sale of crops,40
-C) What is your main current source of income?,Silibwet Township,No income,1
-C) What is your main current source of income?,Silibwet Township,Sale of livestock,1
-C) What is your main current source of income?,Silibwet Township,Remittance,0
-C) What is your main current source of income?,Silibwet Township,Sale of personal assets,2
-C) What is your main current source of income?,Silibwet Township,Casual labor,23
-C) What is your main current source of income?,Silibwet Township,Not Applicable,1
-C) What is your main current source of income?,Silibwet Township,Petty trading e.g. sale of firewood,5
-C) What is your main current source of income?,Kong sis,Permanent job,8
-C) What is your main current source of income?,Kong sis,Sale of livestock products,19
-C) What is your main current source of income?,Kong sis,Sale of crops,32
-C) What is your main current source of income?,Kong sis,No income,1
-C) What is your main current source of income?,Kong sis,Sale of livestock,2
-C) What is your main current source of income?,Kong sis,Remittance,5
-C) What is your main current source of income?,Kong sis,Sale of personal assets,0
-C) What is your main current source of income?,Kong sis,Casual labor,12
-C) What is your main current source of income?,Kong sis,Not Applicable,1
-C) What is your main current source of income?,Kong sis,Petty trading e.g. sale of firewood,0
-C) What is your main current source of income?,Nyangores,Permanent job,12
-C) What is your main current source of income?,Nyangores,Sale of livestock products,3
-C) What is your main current source of income?,Nyangores,Sale of crops,26
-C) What is your main current source of income?,Nyangores,No income,1
-C) What is your main current source of income?,Nyangores,Sale of livestock,0
-C) What is your main current source of income?,Nyangores,Remittance,4
-C) What is your main current source of income?,Nyangores,Sale of personal assets,2
-C) What is your main current source of income?,Nyangores,Casual labor,32
-C) What is your main current source of income?,Nyangores,Not Applicable,12
-C) What is your main current source of income?,Nyangores,Petty trading e.g. sale of firewood,9
-C) What is your main current source of income?,Mutarakwa,Permanent job,3
-C) What is your main current source of income?,Mutarakwa,Sale of livestock products,2
-C) What is your main current source of income?,Mutarakwa,Sale of crops,28
-C) What is your main current source of income?,Mutarakwa,No income,2
-C) What is your main current source of income?,Mutarakwa,Sale of livestock,2
-C) What is your main current source of income?,Mutarakwa,Remittance,3
-C) What is your main current source of income?,Mutarakwa,Sale of personal assets,0
-C) What is your main current source of income?,Mutarakwa,Casual labor,16
-C) What is your main current source of income?,Mutarakwa,Not Applicable,0
-C) What is your main current source of income?,Mutarakwa,Petty trading e.g. sale of firewood,2
-C) What is your main current source of income?,Chebunyo,Permanent job,16
-C) What is your main current source of income?,Chebunyo,Sale of livestock products,4
-C) What is your main current source of income?,Chebunyo,Sale of crops,30
-C) What is your main current source of income?,Chebunyo,No income,0
-C) What is your main current source of income?,Chebunyo,Sale of livestock,1
-C) What is your main current source of income?,Chebunyo,Remittance,5
-C) What is your main current source of income?,Chebunyo,Sale of personal assets,0
-C) What is your main current source of income?,Chebunyo,Casual labor,23
-C) What is your main current source of income?,Chebunyo,Not Applicable,3
-C) What is your main current source of income?,Chebunyo,Petty trading e.g. sale of firewood,10
-C) What is your main current source of income?,Ndaraweta,Permanent job,4
-C) What is your main current source of income?,Ndaraweta,Sale of livestock products,0
-C) What is your main current source of income?,Ndaraweta,Sale of crops,46
-C) What is your main current source of income?,Ndaraweta,No income,0
-C) What is your main current source of income?,Ndaraweta,Sale of livestock,0
-C) What is your main current source of income?,Ndaraweta,Remittance,0
-C) What is your main current source of income?,Ndaraweta,Sale of personal assets,0
-C) What is your main current source of income?,Ndaraweta,Casual labor,10
-C) What is your main current source of income?,Ndaraweta,Not Applicable,0
-C) What is your main current source of income?,Ndaraweta,Petty trading e.g. sale of firewood,0
-C) What is your main current source of income?,Cheseon,Permanent job,7
-C) What is your main current source of income?,Cheseon,Sale of livestock products,2
-C) What is your main current source of income?,Cheseon,Sale of crops,56
-C) What is your main current source of income?,Cheseon,No income,1
-C) What is your main current source of income?,Cheseon,Sale of livestock,0
-C) What is your main current source of income?,Cheseon,Remittance,1
-C) What is your main current source of income?,Cheseon,Sale of personal assets,1
-C) What is your main current source of income?,Cheseon,Casual labor,20
-C) What is your main current source of income?,Cheseon,Not Applicable,3
-C) What is your main current source of income?,Cheseon,Petty trading e.g. sale of firewood,1
-H) What is the main source of drinking water for members of your household?,Sigor,Rain water collection,18
-H) What is the main source of drinking water for members of your household?,Sigor,Tubewell/borehole (& pump),0
-H) What is the main source of drinking water for members of your household?,Sigor,"Surface water (e.g. river, pond)",43
-H) What is the main source of drinking water for members of your household?,Sigor,Unprotected dug well,2
-H) What is the main source of drinking water for members of your household?,Sigor,Tanker truck,0
-H) What is the main source of drinking water for members of your household?,Sigor,Public tap/standpipe,3
-H) What is the main source of drinking water for members of your household?,Sigor,Piped water,16
-H) What is the main source of drinking water for members of your household?,Sigor,Unprotected spring,7
-H) What is the main source of drinking water for members of your household?,Sigor,Protected dug well,1
-H) What is the main source of drinking water for members of your household?,Sigor,Small water vendor,0
-H) What is the main source of drinking water for members of your household?,Sigor,Other,0
-H) What is the main source of drinking water for members of your household?,Sigor,Protected spring,8
-H) What is the main source of drinking water for members of your household?,Siongiroi,Rain water collection,24
-H) What is the main source of drinking water for members of your household?,Siongiroi,Tubewell/borehole (& pump),6
-H) What is the main source of drinking water for members of your household?,Siongiroi,"Surface water (e.g. river, pond)",23
-H) What is the main source of drinking water for members of your household?,Siongiroi,Unprotected dug well,16
-H) What is the main source of drinking water for members of your household?,Siongiroi,Tanker truck,0
-H) What is the main source of drinking water for members of your household?,Siongiroi,Public tap/standpipe,0
-H) What is the main source of drinking water for members of your household?,Siongiroi,Piped water,14
-H) What is the main source of drinking water for members of your household?,Siongiroi,Unprotected spring,1
-H) What is the main source of drinking water for members of your household?,Siongiroi,Protected dug well,0
-H) What is the main source of drinking water for members of your household?,Siongiroi,Small water vendor,0
-H) What is the main source of drinking water for members of your household?,Siongiroi,Other,0
-H) What is the main source of drinking water for members of your household?,Siongiroi,Protected spring,0
-H) What is the main source of drinking water for members of your household?,Singorwet,Rain water collection,8
-H) What is the main source of drinking water for members of your household?,Singorwet,Tubewell/borehole (& pump),0
-H) What is the main source of drinking water for members of your household?,Singorwet,"Surface water (e.g. river, pond)",9
-H) What is the main source of drinking water for members of your household?,Singorwet,Unprotected dug well,7
-H) What is the main source of drinking water for members of your household?,Singorwet,Tanker truck,0
-H) What is the main source of drinking water for members of your household?,Singorwet,Public tap/standpipe,0
-H) What is the main source of drinking water for members of your household?,Singorwet,Piped water,1
-H) What is the main source of drinking water for members of your household?,Singorwet,Unprotected spring,16
-H) What is the main source of drinking water for members of your household?,Singorwet,Protected dug well,5
-H) What is the main source of drinking water for members of your household?,Singorwet,Small water vendor,0
-H) What is the main source of drinking water for members of your household?,Singorwet,Other,0
-H) What is the main source of drinking water for members of your household?,Singorwet,Protected spring,13
-H) What is the main source of drinking water for members of your household?,Silibwet Township,Rain water collection,7
-H) What is the main source of drinking water for members of your household?,Silibwet Township,Tubewell/borehole (& pump),0
-H) What is the main source of drinking water for members of your household?,Silibwet Township,"Surface water (e.g. river, pond)",14
-H) What is the main source of drinking water for members of your household?,Silibwet Township,Unprotected dug well,5
-H) What is the main source of drinking water for members of your household?,Silibwet Township,Tanker truck,1
-H) What is the main source of drinking water for members of your household?,Silibwet Township,Public tap/standpipe,2
-H) What is the main source of drinking water for members of your household?,Silibwet Township,Piped water,6
-H) What is the main source of drinking water for members of your household?,Silibwet Township,Unprotected spring,13
-H) What is the main source of drinking water for members of your household?,Silibwet Township,Protected dug well,5
-H) What is the main source of drinking water for members of your household?,Silibwet Township,Small water vendor,1
-H) What is the main source of drinking water for members of your household?,Silibwet Township,Other,3
-H) What is the main source of drinking water for members of your household?,Silibwet Township,Protected spring,19
-H) What is the main source of drinking water for members of your household?,Kong sis,Rain water collection,26
-H) What is the main source of drinking water for members of your household?,Kong sis,Tubewell/borehole (& pump),3
-H) What is the main source of drinking water for members of your household?,Kong sis,"Surface water (e.g. river, pond)",18
-H) What is the main source of drinking water for members of your household?,Kong sis,Unprotected dug well,27
-H) What is the main source of drinking water for members of your household?,Kong sis,Tanker truck,0
-H) What is the main source of drinking water for members of your household?,Kong sis,Public tap/standpipe,1
-H) What is the main source of drinking water for members of your household?,Kong sis,Piped water,4
-H) What is the main source of drinking water for members of your household?,Kong sis,Unprotected spring,0
-H) What is the main source of drinking water for members of your household?,Kong sis,Protected dug well,1
-H) What is the main source of drinking water for members of your household?,Kong sis,Small water vendor,0
-H) What is the main source of drinking water for members of your household?,Kong sis,Other,0
-H) What is the main source of drinking water for members of your household?,Kong sis,Protected spring,0
-H) What is the main source of drinking water for members of your household?,Nyangores,Rain water collection,8
-H) What is the main source of drinking water for members of your household?,Nyangores,Tubewell/borehole (& pump),4
-H) What is the main source of drinking water for members of your household?,Nyangores,"Surface water (e.g. river, pond)",41
-H) What is the main source of drinking water for members of your household?,Nyangores,Unprotected dug well,9
-H) What is the main source of drinking water for members of your household?,Nyangores,Tanker truck,0
-H) What is the main source of drinking water for members of your household?,Nyangores,Public tap/standpipe,13
-H) What is the main source of drinking water for members of your household?,Nyangores,Piped water,9
-H) What is the main source of drinking water for members of your household?,Nyangores,Unprotected spring,4
-H) What is the main source of drinking water for members of your household?,Nyangores,Protected dug well,5
-H) What is the main source of drinking water for members of your household?,Nyangores,Small water vendor,2
-H) What is the main source of drinking water for members of your household?,Nyangores,Other,2
-H) What is the main source of drinking water for members of your household?,Nyangores,Protected spring,4
-H) What is the main source of drinking water for members of your household?,Mutarakwa,Rain water collection,3
-H) What is the main source of drinking water for members of your household?,Mutarakwa,Tubewell/borehole (& pump),6
-H) What is the main source of drinking water for members of your household?,Mutarakwa,"Surface water (e.g. river, pond)",6
-H) What is the main source of drinking water for members of your household?,Mutarakwa,Unprotected dug well,9
-H) What is the main source of drinking water for members of your household?,Mutarakwa,Tanker truck,0
-H) What is the main source of drinking water for members of your household?,Mutarakwa,Public tap/standpipe,0
-H) What is the main source of drinking water for members of your household?,Mutarakwa,Piped water,2
-H) What is the main source of drinking water for members of your household?,Mutarakwa,Unprotected spring,23
-H) What is the main source of drinking water for members of your household?,Mutarakwa,Protected dug well,4
-H) What is the main source of drinking water for members of your household?,Mutarakwa,Small water vendor,0
-H) What is the main source of drinking water for members of your household?,Mutarakwa,Other,0
-H) What is the main source of drinking water for members of your household?,Mutarakwa,Protected spring,5
-H) What is the main source of drinking water for members of your household?,Chebunyo,Rain water collection,26
-H) What is the main source of drinking water for members of your household?,Chebunyo,Tubewell/borehole (& pump),4
-H) What is the main source of drinking water for members of your household?,Chebunyo,"Surface water (e.g. river, pond)",51
-H) What is the main source of drinking water for members of your household?,Chebunyo,Unprotected dug well,9
-H) What is the main source of drinking water for members of your household?,Chebunyo,Tanker truck,0
-H) What is the main source of drinking water for members of your household?,Chebunyo,Public tap/standpipe,0
-H) What is the main source of drinking water for members of your household?,Chebunyo,Piped water,0
-H) What is the main source of drinking water for members of your household?,Chebunyo,Unprotected spring,0
-H) What is the main source of drinking water for members of your household?,Chebunyo,Protected dug well,1
-H) What is the main source of drinking water for members of your household?,Chebunyo,Small water vendor,0
-H) What is the main source of drinking water for members of your household?,Chebunyo,Other,1
-H) What is the main source of drinking water for members of your household?,Chebunyo,Protected spring,0
-H) What is the main source of drinking water for members of your household?,Ndaraweta,Rain water collection,6
-H) What is the main source of drinking water for members of your household?,Ndaraweta,Tubewell/borehole (& pump),0
-H) What is the main source of drinking water for members of your household?,Ndaraweta,"Surface water (e.g. river, pond)",8
-H) What is the main source of drinking water for members of your household?,Ndaraweta,Unprotected dug well,7
-H) What is the main source of drinking water for members of your household?,Ndaraweta,Tanker truck,0
-H) What is the main source of drinking water for members of your household?,Ndaraweta,Public tap/standpipe,0
-H) What is the main source of drinking water for members of your household?,Ndaraweta,Piped water,0
-H) What is the main source of drinking water for members of your household?,Ndaraweta,Unprotected spring,30
-H) What is the main source of drinking water for members of your household?,Ndaraweta,Protected dug well,2
-H) What is the main source of drinking water for members of your household?,Ndaraweta,Small water vendor,0
-H) What is the main source of drinking water for members of your household?,Ndaraweta,Other,0
-H) What is the main source of drinking water for members of your household?,Ndaraweta,Protected spring,7
-H) What is the main source of drinking water for members of your household?,Cheseon,Rain water collection,5
-H) What is the main source of drinking water for members of your household?,Cheseon,Tubewell/borehole (& pump),0
-H) What is the main source of drinking water for members of your household?,Cheseon,"Surface water (e.g. river, pond)",21
-H) What is the main source of drinking water for members of your household?,Cheseon,Unprotected dug well,6
-H) What is the main source of drinking water for members of your household?,Cheseon,Tanker truck,0
-H) What is the main source of drinking water for members of your household?,Cheseon,Public tap/standpipe,0
-H) What is the main source of drinking water for members of your household?,Cheseon,Piped water,1
-H) What is the main source of drinking water for members of your household?,Cheseon,Unprotected spring,24
-H) What is the main source of drinking water for members of your household?,Cheseon,Protected dug well,10
-H) What is the main source of drinking water for members of your household?,Cheseon,Small water vendor,0
-H) What is the main source of drinking water for members of your household?,Cheseon,Other,2
-H) What is the main source of drinking water for members of your household?,Cheseon,Protected spring,23
-A) Main Occupation of the Household Head?,Sigor,Livestock herding,3
-A) Main Occupation of the Household Head?,Sigor,Employed (salaried),9
-A) Main Occupation of the Household Head?,Sigor,Waged labour (Casual),22
-A) Main Occupation of the Household Head?,Sigor,Own farm labour,49
-A) Main Occupation of the Household Head?,Sigor,Merchant/trader,2
-A) Main Occupation of the Household Head?,Sigor,Petty trade,9
-A) Main Occupation of the Household Head?,Sigor,Not Applicable,0
-A) Main Occupation of the Household Head?,Sigor,Firewood/charcoal,4
-A) Main Occupation of the Household Head?,Siongiroi,Livestock herding,13
-A) Main Occupation of the Household Head?,Siongiroi,Employed (salaried),10
-A) Main Occupation of the Household Head?,Siongiroi,Waged labour (Casual),17
-A) Main Occupation of the Household Head?,Siongiroi,Own farm labour,35
-A) Main Occupation of the Household Head?,Siongiroi,Merchant/trader,3
-A) Main Occupation of the Household Head?,Siongiroi,Petty trade,4
-A) Main Occupation of the Household Head?,Siongiroi,Not Applicable,2
-A) Main Occupation of the Household Head?,Siongiroi,Firewood/charcoal,0
-A) Main Occupation of the Household Head?,Singorwet,Livestock herding,0
-A) Main Occupation of the Household Head?,Singorwet,Employed (salaried),7
-A) Main Occupation of the Household Head?,Singorwet,Waged labour (Casual),18
-A) Main Occupation of the Household Head?,Singorwet,Own farm labour,30
-A) Main Occupation of the Household Head?,Singorwet,Merchant/trader,0
-A) Main Occupation of the Household Head?,Singorwet,Petty trade,1
-A) Main Occupation of the Household Head?,Singorwet,Not Applicable,3
-A) Main Occupation of the Household Head?,Singorwet,Firewood/charcoal,0
-A) Main Occupation of the Household Head?,Silibwet Township,Livestock herding,0
-A) Main Occupation of the Household Head?,Silibwet Township,Employed (salaried),5
-A) Main Occupation of the Household Head?,Silibwet Township,Waged labour (Casual),24
-A) Main Occupation of the Household Head?,Silibwet Township,Own farm labour,40
-A) Main Occupation of the Household Head?,Silibwet Township,Merchant/trader,2
-A) Main Occupation of the Household Head?,Silibwet Township,Petty trade,2
-A) Main Occupation of the Household Head?,Silibwet Township,Not Applicable,2
-A) Main Occupation of the Household Head?,Silibwet Township,Firewood/charcoal,1
-A) Main Occupation of the Household Head?,Kong sis,Livestock herding,5
-A) Main Occupation of the Household Head?,Kong sis,Employed (salaried),9
-A) Main Occupation of the Household Head?,Kong sis,Waged labour (Casual),12
-A) Main Occupation of the Household Head?,Kong sis,Own farm labour,49
-A) Main Occupation of the Household Head?,Kong sis,Merchant/trader,3
-A) Main Occupation of the Household Head?,Kong sis,Petty trade,1
-A) Main Occupation of the Household Head?,Kong sis,Not Applicable,1
-A) Main Occupation of the Household Head?,Kong sis,Firewood/charcoal,0
-A) Main Occupation of the Household Head?,Nyangores,Livestock herding,1
-A) Main Occupation of the Household Head?,Nyangores,Employed (salaried),14
-A) Main Occupation of the Household Head?,Nyangores,Waged labour (Casual),29
-A) Main Occupation of the Household Head?,Nyangores,Own farm labour,30
-A) Main Occupation of the Household Head?,Nyangores,Merchant/trader,5
-A) Main Occupation of the Household Head?,Nyangores,Petty trade,12
-A) Main Occupation of the Household Head?,Nyangores,Not Applicable,9
-A) Main Occupation of the Household Head?,Nyangores,Firewood/charcoal,1
-A) Main Occupation of the Household Head?,Mutarakwa,Livestock herding,1
-A) Main Occupation of the Household Head?,Mutarakwa,Employed (salaried),4
-A) Main Occupation of the Household Head?,Mutarakwa,Waged labour (Casual),17
-A) Main Occupation of the Household Head?,Mutarakwa,Own farm labour,34
-A) Main Occupation of the Household Head?,Mutarakwa,Merchant/trader,0
-A) Main Occupation of the Household Head?,Mutarakwa,Petty trade,2
-A) Main Occupation of the Household Head?,Mutarakwa,Not Applicable,0
-A) Main Occupation of the Household Head?,Mutarakwa,Firewood/charcoal,0
-A) Main Occupation of the Household Head?,Chebunyo,Livestock herding,1
-A) Main Occupation of the Household Head?,Chebunyo,Employed (salaried),17
-A) Main Occupation of the Household Head?,Chebunyo,Waged labour (Casual),20
-A) Main Occupation of the Household Head?,Chebunyo,Own farm labour,31
-A) Main Occupation of the Household Head?,Chebunyo,Merchant/trader,7
-A) Main Occupation of the Household Head?,Chebunyo,Petty trade,11
-A) Main Occupation of the Household Head?,Chebunyo,Not Applicable,5
-A) Main Occupation of the Household Head?,Chebunyo,Firewood/charcoal,0
-A) Main Occupation of the Household Head?,Ndaraweta,Livestock herding,0
-A) Main Occupation of the Household Head?,Ndaraweta,Employed (salaried),5
-A) Main Occupation of the Household Head?,Ndaraweta,Waged labour (Casual),11
-A) Main Occupation of the Household Head?,Ndaraweta,Own farm labour,43
-A) Main Occupation of the Household Head?,Ndaraweta,Merchant/trader,0
-A) Main Occupation of the Household Head?,Ndaraweta,Petty trade,1
-A) Main Occupation of the Household Head?,Ndaraweta,Not Applicable,0
-A) Main Occupation of the Household Head?,Ndaraweta,Firewood/charcoal,0
-A) Main Occupation of the Household Head?,Cheseon,Livestock herding,1
-A) Main Occupation of the Household Head?,Cheseon,Employed (salaried),9
-A) Main Occupation of the Household Head?,Cheseon,Waged labour (Casual),15
-A) Main Occupation of the Household Head?,Cheseon,Own farm labour,60
-A) Main Occupation of the Household Head?,Cheseon,Merchant/trader,0
-A) Main Occupation of the Household Head?,Cheseon,Petty trade,2
-A) Main Occupation of the Household Head?,Cheseon,Not Applicable,5
-A) Main Occupation of the Household Head?,Cheseon,Firewood/charcoal,0
-M) Where do you store water for drinking?,Sigor,Open container / Jerrican,15
-M) Where do you store water for drinking?,Sigor,Closed container / Jerrican,83
-M) Where do you store water for drinking?,Siongiroi,Open container / Jerrican,12
-M) Where do you store water for drinking?,Siongiroi,Closed container / Jerrican,72
-M) Where do you store water for drinking?,Singorwet,Open container / Jerrican,6
-M) Where do you store water for drinking?,Singorwet,Closed container / Jerrican,53
-M) Where do you store water for drinking?,Silibwet Township,Open container / Jerrican,6
-M) Where do you store water for drinking?,Silibwet Township,Closed container / Jerrican,70
-M) Where do you store water for drinking?,Kong sis,Open container / Jerrican,17
-M) Where do you store water for drinking?,Kong sis,Closed container / Jerrican,63
-M) Where do you store water for drinking?,Nyangores,Open container / Jerrican,8
-M) Where do you store water for drinking?,Nyangores,Closed container / Jerrican,93
-M) Where do you store water for drinking?,Mutarakwa,Open container / Jerrican,7
-M) Where do you store water for drinking?,Mutarakwa,Closed container / Jerrican,51
-M) Where do you store water for drinking?,Chebunyo,Open container / Jerrican,19
-M) Where do you store water for drinking?,Chebunyo,Closed container / Jerrican,73
-M) Where do you store water for drinking?,Ndaraweta,Open container / Jerrican,8
-M) Where do you store water for drinking?,Ndaraweta,Closed container / Jerrican,52
-M) Where do you store water for drinking?,Cheseon,Open container / Jerrican,10
-M) Where do you store water for drinking?,Cheseon,Closed container / Jerrican,82
-G) How many mosquito nets does this household have?,Sigor,1,12
-G) How many mosquito nets does this household have?,Sigor,0,30
-G) How many mosquito nets does this household have?,Sigor,3,17
-G) How many mosquito nets does this household have?,Sigor,2,28
-G) How many mosquito nets does this household have?,Sigor,5,3
-G) How many mosquito nets does this household have?,Sigor,4,8
-G) How many mosquito nets does this household have?,Sigor,7,0
-G) How many mosquito nets does this household have?,Sigor,6,0
-G) How many mosquito nets does this household have?,Sigor,9,0
-G) How many mosquito nets does this household have?,Sigor,8,0
-G) How many mosquito nets does this household have?,Siongiroi,1,12
-G) How many mosquito nets does this household have?,Siongiroi,0,14
-G) How many mosquito nets does this household have?,Siongiroi,3,16
-G) How many mosquito nets does this household have?,Siongiroi,2,26
-G) How many mosquito nets does this household have?,Siongiroi,5,0
-G) How many mosquito nets does this household have?,Siongiroi,4,12
-G) How many mosquito nets does this household have?,Siongiroi,7,0
-G) How many mosquito nets does this household have?,Siongiroi,6,3
-G) How many mosquito nets does this household have?,Siongiroi,9,0
-G) How many mosquito nets does this household have?,Siongiroi,8,1
-G) How many mosquito nets does this household have?,Singorwet,1,6
-G) How many mosquito nets does this household have?,Singorwet,0,13
-G) How many mosquito nets does this household have?,Singorwet,3,15
-G) How many mosquito nets does this household have?,Singorwet,2,18
-G) How many mosquito nets does this household have?,Singorwet,5,1
-G) How many mosquito nets does this household have?,Singorwet,4,6
-G) How many mosquito nets does this household have?,Singorwet,7,0
-G) How many mosquito nets does this household have?,Singorwet,6,0
-G) How many mosquito nets does this household have?,Singorwet,9,0
-G) How many mosquito nets does this household have?,Singorwet,8,0
-G) How many mosquito nets does this household have?,Silibwet Township,1,10
-G) How many mosquito nets does this household have?,Silibwet Township,0,12
-G) How many mosquito nets does this household have?,Silibwet Township,3,12
-G) How many mosquito nets does this household have?,Silibwet Township,2,18
-G) How many mosquito nets does this household have?,Silibwet Township,5,4
-G) How many mosquito nets does this household have?,Silibwet Township,4,11
-G) How many mosquito nets does this household have?,Silibwet Township,7,1
-G) How many mosquito nets does this household have?,Silibwet Township,6,8
-G) How many mosquito nets does this household have?,Silibwet Township,9,0
-G) How many mosquito nets does this household have?,Silibwet Township,8,0
-G) How many mosquito nets does this household have?,Kong sis,1,4
-G) How many mosquito nets does this household have?,Kong sis,0,19
-G) How many mosquito nets does this household have?,Kong sis,3,17
-G) How many mosquito nets does this household have?,Kong sis,2,20
-G) How many mosquito nets does this household have?,Kong sis,5,4
-G) How many mosquito nets does this household have?,Kong sis,4,12
-G) How many mosquito nets does this household have?,Kong sis,7,0
-G) How many mosquito nets does this household have?,Kong sis,6,3
-G) How many mosquito nets does this household have?,Kong sis,9,1
-G) How many mosquito nets does this household have?,Kong sis,8,0
-G) How many mosquito nets does this household have?,Nyangores,1,24
-G) How many mosquito nets does this household have?,Nyangores,0,22
-G) How many mosquito nets does this household have?,Nyangores,3,14
-G) How many mosquito nets does this household have?,Nyangores,2,32
-G) How many mosquito nets does this household have?,Nyangores,5,2
-G) How many mosquito nets does this household have?,Nyangores,4,7
-G) How many mosquito nets does this household have?,Nyangores,7,0
-G) How many mosquito nets does this household have?,Nyangores,6,0
-G) How many mosquito nets does this household have?,Nyangores,9,0
-G) How many mosquito nets does this household have?,Nyangores,8,0
-G) How many mosquito nets does this household have?,Mutarakwa,1,11
-G) How many mosquito nets does this household have?,Mutarakwa,0,9
-G) How many mosquito nets does this household have?,Mutarakwa,3,10
-G) How many mosquito nets does this household have?,Mutarakwa,2,21
-G) How many mosquito nets does this household have?,Mutarakwa,5,3
-G) How many mosquito nets does this household have?,Mutarakwa,4,4
-G) How many mosquito nets does this household have?,Mutarakwa,7,0
-G) How many mosquito nets does this household have?,Mutarakwa,6,0
-G) How many mosquito nets does this household have?,Mutarakwa,9,0
-G) How many mosquito nets does this household have?,Mutarakwa,8,0
-G) How many mosquito nets does this household have?,Chebunyo,1,12
-G) How many mosquito nets does this household have?,Chebunyo,0,36
-G) How many mosquito nets does this household have?,Chebunyo,3,10
-G) How many mosquito nets does this household have?,Chebunyo,2,23
-G) How many mosquito nets does this household have?,Chebunyo,5,2
-G) How many mosquito nets does this household have?,Chebunyo,4,8
-G) How many mosquito nets does this household have?,Chebunyo,7,0
-G) How many mosquito nets does this household have?,Chebunyo,6,1
-G) How many mosquito nets does this household have?,Chebunyo,9,0
-G) How many mosquito nets does this household have?,Chebunyo,8,0
-G) How many mosquito nets does this household have?,Ndaraweta,1,9
-G) How many mosquito nets does this household have?,Ndaraweta,0,10
-G) How many mosquito nets does this household have?,Ndaraweta,3,11
-G) How many mosquito nets does this household have?,Ndaraweta,2,10
-G) How many mosquito nets does this household have?,Ndaraweta,5,6
-G) How many mosquito nets does this household have?,Ndaraweta,4,11
-G) How many mosquito nets does this household have?,Ndaraweta,7,1
-G) How many mosquito nets does this household have?,Ndaraweta,6,2
-G) How many mosquito nets does this household have?,Ndaraweta,9,0
-G) How many mosquito nets does this household have?,Ndaraweta,8,0
-G) How many mosquito nets does this household have?,Cheseon,1,12
-G) How many mosquito nets does this household have?,Cheseon,0,10
-G) How many mosquito nets does this household have?,Cheseon,3,14
-G) How many mosquito nets does this household have?,Cheseon,2,22
-G) How many mosquito nets does this household have?,Cheseon,5,8
-G) How many mosquito nets does this household have?,Cheseon,4,21
-G) How many mosquito nets does this household have?,Cheseon,7,0
-G) How many mosquito nets does this household have?,Cheseon,6,4
-G) How many mosquito nets does this household have?,Cheseon,9,1
-G) How many mosquito nets does this household have?,Cheseon,8,0
-J) Who usually goes to this source to fetch water?,Sigor,Male child under 15 years old,0
-J) Who usually goes to this source to fetch water?,Sigor,Other,1
-J) Who usually goes to this source to fetch water?,Sigor,Female child under 15 years old,0
-J) Who usually goes to this source to fetch water?,Sigor,Adult woman,96
-J) Who usually goes to this source to fetch water?,Sigor,Adult man,1
-J) Who usually goes to this source to fetch water?,Siongiroi,Male child under 15 years old,0
-J) Who usually goes to this source to fetch water?,Siongiroi,Other,0
-J) Who usually goes to this source to fetch water?,Siongiroi,Female child under 15 years old,2
-J) Who usually goes to this source to fetch water?,Siongiroi,Adult woman,82
-J) Who usually goes to this source to fetch water?,Siongiroi,Adult man,0
-J) Who usually goes to this source to fetch water?,Singorwet,Male child under 15 years old,0
-J) Who usually goes to this source to fetch water?,Singorwet,Other,0
-J) Who usually goes to this source to fetch water?,Singorwet,Female child under 15 years old,0
-J) Who usually goes to this source to fetch water?,Singorwet,Adult woman,57
-J) Who usually goes to this source to fetch water?,Singorwet,Adult man,2
-J) Who usually goes to this source to fetch water?,Silibwet Township,Male child under 15 years old,0
-J) Who usually goes to this source to fetch water?,Silibwet Township,Other,2
-J) Who usually goes to this source to fetch water?,Silibwet Township,Female child under 15 years old,0
-J) Who usually goes to this source to fetch water?,Silibwet Township,Adult woman,74
-J) Who usually goes to this source to fetch water?,Silibwet Township,Adult man,0
-J) Who usually goes to this source to fetch water?,Kong sis,Male child under 15 years old,1
-J) Who usually goes to this source to fetch water?,Kong sis,Other,0
-J) Who usually goes to this source to fetch water?,Kong sis,Female child under 15 years old,4
-J) Who usually goes to this source to fetch water?,Kong sis,Adult woman,74
-J) Who usually goes to this source to fetch water?,Kong sis,Adult man,1
-J) Who usually goes to this source to fetch water?,Nyangores,Male child under 15 years old,0
-J) Who usually goes to this source to fetch water?,Nyangores,Other,6
-J) Who usually goes to this source to fetch water?,Nyangores,Female child under 15 years old,2
-J) Who usually goes to this source to fetch water?,Nyangores,Adult woman,93
-J) Who usually goes to this source to fetch water?,Nyangores,Adult man,0
-J) Who usually goes to this source to fetch water?,Mutarakwa,Male child under 15 years old,1
-J) Who usually goes to this source to fetch water?,Mutarakwa,Other,0
-J) Who usually goes to this source to fetch water?,Mutarakwa,Female child under 15 years old,0
-J) Who usually goes to this source to fetch water?,Mutarakwa,Adult woman,57
-J) Who usually goes to this source to fetch water?,Mutarakwa,Adult man,0
-J) Who usually goes to this source to fetch water?,Chebunyo,Male child under 15 years old,1
-J) Who usually goes to this source to fetch water?,Chebunyo,Other,1
-J) Who usually goes to this source to fetch water?,Chebunyo,Female child under 15 years old,0
-J) Who usually goes to this source to fetch water?,Chebunyo,Adult woman,89
-J) Who usually goes to this source to fetch water?,Chebunyo,Adult man,1
-J) Who usually goes to this source to fetch water?,Ndaraweta,Male child under 15 years old,0
-J) Who usually goes to this source to fetch water?,Ndaraweta,Other,0
-J) Who usually goes to this source to fetch water?,Ndaraweta,Female child under 15 years old,0
-J) Who usually goes to this source to fetch water?,Ndaraweta,Adult woman,60
-J) Who usually goes to this source to fetch water?,Ndaraweta,Adult man,0
-J) Who usually goes to this source to fetch water?,Cheseon,Male child under 15 years old,0
-J) Who usually goes to this source to fetch water?,Cheseon,Other,0
-J) Who usually goes to this source to fetch water?,Cheseon,Female child under 15 years old,0
-J) Who usually goes to this source to fetch water?,Cheseon,Adult woman,87
-J) Who usually goes to this source to fetch water?,Cheseon,Adult man,5
-"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Sigor,Yes,33
-"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Sigor,No,65
-"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Siongiroi,Yes,31
-"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Siongiroi,No,53
-"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Singorwet,Yes,24
-"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Singorwet,No,35
-"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Silibwet Township,Yes,38
-"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Silibwet Township,No,38
-"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Kong sis,Yes,16
-"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Kong sis,No,64
-"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Nyangores,Yes,29
-"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Nyangores,No,72
-"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Mutarakwa,Yes,31
-"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Mutarakwa,No,27
-"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Chebunyo,Yes,36
-"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Chebunyo,No,56
-"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Ndaraweta,Yes,26
-"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Ndaraweta,No,34
-"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Cheseon,Yes,42
-"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Cheseon,No,50
-L) What do you usually do to make the water safer to drink?,Sigor, ,24
-L) What do you usually do to make the water safer to drink?,Sigor,Use water filter (ceramic),0
-L) What do you usually do to make the water safer to drink?,Sigor,Sand/composite/etc.,0
-L) What do you usually do to make the water safer to drink?,Sigor,Strain through a cloth,0
-L) What do you usually do to make the water safer to drink?,Sigor,Other,0
-L) What do you usually do to make the water safer to drink?,Sigor,Add bleach/chlorine,20
-L) What do you usually do to make the water safer to drink?,Sigor,Let it stand and settle,2
-L) What do you usually do to make the water safer to drink?,Sigor,Don't know,1
-L) What do you usually do to make the water safer to drink?,Sigor,Boil,51
-L) What do you usually do to make the water safer to drink?,Siongiroi, ,19
-L) What do you usually do to make the water safer to drink?,Siongiroi,Use water filter (ceramic),10
-L) What do you usually do to make the water safer to drink?,Siongiroi,Sand/composite/etc.,1
-L) What do you usually do to make the water safer to drink?,Siongiroi,Strain through a cloth,1
-L) What do you usually do to make the water safer to drink?,Siongiroi,Other,0
-L) What do you usually do to make the water safer to drink?,Siongiroi,Add bleach/chlorine,13
-L) What do you usually do to make the water safer to drink?,Siongiroi,Let it stand and settle,0
-L) What do you usually do to make the water safer to drink?,Siongiroi,Don't know,0
-L) What do you usually do to make the water safer to drink?,Siongiroi,Boil,40
-L) What do you usually do to make the water safer to drink?,Singorwet, ,19
-L) What do you usually do to make the water safer to drink?,Singorwet,Use water filter (ceramic),4
-L) What do you usually do to make the water safer to drink?,Singorwet,Sand/composite/etc.,0
-L) What do you usually do to make the water safer to drink?,Singorwet,Strain through a cloth,0
-L) What do you usually do to make the water safer to drink?,Singorwet,Other,3
-L) What do you usually do to make the water safer to drink?,Singorwet,Add bleach/chlorine,6
-L) What do you usually do to make the water safer to drink?,Singorwet,Let it stand and settle,2
-L) What do you usually do to make the water safer to drink?,Singorwet,Don't know,0
-L) What do you usually do to make the water safer to drink?,Singorwet,Boil,25
-L) What do you usually do to make the water safer to drink?,Silibwet Township, ,24
-L) What do you usually do to make the water safer to drink?,Silibwet Township,Use water filter (ceramic),0
-L) What do you usually do to make the water safer to drink?,Silibwet Township,Sand/composite/etc.,0
-L) What do you usually do to make the water safer to drink?,Silibwet Township,Strain through a cloth,0
-L) What do you usually do to make the water safer to drink?,Silibwet Township,Other,1
-L) What do you usually do to make the water safer to drink?,Silibwet Township,Add bleach/chlorine,3
-L) What do you usually do to make the water safer to drink?,Silibwet Township,Let it stand and settle,1
-L) What do you usually do to make the water safer to drink?,Silibwet Township,Don't know,0
-L) What do you usually do to make the water safer to drink?,Silibwet Township,Boil,47
-L) What do you usually do to make the water safer to drink?,Kong sis, ,14
-L) What do you usually do to make the water safer to drink?,Kong sis,Use water filter (ceramic),4
-L) What do you usually do to make the water safer to drink?,Kong sis,Sand/composite/etc.,0
-L) What do you usually do to make the water safer to drink?,Kong sis,Strain through a cloth,0
-L) What do you usually do to make the water safer to drink?,Kong sis,Other,0
-L) What do you usually do to make the water safer to drink?,Kong sis,Add bleach/chlorine,5
-L) What do you usually do to make the water safer to drink?,Kong sis,Let it stand and settle,1
-L) What do you usually do to make the water safer to drink?,Kong sis,Don't know,0
-L) What do you usually do to make the water safer to drink?,Kong sis,Boil,56
-L) What do you usually do to make the water safer to drink?,Nyangores, ,64
-L) What do you usually do to make the water safer to drink?,Nyangores,Use water filter (ceramic),2
-L) What do you usually do to make the water safer to drink?,Nyangores,Sand/composite/etc.,0
-L) What do you usually do to make the water safer to drink?,Nyangores,Strain through a cloth,0
-L) What do you usually do to make the water safer to drink?,Nyangores,Other,1
-L) What do you usually do to make the water safer to drink?,Nyangores,Add bleach/chlorine,8
-L) What do you usually do to make the water safer to drink?,Nyangores,Let it stand and settle,1
-L) What do you usually do to make the water safer to drink?,Nyangores,Don't know,0
-L) What do you usually do to make the water safer to drink?,Nyangores,Boil,25
-L) What do you usually do to make the water safer to drink?,Mutarakwa, ,35
-L) What do you usually do to make the water safer to drink?,Mutarakwa,Use water filter (ceramic),0
-L) What do you usually do to make the water safer to drink?,Mutarakwa,Sand/composite/etc.,1
-L) What do you usually do to make the water safer to drink?,Mutarakwa,Strain through a cloth,0
-L) What do you usually do to make the water safer to drink?,Mutarakwa,Other,0
-L) What do you usually do to make the water safer to drink?,Mutarakwa,Add bleach/chlorine,2
-L) What do you usually do to make the water safer to drink?,Mutarakwa,Let it stand and settle,2
-L) What do you usually do to make the water safer to drink?,Mutarakwa,Don't know,0
-L) What do you usually do to make the water safer to drink?,Mutarakwa,Boil,18
-L) What do you usually do to make the water safer to drink?,Chebunyo, ,23
-L) What do you usually do to make the water safer to drink?,Chebunyo,Use water filter (ceramic),0
-L) What do you usually do to make the water safer to drink?,Chebunyo,Sand/composite/etc.,0
-L) What do you usually do to make the water safer to drink?,Chebunyo,Strain through a cloth,0
-L) What do you usually do to make the water safer to drink?,Chebunyo,Other,0
-L) What do you usually do to make the water safer to drink?,Chebunyo,Add bleach/chlorine,20
-L) What do you usually do to make the water safer to drink?,Chebunyo,Let it stand and settle,2
-L) What do you usually do to make the water safer to drink?,Chebunyo,Don't know,0
-L) What do you usually do to make the water safer to drink?,Chebunyo,Boil,47
-L) What do you usually do to make the water safer to drink?,Ndaraweta, ,18
-L) What do you usually do to make the water safer to drink?,Ndaraweta,Use water filter (ceramic),2
-L) What do you usually do to make the water safer to drink?,Ndaraweta,Sand/composite/etc.,0
-L) What do you usually do to make the water safer to drink?,Ndaraweta,Strain through a cloth,0
-L) What do you usually do to make the water safer to drink?,Ndaraweta,Other,3
-L) What do you usually do to make the water safer to drink?,Ndaraweta,Add bleach/chlorine,6
-L) What do you usually do to make the water safer to drink?,Ndaraweta,Let it stand and settle,1
-L) What do you usually do to make the water safer to drink?,Ndaraweta,Don't know,0
-L) What do you usually do to make the water safer to drink?,Ndaraweta,Boil,30
-L) What do you usually do to make the water safer to drink?,Cheseon, ,35
-L) What do you usually do to make the water safer to drink?,Cheseon,Use water filter (ceramic),1
-L) What do you usually do to make the water safer to drink?,Cheseon,Sand/composite/etc.,0
-L) What do you usually do to make the water safer to drink?,Cheseon,Strain through a cloth,0
-L) What do you usually do to make the water safer to drink?,Cheseon,Other,0
-L) What do you usually do to make the water safer to drink?,Cheseon,Add bleach/chlorine,11
-L) What do you usually do to make the water safer to drink?,Cheseon,Let it stand and settle,1
-L) What do you usually do to make the water safer to drink?,Cheseon,Don't know,0
-L) What do you usually do to make the water safer to drink?,Cheseon,Boil,44
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Sigor,Put/rinsed into drain or ditch,7
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Sigor,Put/rinsed into toilet or latrine,63
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Sigor,Child used toilet/latrine,9
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Sigor,Buried,5
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Sigor,Thrown into garbage,6
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Sigor,Left in the open,7
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Sigor,Other,1
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Sigor,Don_t know,0
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Siongiroi,Put/rinsed into drain or ditch,0
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Siongiroi,Put/rinsed into toilet or latrine,45
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Siongiroi,Child used toilet/latrine,14
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Siongiroi,Buried,3
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Siongiroi,Thrown into garbage,2
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Siongiroi,Left in the open,7
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Siongiroi,Other,11
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Siongiroi,Don_t know,2
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Singorwet,Put/rinsed into drain or ditch,6
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Singorwet,Put/rinsed into toilet or latrine,25
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Singorwet,Child used toilet/latrine,4
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Singorwet,Buried,8
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Singorwet,Thrown into garbage,3
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Singorwet,Left in the open,0
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Singorwet,Other,2
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Singorwet,Don_t know,11
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Silibwet Township,Put/rinsed into drain or ditch,10
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Silibwet Township,Put/rinsed into toilet or latrine,35
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Silibwet Township,Child used toilet/latrine,9
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Silibwet Township,Buried,5
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Silibwet Township,Thrown into garbage,1
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Silibwet Township,Left in the open,1
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Silibwet Township,Other,6
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Silibwet Township,Don_t know,9
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Kong sis,Put/rinsed into drain or ditch,2
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Kong sis,Put/rinsed into toilet or latrine,41
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Kong sis,Child used toilet/latrine,19
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Kong sis,Buried,3
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Kong sis,Thrown into garbage,6
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Kong sis,Left in the open,6
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Kong sis,Other,3
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Kong sis,Don_t know,0
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Nyangores,Put/rinsed into drain or ditch,4
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Nyangores,Put/rinsed into toilet or latrine,63
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Nyangores,Child used toilet/latrine,13
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Nyangores,Buried,6
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Nyangores,Thrown into garbage,4
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Nyangores,Left in the open,6
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Nyangores,Other,2
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Nyangores,Don_t know,3
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Mutarakwa,Put/rinsed into drain or ditch,2
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Mutarakwa,Put/rinsed into toilet or latrine,24
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Mutarakwa,Child used toilet/latrine,15
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Mutarakwa,Buried,4
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Mutarakwa,Thrown into garbage,4
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Mutarakwa,Left in the open,0
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Mutarakwa,Other,4
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Mutarakwa,Don_t know,5
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Chebunyo,Put/rinsed into drain or ditch,4
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Chebunyo,Put/rinsed into toilet or latrine,51
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Chebunyo,Child used toilet/latrine,12
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Chebunyo,Buried,4
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Chebunyo,Thrown into garbage,4
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Chebunyo,Left in the open,11
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Chebunyo,Other,3
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Chebunyo,Don_t know,3
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Ndaraweta,Put/rinsed into drain or ditch,8
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Ndaraweta,Put/rinsed into toilet or latrine,21
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Ndaraweta,Child used toilet/latrine,17
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Ndaraweta,Buried,4
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Ndaraweta,Thrown into garbage,1
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Ndaraweta,Left in the open,0
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Ndaraweta,Other,5
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Ndaraweta,Don_t know,4
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Cheseon,Put/rinsed into drain or ditch,8
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Cheseon,Put/rinsed into toilet or latrine,38
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Cheseon,Child used toilet/latrine,22
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Cheseon,Buried,6
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Cheseon,Thrown into garbage,2
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Cheseon,Left in the open,0
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Cheseon,Other,8
-"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Cheseon,Don_t know,8
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Sigor, ,2
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Sigor,Yes,4
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Sigor,No,92
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Siongiroi, ,2
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Siongiroi,Yes,8
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Siongiroi,No,74
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Singorwet, ,0
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Singorwet,Yes,9
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Singorwet,No,50
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Silibwet Township, ,0
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Silibwet Township,Yes,12
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Silibwet Township,No,64
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Kong sis, ,0
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Kong sis,Yes,0
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Kong sis,No,80
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Nyangores, ,3
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Nyangores,Yes,6
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Nyangores,No,92
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Mutarakwa, ,0
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Mutarakwa,Yes,10
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Mutarakwa,No,48
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Chebunyo, ,7
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Chebunyo,Yes,2
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Chebunyo,No,83
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Ndaraweta, ,0
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Ndaraweta,Yes,5
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Ndaraweta,No,55
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Cheseon, ,0
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Cheseon,Yes,11
-"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Cheseon,No,81
-K) What is the main reason you are not satisfied with the water supply?,Sigor, ,61
-K) What is the main reason you are not satisfied with the water supply?,Sigor,Long distance,5
-K) What is the main reason you are not satisfied with the water supply?,Sigor,Bad taste,0
-K) What is the main reason you are not satisfied with the water supply?,Sigor,Long waiting queue,8
-K) What is the main reason you are not satisfied with the water supply?,Sigor,Not enough,10
-K) What is the main reason you are not satisfied with the water supply?,Sigor,Irregular supply,8
-K) What is the main reason you are not satisfied with the water supply?,Sigor,Bad quality,5
-K) What is the main reason you are not satisfied with the water supply?,Sigor,Have to pay/buy,1
-K) What is the main reason you are not satisfied with the water supply?,Sigor,Other,0
-K) What is the main reason you are not satisfied with the water supply?,Sigor,Don_t know,0
-K) What is the main reason you are not satisfied with the water supply?,Siongiroi, ,47
-K) What is the main reason you are not satisfied with the water supply?,Siongiroi,Long distance,2
-K) What is the main reason you are not satisfied with the water supply?,Siongiroi,Bad taste,0
-K) What is the main reason you are not satisfied with the water supply?,Siongiroi,Long waiting queue,0
-K) What is the main reason you are not satisfied with the water supply?,Siongiroi,Not enough,15
-K) What is the main reason you are not satisfied with the water supply?,Siongiroi,Irregular supply,4
-K) What is the main reason you are not satisfied with the water supply?,Siongiroi,Bad quality,16
-K) What is the main reason you are not satisfied with the water supply?,Siongiroi,Have to pay/buy,0
-K) What is the main reason you are not satisfied with the water supply?,Siongiroi,Other,0
-K) What is the main reason you are not satisfied with the water supply?,Siongiroi,Don_t know,0
-K) What is the main reason you are not satisfied with the water supply?,Singorwet, ,28
-K) What is the main reason you are not satisfied with the water supply?,Singorwet,Long distance,8
-K) What is the main reason you are not satisfied with the water supply?,Singorwet,Bad taste,2
-K) What is the main reason you are not satisfied with the water supply?,Singorwet,Long waiting queue,3
-K) What is the main reason you are not satisfied with the water supply?,Singorwet,Not enough,16
-K) What is the main reason you are not satisfied with the water supply?,Singorwet,Irregular supply,1
-K) What is the main reason you are not satisfied with the water supply?,Singorwet,Bad quality,1
-K) What is the main reason you are not satisfied with the water supply?,Singorwet,Have to pay/buy,0
-K) What is the main reason you are not satisfied with the water supply?,Singorwet,Other,0
-K) What is the main reason you are not satisfied with the water supply?,Singorwet,Don_t know,0
-K) What is the main reason you are not satisfied with the water supply?,Silibwet Township, ,51
-K) What is the main reason you are not satisfied with the water supply?,Silibwet Township,Long distance,5
-K) What is the main reason you are not satisfied with the water supply?,Silibwet Township,Bad taste,1
-K) What is the main reason you are not satisfied with the water supply?,Silibwet Township,Long waiting queue,1
-K) What is the main reason you are not satisfied with the water supply?,Silibwet Township,Not enough,13
-K) What is the main reason you are not satisfied with the water supply?,Silibwet Township,Irregular supply,0
-K) What is the main reason you are not satisfied with the water supply?,Silibwet Township,Bad quality,4
-K) What is the main reason you are not satisfied with the water supply?,Silibwet Township,Have to pay/buy,0
-K) What is the main reason you are not satisfied with the water supply?,Silibwet Township,Other,0
-K) What is the main reason you are not satisfied with the water supply?,Silibwet Township,Don_t know,1
-K) What is the main reason you are not satisfied with the water supply?,Kong sis, ,50
-K) What is the main reason you are not satisfied with the water supply?,Kong sis,Long distance,1
-K) What is the main reason you are not satisfied with the water supply?,Kong sis,Bad taste,1
-K) What is the main reason you are not satisfied with the water supply?,Kong sis,Long waiting queue,0
-K) What is the main reason you are not satisfied with the water supply?,Kong sis,Not enough,12
-K) What is the main reason you are not satisfied with the water supply?,Kong sis,Irregular supply,6
-K) What is the main reason you are not satisfied with the water supply?,Kong sis,Bad quality,10
-K) What is the main reason you are not satisfied with the water supply?,Kong sis,Have to pay/buy,0
-K) What is the main reason you are not satisfied with the water supply?,Kong sis,Other,0
-K) What is the main reason you are not satisfied with the water supply?,Kong sis,Don_t know,0
-K) What is the main reason you are not satisfied with the water supply?,Nyangores, ,60
-K) What is the main reason you are not satisfied with the water supply?,Nyangores,Long distance,10
-K) What is the main reason you are not satisfied with the water supply?,Nyangores,Bad taste,0
-K) What is the main reason you are not satisfied with the water supply?,Nyangores,Long waiting queue,0
-K) What is the main reason you are not satisfied with the water supply?,Nyangores,Not enough,11
-K) What is the main reason you are not satisfied with the water supply?,Nyangores,Irregular supply,9
-K) What is the main reason you are not satisfied with the water supply?,Nyangores,Bad quality,3
-K) What is the main reason you are not satisfied with the water supply?,Nyangores,Have to pay/buy,4
-K) What is the main reason you are not satisfied with the water supply?,Nyangores,Other,4
-K) What is the main reason you are not satisfied with the water supply?,Nyangores,Don_t know,0
-K) What is the main reason you are not satisfied with the water supply?,Mutarakwa, ,16
-K) What is the main reason you are not satisfied with the water supply?,Mutarakwa,Long distance,6
-K) What is the main reason you are not satisfied with the water supply?,Mutarakwa,Bad taste,0
-K) What is the main reason you are not satisfied with the water supply?,Mutarakwa,Long waiting queue,3
-K) What is the main reason you are not satisfied with the water supply?,Mutarakwa,Not enough,11
-K) What is the main reason you are not satisfied with the water supply?,Mutarakwa,Irregular supply,9
-K) What is the main reason you are not satisfied with the water supply?,Mutarakwa,Bad quality,13
-K) What is the main reason you are not satisfied with the water supply?,Mutarakwa,Have to pay/buy,0
-K) What is the main reason you are not satisfied with the water supply?,Mutarakwa,Other,0
-K) What is the main reason you are not satisfied with the water supply?,Mutarakwa,Don_t know,0
-K) What is the main reason you are not satisfied with the water supply?,Chebunyo, ,55
-K) What is the main reason you are not satisfied with the water supply?,Chebunyo,Long distance,11
-K) What is the main reason you are not satisfied with the water supply?,Chebunyo,Bad taste,2
-K) What is the main reason you are not satisfied with the water supply?,Chebunyo,Long waiting queue,1
-K) What is the main reason you are not satisfied with the water supply?,Chebunyo,Not enough,15
-K) What is the main reason you are not satisfied with the water supply?,Chebunyo,Irregular supply,0
-K) What is the main reason you are not satisfied with the water supply?,Chebunyo,Bad quality,7
-K) What is the main reason you are not satisfied with the water supply?,Chebunyo,Have to pay/buy,0
-K) What is the main reason you are not satisfied with the water supply?,Chebunyo,Other,1
-K) What is the main reason you are not satisfied with the water supply?,Chebunyo,Don_t know,0
-K) What is the main reason you are not satisfied with the water supply?,Ndaraweta, ,37
-K) What is the main reason you are not satisfied with the water supply?,Ndaraweta,Long distance,6
-K) What is the main reason you are not satisfied with the water supply?,Ndaraweta,Bad taste,0
-K) What is the main reason you are not satisfied with the water supply?,Ndaraweta,Long waiting queue,1
-K) What is the main reason you are not satisfied with the water supply?,Ndaraweta,Not enough,12
-K) What is the main reason you are not satisfied with the water supply?,Ndaraweta,Irregular supply,4
-K) What is the main reason you are not satisfied with the water supply?,Ndaraweta,Bad quality,0
-K) What is the main reason you are not satisfied with the water supply?,Ndaraweta,Have to pay/buy,0
-K) What is the main reason you are not satisfied with the water supply?,Ndaraweta,Other,0
-K) What is the main reason you are not satisfied with the water supply?,Ndaraweta,Don_t know,0
-K) What is the main reason you are not satisfied with the water supply?,Cheseon, ,60
-K) What is the main reason you are not satisfied with the water supply?,Cheseon,Long distance,9
-K) What is the main reason you are not satisfied with the water supply?,Cheseon,Bad taste,0
-K) What is the main reason you are not satisfied with the water supply?,Cheseon,Long waiting queue,3
-K) What is the main reason you are not satisfied with the water supply?,Cheseon,Not enough,15
-K) What is the main reason you are not satisfied with the water supply?,Cheseon,Irregular supply,2
-K) What is the main reason you are not satisfied with the water supply?,Cheseon,Bad quality,2
-K) What is the main reason you are not satisfied with the water supply?,Cheseon,Have to pay/buy,0
-K) What is the main reason you are not satisfied with the water supply?,Cheseon,Other,1
-K) What is the main reason you are not satisfied with the water supply?,Cheseon,Don_t know,0
-O) Most people you know only wash their hands with soap after going to the toilet?,Sigor,Maybe,17
-O) Most people you know only wash their hands with soap after going to the toilet?,Sigor,Yes,53
-O) Most people you know only wash their hands with soap after going to the toilet?,Sigor,Don't Know,11
-O) Most people you know only wash their hands with soap after going to the toilet?,Sigor,No,17
-O) Most people you know only wash their hands with soap after going to the toilet?,Siongiroi,Maybe,18
-O) Most people you know only wash their hands with soap after going to the toilet?,Siongiroi,Yes,44
-O) Most people you know only wash their hands with soap after going to the toilet?,Siongiroi,Don't Know,16
-O) Most people you know only wash their hands with soap after going to the toilet?,Siongiroi,No,6
-O) Most people you know only wash their hands with soap after going to the toilet?,Singorwet,Maybe,6
-O) Most people you know only wash their hands with soap after going to the toilet?,Singorwet,Yes,23
-O) Most people you know only wash their hands with soap after going to the toilet?,Singorwet,Don't Know,11
-O) Most people you know only wash their hands with soap after going to the toilet?,Singorwet,No,19
-O) Most people you know only wash their hands with soap after going to the toilet?,Silibwet Township,Maybe,5
-O) Most people you know only wash their hands with soap after going to the toilet?,Silibwet Township,Yes,42
-O) Most people you know only wash their hands with soap after going to the toilet?,Silibwet Township,Don't Know,16
-O) Most people you know only wash their hands with soap after going to the toilet?,Silibwet Township,No,13
-O) Most people you know only wash their hands with soap after going to the toilet?,Kong sis,Maybe,20
-O) Most people you know only wash their hands with soap after going to the toilet?,Kong sis,Yes,47
-O) Most people you know only wash their hands with soap after going to the toilet?,Kong sis,Don't Know,6
-O) Most people you know only wash their hands with soap after going to the toilet?,Kong sis,No,7
-O) Most people you know only wash their hands with soap after going to the toilet?,Nyangores,Maybe,25
-O) Most people you know only wash their hands with soap after going to the toilet?,Nyangores,Yes,43
-O) Most people you know only wash their hands with soap after going to the toilet?,Nyangores,Don't Know,15
-O) Most people you know only wash their hands with soap after going to the toilet?,Nyangores,No,18
-O) Most people you know only wash their hands with soap after going to the toilet?,Mutarakwa,Maybe,8
-O) Most people you know only wash their hands with soap after going to the toilet?,Mutarakwa,Yes,18
-O) Most people you know only wash their hands with soap after going to the toilet?,Mutarakwa,Don't Know,8
-O) Most people you know only wash their hands with soap after going to the toilet?,Mutarakwa,No,24
-O) Most people you know only wash their hands with soap after going to the toilet?,Chebunyo,Maybe,16
-O) Most people you know only wash their hands with soap after going to the toilet?,Chebunyo,Yes,55
-O) Most people you know only wash their hands with soap after going to the toilet?,Chebunyo,Don't Know,12
-O) Most people you know only wash their hands with soap after going to the toilet?,Chebunyo,No,9
-O) Most people you know only wash their hands with soap after going to the toilet?,Ndaraweta,Maybe,6
-O) Most people you know only wash their hands with soap after going to the toilet?,Ndaraweta,Yes,23
-O) Most people you know only wash their hands with soap after going to the toilet?,Ndaraweta,Don't Know,15
-O) Most people you know only wash their hands with soap after going to the toilet?,Ndaraweta,No,16
-O) Most people you know only wash their hands with soap after going to the toilet?,Cheseon,Maybe,6
-O) Most people you know only wash their hands with soap after going to the toilet?,Cheseon,Yes,49
-O) Most people you know only wash their hands with soap after going to the toilet?,Cheseon,Don't Know,13
-O) Most people you know only wash their hands with soap after going to the toilet?,Cheseon,No,24
+Question,Ward,Answer,CountQ) What is your main mode of human waste disposal?,Sigor,Pit latrine (covered/uncovered),95Q) What is your main mode of human waste disposal?,Sigor,Septic tank,0Q) What is your main mode of human waste disposal?,Sigor,Bush,2Q) What is your main mode of human waste disposal?,Sigor,Other,1Q) What is your main mode of human waste disposal?,Sigor,Vip pit latrine,0Q) What is your main mode of human waste disposal?,Sigor,Main sewer,0Q) What is your main mode of human waste disposal?,Siongiroi,Pit latrine (covered/uncovered),80Q) What is your main mode of human waste disposal?,Siongiroi,Septic tank,0Q) What is your main mode of human waste disposal?,Siongiroi,Bush,2Q) What is your main mode of human waste disposal?,Siongiroi,Other,0Q) What is your main mode of human waste disposal?,Siongiroi,Vip pit latrine,2Q) What is your main mode of human waste disposal?,Siongiroi,Main sewer,0Q) What is your main mode of human waste disposal?,Singorwet,Pit latrine (covered/uncovered),54Q) What is your main mode of human waste disposal?,Singorwet,Septic tank,0Q) What is your main mode of human waste disposal?,Singorwet,Bush,0Q) What is your main mode of human waste disposal?,Singorwet,Other,0Q) What is your main mode of human waste disposal?,Singorwet,Vip pit latrine,5Q) What is your main mode of human waste disposal?,Singorwet,Main sewer,0Q) What is your main mode of human waste disposal?,Silibwet Township,Pit latrine (covered/uncovered),74Q) What is your main mode of human waste disposal?,Silibwet Township,Septic tank,0Q) What is your main mode of human waste disposal?,Silibwet Township,Bush,0Q) What is your main mode of human waste disposal?,Silibwet Township,Other,1Q) What is your main mode of human waste disposal?,Silibwet Township,Vip pit latrine,1Q) What is your main mode of human waste disposal?,Silibwet Township,Main sewer,0Q) What is your main mode of human waste disposal?,Kong'asis,Pit latrine (covered/uncovered),80Q) What is your main mode of human waste disposal?,Kong'asis,Septic tank,0Q) What is your main mode of human waste disposal?,Kong'asis,Bush,0Q) What is your main mode of human waste disposal?,Kong'asis,Other,0Q) What is your main mode of human waste disposal?,Kong'asis,Vip pit latrine,0Q) What is your main mode of human waste disposal?,Kong'asis,Main sewer,0Q) What is your main mode of human waste disposal?,Nyangores,Pit latrine (covered/uncovered),91Q) What is your main mode of human waste disposal?,Nyangores,Septic tank,1Q) What is your main mode of human waste disposal?,Nyangores,Bush,3Q) What is your main mode of human waste disposal?,Nyangores,Other,1Q) What is your main mode of human waste disposal?,Nyangores,Vip pit latrine,5Q) What is your main mode of human waste disposal?,Nyangores,Main sewer,0Q) What is your main mode of human waste disposal?,Mutarakwa,Pit latrine (covered/uncovered),56Q) What is your main mode of human waste disposal?,Mutarakwa,Septic tank,0Q) What is your main mode of human waste disposal?,Mutarakwa,Bush,0Q) What is your main mode of human waste disposal?,Mutarakwa,Other,0Q) What is your main mode of human waste disposal?,Mutarakwa,Vip pit latrine,2Q) What is your main mode of human waste disposal?,Mutarakwa,Main sewer,0Q) What is your main mode of human waste disposal?,Chebunyo,Pit latrine (covered/uncovered),85Q) What is your main mode of human waste disposal?,Chebunyo,Septic tank,0Q) What is your main mode of human waste disposal?,Chebunyo,Bush,7Q) What is your main mode of human waste disposal?,Chebunyo,Other,0Q) What is your main mode of human waste disposal?,Chebunyo,Vip pit latrine,0Q) What is your main mode of human waste disposal?,Chebunyo,Main sewer,0Q) What is your main mode of human waste disposal?,Ndaraweta,Pit latrine (covered/uncovered),59Q) What is your main mode of human waste disposal?,Ndaraweta,Septic tank,0Q) What is your main mode of human waste disposal?,Ndaraweta,Bush,0Q) What is your main mode of human waste disposal?,Ndaraweta,Other,0Q) What is your main mode of human waste disposal?,Ndaraweta,Vip pit latrine,1Q) What is your main mode of human waste disposal?,Ndaraweta,Main sewer,0Q) What is your main mode of human waste disposal?,Cheseon,Pit latrine (covered/uncovered),86Q) What is your main mode of human waste disposal?,Cheseon,Septic tank,0Q) What is your main mode of human waste disposal?,Cheseon,Bush,0Q) What is your main mode of human waste disposal?,Cheseon,Other,0Q) What is your main mode of human waste disposal?,Cheseon,Vip pit latrine,5Q) What is your main mode of human waste disposal?,Cheseon,Main sewer,1I) What is the trekking distance to the current main water source?,Sigor,Less than 500m (Less than 15 minutes),76I) What is the trekking distance to the current main water source?,Sigor,More than 2km (1-2hrs),6I) What is the trekking distance to the current main water source?,Sigor,More than 1 km-less than 2km (30min-1 Hour),16I) What is the trekking distance to the current main water source?,Sigor, ,0I) What is the trekking distance to the current main water source?,Siongiroi,Less than 500m (Less than 15 minutes),75I) What is the trekking distance to the current main water source?,Siongiroi,More than 2km (1-2hrs),1I) What is the trekking distance to the current main water source?,Siongiroi,More than 1 km-less than 2km (30min-1 Hour),6I) What is the trekking distance to the current main water source?,Siongiroi, ,2I) What is the trekking distance to the current main water source?,Singorwet,Less than 500m (Less than 15 minutes),51I) What is the trekking distance to the current main water source?,Singorwet,More than 2km (1-2hrs),1I) What is the trekking distance to the current main water source?,Singorwet,More than 1 km-less than 2km (30min-1 Hour),6I) What is the trekking distance to the current main water source?,Singorwet, ,1I) What is the trekking distance to the current main water source?,Silibwet Township,Less than 500m (Less than 15 minutes),71I) What is the trekking distance to the current main water source?,Silibwet Township,More than 2km (1-2hrs),2I) What is the trekking distance to the current main water source?,Silibwet Township,More than 1 km-less than 2km (30min-1 Hour),3I) What is the trekking distance to the current main water source?,Silibwet Township, ,0I) What is the trekking distance to the current main water source?,Kong'asis,Less than 500m (Less than 15 minutes),77I) What is the trekking distance to the current main water source?,Kong'asis,More than 2km (1-2hrs),2I) What is the trekking distance to the current main water source?,Kong'asis,More than 1 km-less than 2km (30min-1 Hour),1I) What is the trekking distance to the current main water source?,Kong'asis, ,0I) What is the trekking distance to the current main water source?,Nyangores,Less than 500m (Less than 15 minutes),80I) What is the trekking distance to the current main water source?,Nyangores,More than 2km (1-2hrs),6I) What is the trekking distance to the current main water source?,Nyangores,More than 1 km-less than 2km (30min-1 Hour),12I) What is the trekking distance to the current main water source?,Nyangores, ,3I) What is the trekking distance to the current main water source?,Mutarakwa,Less than 500m (Less than 15 minutes),52I) What is the trekking distance to the current main water source?,Mutarakwa,More than 2km (1-2hrs),1I) What is the trekking distance to the current main water source?,Mutarakwa,More than 1 km-less than 2km (30min-1 Hour),2I) What is the trekking distance to the current main water source?,Mutarakwa, ,3I) What is the trekking distance to the current main water source?,Chebunyo,Less than 500m (Less than 15 minutes),78I) What is the trekking distance to the current main water source?,Chebunyo,More than 2km (1-2hrs),4I) What is the trekking distance to the current main water source?,Chebunyo,More than 1 km-less than 2km (30min-1 Hour),9I) What is the trekking distance to the current main water source?,Chebunyo, ,1I) What is the trekking distance to the current main water source?,Ndaraweta,Less than 500m (Less than 15 minutes),50I) What is the trekking distance to the current main water source?,Ndaraweta,More than 2km (1-2hrs),1I) What is the trekking distance to the current main water source?,Ndaraweta,More than 1 km-less than 2km (30min-1 Hour),7I) What is the trekking distance to the current main water source?,Ndaraweta, ,2I) What is the trekking distance to the current main water source?,Cheseon,Less than 500m (Less than 15 minutes),65I) What is the trekking distance to the current main water source?,Cheseon,More than 2km (1-2hrs),15I) What is the trekking distance to the current main water source?,Cheseon,More than 1 km-less than 2km (30min-1 Hour),10I) What is the trekking distance to the current main water source?,Cheseon, ,2B) What is the average size of land you own?,Sigor,2 - 5 acres,34B) What is the average size of land you own?,Sigor,5 - 10 acres,10B) What is the average size of land you own?,Sigor,0 - 2 acres,54B) What is the average size of land you own?,Sigor,More than 10 acres,0B) What is the average size of land you own?,Sigor,None,0B) What is the average size of land you own?,Siongiroi,2 - 5 acres,23B) What is the average size of land you own?,Siongiroi,5 - 10 acres,9B) What is the average size of land you own?,Siongiroi,0 - 2 acres,40B) What is the average size of land you own?,Siongiroi,More than 10 acres,10B) What is the average size of land you own?,Siongiroi,None,2B) What is the average size of land you own?,Singorwet,2 - 5 acres,15B) What is the average size of land you own?,Singorwet,5 - 10 acres,4B) What is the average size of land you own?,Singorwet,0 - 2 acres,39B) What is the average size of land you own?,Singorwet,More than 10 acres,1B) What is the average size of land you own?,Singorwet,None,0B) What is the average size of land you own?,Silibwet Township,2 - 5 acres,9B) What is the average size of land you own?,Silibwet Township,5 - 10 acres,7B) What is the average size of land you own?,Silibwet Township,0 - 2 acres,59B) What is the average size of land you own?,Silibwet Township,More than 10 acres,0B) What is the average size of land you own?,Silibwet Township,None,1B) What is the average size of land you own?,Kong'asis,2 - 5 acres,28B) What is the average size of land you own?,Kong'asis,5 - 10 acres,10B) What is the average size of land you own?,Kong'asis,0 - 2 acres,39B) What is the average size of land you own?,Kong'asis,More than 10 acres,2B) What is the average size of land you own?,Kong'asis,None,1B) What is the average size of land you own?,Nyangores,2 - 5 acres,30B) What is the average size of land you own?,Nyangores,5 - 10 acres,12B) What is the average size of land you own?,Nyangores,0 - 2 acres,54B) What is the average size of land you own?,Nyangores,More than 10 acres,1B) What is the average size of land you own?,Nyangores,None,4B) What is the average size of land you own?,Mutarakwa,2 - 5 acres,14B) What is the average size of land you own?,Mutarakwa,5 - 10 acres,4B) What is the average size of land you own?,Mutarakwa,0 - 2 acres,38B) What is the average size of land you own?,Mutarakwa,More than 10 acres,2B) What is the average size of land you own?,Mutarakwa,None,0B) What is the average size of land you own?,Chebunyo,2 - 5 acres,26B) What is the average size of land you own?,Chebunyo,5 - 10 acres,9B) What is the average size of land you own?,Chebunyo,0 - 2 acres,53B) What is the average size of land you own?,Chebunyo,More than 10 acres,1B) What is the average size of land you own?,Chebunyo,None,3B) What is the average size of land you own?,Ndaraweta,2 - 5 acres,21B) What is the average size of land you own?,Ndaraweta,5 - 10 acres,4B) What is the average size of land you own?,Ndaraweta,0 - 2 acres,33B) What is the average size of land you own?,Ndaraweta,More than 10 acres,2B) What is the average size of land you own?,Ndaraweta,None,0B) What is the average size of land you own?,Cheseon,2 - 5 acres,21B) What is the average size of land you own?,Cheseon,5 - 10 acres,6B) What is the average size of land you own?,Cheseon,0 - 2 acres,63B) What is the average size of land you own?,Cheseon,More than 10 acres,2B) What is the average size of land you own?,Cheseon,None,0N) Information on the importance of hand washing with soap has never been given to you?,Sigor,Maybe,0N) Information on the importance of hand washing with soap has never been given to you?,Sigor,Yes,40N) Information on the importance of hand washing with soap has never been given to you?,Sigor,Don't Know,0N) Information on the importance of hand washing with soap has never been given to you?,Sigor,No,58N) Information on the importance of hand washing with soap has never been given to you?,Siongiroi,Maybe,0N) Information on the importance of hand washing with soap has never been given to you?,Siongiroi,Yes,51N) Information on the importance of hand washing with soap has never been given to you?,Siongiroi,Don't Know,0N) Information on the importance of hand washing with soap has never been given to you?,Siongiroi,No,33N) Information on the importance of hand washing with soap has never been given to you?,Singorwet,Maybe,1N) Information on the importance of hand washing with soap has never been given to you?,Singorwet,Yes,35N) Information on the importance of hand washing with soap has never been given to you?,Singorwet,Don't Know,1N) Information on the importance of hand washing with soap has never been given to you?,Singorwet,No,22N) Information on the importance of hand washing with soap has never been given to you?,Silibwet Township,Maybe,3N) Information on the importance of hand washing with soap has never been given to you?,Silibwet Township,Yes,31N) Information on the importance of hand washing with soap has never been given to you?,Silibwet Township,Don't Know,0N) Information on the importance of hand washing with soap has never been given to you?,Silibwet Township,No,42N) Information on the importance of hand washing with soap has never been given to you?,Kong'asis,Maybe,0N) Information on the importance of hand washing with soap has never been given to you?,Kong'asis,Yes,46N) Information on the importance of hand washing with soap has never been given to you?,Kong'asis,Don't Know,0N) Information on the importance of hand washing with soap has never been given to you?,Kong'asis,No,34N) Information on the importance of hand washing with soap has never been given to you?,Nyangores,Maybe,0N) Information on the importance of hand washing with soap has never been given to you?,Nyangores,Yes,53N) Information on the importance of hand washing with soap has never been given to you?,Nyangores,Don't Know,0N) Information on the importance of hand washing with soap has never been given to you?,Nyangores,No,48N) Information on the importance of hand washing with soap has never been given to you?,Mutarakwa,Maybe,1N) Information on the importance of hand washing with soap has never been given to you?,Mutarakwa,Yes,16N) Information on the importance of hand washing with soap has never been given to you?,Mutarakwa,Don't Know,0N) Information on the importance of hand washing with soap has never been given to you?,Mutarakwa,No,41N) Information on the importance of hand washing with soap has never been given to you?,Chebunyo,Maybe,0N) Information on the importance of hand washing with soap has never been given to you?,Chebunyo,Yes,39N) Information on the importance of hand washing with soap has never been given to you?,Chebunyo,Don't Know,0N) Information on the importance of hand washing with soap has never been given to you?,Chebunyo,No,53N) Information on the importance of hand washing with soap has never been given to you?,Ndaraweta,Maybe,0N) Information on the importance of hand washing with soap has never been given to you?,Ndaraweta,Yes,26N) Information on the importance of hand washing with soap has never been given to you?,Ndaraweta,Don't Know,1N) Information on the importance of hand washing with soap has never been given to you?,Ndaraweta,No,33N) Information on the importance of hand washing with soap has never been given to you?,Cheseon,Maybe,0N) Information on the importance of hand washing with soap has never been given to you?,Cheseon,Yes,37N) Information on the importance of hand washing with soap has never been given to you?,Cheseon,Don't Know,1N) Information on the importance of hand washing with soap has never been given to you?,Cheseon,No,54"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Sigor,Yes,12"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Sigor,Don't Know,0"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Sigor,No,86"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Siongiroi,Yes,10"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Siongiroi,Don't Know,0"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Siongiroi,No,74"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Singorwet,Yes,12"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Singorwet,Don't Know,0"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Singorwet,No,47"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Silibwet Township,Yes,15"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Silibwet Township,Don't Know,0"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Silibwet Township,No,61"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Kong'asis,Yes,5"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Kong'asis,Don't Know,0"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Kong'asis,No,75"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Nyangores,Yes,8"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Nyangores,Don't Know,3"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Nyangores,No,90"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Mutarakwa,Yes,6"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Mutarakwa,Don't Know,0"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Mutarakwa,No,52"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Chebunyo,Yes,17"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Chebunyo,Don't Know,5"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Chebunyo,No,70"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Ndaraweta,Yes,8"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Ndaraweta,Don't Know,1"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Ndaraweta,No,51"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Cheseon,Yes,13"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Cheseon,Don't Know,0"F) In the last one month, have you or anyone in your household gone to bed without food due to lack of it?",Cheseon,No,79"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Sigor,Yes,38"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Sigor,No,60"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Siongiroi,Yes,35"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Siongiroi,No,49"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Singorwet,Yes,22"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Singorwet,No,37"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Silibwet Township,Yes,33"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Silibwet Township,No,43"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Kong'asis,Yes,21"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Kong'asis,No,59"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Nyangores,Yes,41"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Nyangores,No,60"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Mutarakwa,Yes,33"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Mutarakwa,No,25"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Chebunyo,Yes,47"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Chebunyo,No,45"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Ndaraweta,Yes,24"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Ndaraweta,No,36"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Cheseon,Yes,41"E) In the past 7 DAYS, have there been times when you did not have enough food or money to buy food?",Cheseon,No,51C) What is your main current source of income?,Sigor,Permanent job,9C) What is your main current source of income?,Sigor,Sale of livestock products,11C) What is your main current source of income?,Sigor,Sale of crops,38C) What is your main current source of income?,Sigor,No income,3C) What is your main current source of income?,Sigor,Sale of livestock,2C) What is your main current source of income?,Sigor,Remittance,1C) What is your main current source of income?,Sigor,Sale of personal assets,0C) What is your main current source of income?,Sigor,Casual labor,20C) What is your main current source of income?,Sigor,Not Applicable,1C) What is your main current source of income?,Sigor,Petty trading e.g. sale of firewood,13C) What is your main current source of income?,Siongiroi,Permanent job,8C) What is your main current source of income?,Siongiroi,Sale of livestock products,21C) What is your main current source of income?,Siongiroi,Sale of crops,22C) What is your main current source of income?,Siongiroi,No income,1C) What is your main current source of income?,Siongiroi,Sale of livestock,3C) What is your main current source of income?,Siongiroi,Remittance,3C) What is your main current source of income?,Siongiroi,Sale of personal assets,1C) What is your main current source of income?,Siongiroi,Casual labor,17C) What is your main current source of income?,Siongiroi,Not Applicable,1C) What is your main current source of income?,Siongiroi,Petty trading e.g. sale of firewood,7C) What is your main current source of income?,Singorwet,Permanent job,5C) What is your main current source of income?,Singorwet,Sale of livestock products,0C) What is your main current source of income?,Singorwet,Sale of crops,31C) What is your main current source of income?,Singorwet,No income,1C) What is your main current source of income?,Singorwet,Sale of livestock,0C) What is your main current source of income?,Singorwet,Remittance,1C) What is your main current source of income?,Singorwet,Sale of personal assets,0C) What is your main current source of income?,Singorwet,Casual labor,18C) What is your main current source of income?,Singorwet,Not Applicable,2C) What is your main current source of income?,Singorwet,Petty trading e.g. sale of firewood,1C) What is your main current source of income?,Silibwet Township,Permanent job,3C) What is your main current source of income?,Silibwet Township,Sale of livestock products,0C) What is your main current source of income?,Silibwet Township,Sale of crops,40C) What is your main current source of income?,Silibwet Township,No income,1C) What is your main current source of income?,Silibwet Township,Sale of livestock,1C) What is your main current source of income?,Silibwet Township,Remittance,0C) What is your main current source of income?,Silibwet Township,Sale of personal assets,2C) What is your main current source of income?,Silibwet Township,Casual labor,23C) What is your main current source of income?,Silibwet Township,Not Applicable,1C) What is your main current source of income?,Silibwet Township,Petty trading e.g. sale of firewood,5C) What is your main current source of income?,Kong'asis,Permanent job,8C) What is your main current source of income?,Kong'asis,Sale of livestock products,19C) What is your main current source of income?,Kong'asis,Sale of crops,32C) What is your main current source of income?,Kong'asis,No income,1C) What is your main current source of income?,Kong'asis,Sale of livestock,2C) What is your main current source of income?,Kong'asis,Remittance,5C) What is your main current source of income?,Kong'asis,Sale of personal assets,0C) What is your main current source of income?,Kong'asis,Casual labor,12C) What is your main current source of income?,Kong'asis,Not Applicable,1C) What is your main current source of income?,Kong'asis,Petty trading e.g. sale of firewood,0C) What is your main current source of income?,Nyangores,Permanent job,12C) What is your main current source of income?,Nyangores,Sale of livestock products,3C) What is your main current source of income?,Nyangores,Sale of crops,26C) What is your main current source of income?,Nyangores,No income,1C) What is your main current source of income?,Nyangores,Sale of livestock,0C) What is your main current source of income?,Nyangores,Remittance,4C) What is your main current source of income?,Nyangores,Sale of personal assets,2C) What is your main current source of income?,Nyangores,Casual labor,32C) What is your main current source of income?,Nyangores,Not Applicable,12C) What is your main current source of income?,Nyangores,Petty trading e.g. sale of firewood,9C) What is your main current source of income?,Mutarakwa,Permanent job,3C) What is your main current source of income?,Mutarakwa,Sale of livestock products,2C) What is your main current source of income?,Mutarakwa,Sale of crops,28C) What is your main current source of income?,Mutarakwa,No income,2C) What is your main current source of income?,Mutarakwa,Sale of livestock,2C) What is your main current source of income?,Mutarakwa,Remittance,3C) What is your main current source of income?,Mutarakwa,Sale of personal assets,0C) What is your main current source of income?,Mutarakwa,Casual labor,16C) What is your main current source of income?,Mutarakwa,Not Applicable,0C) What is your main current source of income?,Mutarakwa,Petty trading e.g. sale of firewood,2C) What is your main current source of income?,Chebunyo,Permanent job,16C) What is your main current source of income?,Chebunyo,Sale of livestock products,4C) What is your main current source of income?,Chebunyo,Sale of crops,30C) What is your main current source of income?,Chebunyo,No income,0C) What is your main current source of income?,Chebunyo,Sale of livestock,1C) What is your main current source of income?,Chebunyo,Remittance,5C) What is your main current source of income?,Chebunyo,Sale of personal assets,0C) What is your main current source of income?,Chebunyo,Casual labor,23C) What is your main current source of income?,Chebunyo,Not Applicable,3C) What is your main current source of income?,Chebunyo,Petty trading e.g. sale of firewood,10C) What is your main current source of income?,Ndaraweta,Permanent job,4C) What is your main current source of income?,Ndaraweta,Sale of livestock products,0C) What is your main current source of income?,Ndaraweta,Sale of crops,46C) What is your main current source of income?,Ndaraweta,No income,0C) What is your main current source of income?,Ndaraweta,Sale of livestock,0C) What is your main current source of income?,Ndaraweta,Remittance,0C) What is your main current source of income?,Ndaraweta,Sale of personal assets,0C) What is your main current source of income?,Ndaraweta,Casual labor,10C) What is your main current source of income?,Ndaraweta,Not Applicable,0C) What is your main current source of income?,Ndaraweta,Petty trading e.g. sale of firewood,0C) What is your main current source of income?,Cheseon,Permanent job,7C) What is your main current source of income?,Cheseon,Sale of livestock products,2C) What is your main current source of income?,Cheseon,Sale of crops,56C) What is your main current source of income?,Cheseon,No income,1C) What is your main current source of income?,Cheseon,Sale of livestock,0C) What is your main current source of income?,Cheseon,Remittance,1C) What is your main current source of income?,Cheseon,Sale of personal assets,1C) What is your main current source of income?,Cheseon,Casual labor,20C) What is your main current source of income?,Cheseon,Not Applicable,3C) What is your main current source of income?,Cheseon,Petty trading e.g. sale of firewood,1H) What is the main source of drinking water for members of your household?,Sigor,Rain water collection,18H) What is the main source of drinking water for members of your household?,Sigor,Tubewell/borehole (& pump),0H) What is the main source of drinking water for members of your household?,Sigor,"Surface water (e.g. river, pond)",43H) What is the main source of drinking water for members of your household?,Sigor,Unprotected dug well,2H) What is the main source of drinking water for members of your household?,Sigor,Tanker truck,0H) What is the main source of drinking water for members of your household?,Sigor,Public tap/standpipe,3H) What is the main source of drinking water for members of your household?,Sigor,Piped water,16H) What is the main source of drinking water for members of your household?,Sigor,Unprotected spring,7H) What is the main source of drinking water for members of your household?,Sigor,Protected dug well,1H) What is the main source of drinking water for members of your household?,Sigor,Small water vendor,0H) What is the main source of drinking water for members of your household?,Sigor,Other,0H) What is the main source of drinking water for members of your household?,Sigor,Protected spring,8H) What is the main source of drinking water for members of your household?,Siongiroi,Rain water collection,24H) What is the main source of drinking water for members of your household?,Siongiroi,Tubewell/borehole (& pump),6H) What is the main source of drinking water for members of your household?,Siongiroi,"Surface water (e.g. river, pond)",23H) What is the main source of drinking water for members of your household?,Siongiroi,Unprotected dug well,16H) What is the main source of drinking water for members of your household?,Siongiroi,Tanker truck,0H) What is the main source of drinking water for members of your household?,Siongiroi,Public tap/standpipe,0H) What is the main source of drinking water for members of your household?,Siongiroi,Piped water,14H) What is the main source of drinking water for members of your household?,Siongiroi,Unprotected spring,1H) What is the main source of drinking water for members of your household?,Siongiroi,Protected dug well,0H) What is the main source of drinking water for members of your household?,Siongiroi,Small water vendor,0H) What is the main source of drinking water for members of your household?,Siongiroi,Other,0H) What is the main source of drinking water for members of your household?,Siongiroi,Protected spring,0H) What is the main source of drinking water for members of your household?,Singorwet,Rain water collection,8H) What is the main source of drinking water for members of your household?,Singorwet,Tubewell/borehole (& pump),0H) What is the main source of drinking water for members of your household?,Singorwet,"Surface water (e.g. river, pond)",9H) What is the main source of drinking water for members of your household?,Singorwet,Unprotected dug well,7H) What is the main source of drinking water for members of your household?,Singorwet,Tanker truck,0H) What is the main source of drinking water for members of your household?,Singorwet,Public tap/standpipe,0H) What is the main source of drinking water for members of your household?,Singorwet,Piped water,1H) What is the main source of drinking water for members of your household?,Singorwet,Unprotected spring,16H) What is the main source of drinking water for members of your household?,Singorwet,Protected dug well,5H) What is the main source of drinking water for members of your household?,Singorwet,Small water vendor,0H) What is the main source of drinking water for members of your household?,Singorwet,Other,0H) What is the main source of drinking water for members of your household?,Singorwet,Protected spring,13H) What is the main source of drinking water for members of your household?,Silibwet Township,Rain water collection,7H) What is the main source of drinking water for members of your household?,Silibwet Township,Tubewell/borehole (& pump),0H) What is the main source of drinking water for members of your household?,Silibwet Township,"Surface water (e.g. river, pond)",14H) What is the main source of drinking water for members of your household?,Silibwet Township,Unprotected dug well,5H) What is the main source of drinking water for members of your household?,Silibwet Township,Tanker truck,1H) What is the main source of drinking water for members of your household?,Silibwet Township,Public tap/standpipe,2H) What is the main source of drinking water for members of your household?,Silibwet Township,Piped water,6H) What is the main source of drinking water for members of your household?,Silibwet Township,Unprotected spring,13H) What is the main source of drinking water for members of your household?,Silibwet Township,Protected dug well,5H) What is the main source of drinking water for members of your household?,Silibwet Township,Small water vendor,1H) What is the main source of drinking water for members of your household?,Silibwet Township,Other,3H) What is the main source of drinking water for members of your household?,Silibwet Township,Protected spring,19H) What is the main source of drinking water for members of your household?,Kong'asis,Rain water collection,26H) What is the main source of drinking water for members of your household?,Kong'asis,Tubewell/borehole (& pump),3H) What is the main source of drinking water for members of your household?,Kong'asis,"Surface water (e.g. river, pond)",18H) What is the main source of drinking water for members of your household?,Kong'asis,Unprotected dug well,27H) What is the main source of drinking water for members of your household?,Kong'asis,Tanker truck,0H) What is the main source of drinking water for members of your household?,Kong'asis,Public tap/standpipe,1H) What is the main source of drinking water for members of your household?,Kong'asis,Piped water,4H) What is the main source of drinking water for members of your household?,Kong'asis,Unprotected spring,0H) What is the main source of drinking water for members of your household?,Kong'asis,Protected dug well,1H) What is the main source of drinking water for members of your household?,Kong'asis,Small water vendor,0H) What is the main source of drinking water for members of your household?,Kong'asis,Other,0H) What is the main source of drinking water for members of your household?,Kong'asis,Protected spring,0H) What is the main source of drinking water for members of your household?,Nyangores,Rain water collection,8H) What is the main source of drinking water for members of your household?,Nyangores,Tubewell/borehole (& pump),4H) What is the main source of drinking water for members of your household?,Nyangores,"Surface water (e.g. river, pond)",41H) What is the main source of drinking water for members of your household?,Nyangores,Unprotected dug well,9H) What is the main source of drinking water for members of your household?,Nyangores,Tanker truck,0H) What is the main source of drinking water for members of your household?,Nyangores,Public tap/standpipe,13H) What is the main source of drinking water for members of your household?,Nyangores,Piped water,9H) What is the main source of drinking water for members of your household?,Nyangores,Unprotected spring,4H) What is the main source of drinking water for members of your household?,Nyangores,Protected dug well,5H) What is the main source of drinking water for members of your household?,Nyangores,Small water vendor,2H) What is the main source of drinking water for members of your household?,Nyangores,Other,2H) What is the main source of drinking water for members of your household?,Nyangores,Protected spring,4H) What is the main source of drinking water for members of your household?,Mutarakwa,Rain water collection,3H) What is the main source of drinking water for members of your household?,Mutarakwa,Tubewell/borehole (& pump),6H) What is the main source of drinking water for members of your household?,Mutarakwa,"Surface water (e.g. river, pond)",6H) What is the main source of drinking water for members of your household?,Mutarakwa,Unprotected dug well,9H) What is the main source of drinking water for members of your household?,Mutarakwa,Tanker truck,0H) What is the main source of drinking water for members of your household?,Mutarakwa,Public tap/standpipe,0H) What is the main source of drinking water for members of your household?,Mutarakwa,Piped water,2H) What is the main source of drinking water for members of your household?,Mutarakwa,Unprotected spring,23H) What is the main source of drinking water for members of your household?,Mutarakwa,Protected dug well,4H) What is the main source of drinking water for members of your household?,Mutarakwa,Small water vendor,0H) What is the main source of drinking water for members of your household?,Mutarakwa,Other,0H) What is the main source of drinking water for members of your household?,Mutarakwa,Protected spring,5H) What is the main source of drinking water for members of your household?,Chebunyo,Rain water collection,26H) What is the main source of drinking water for members of your household?,Chebunyo,Tubewell/borehole (& pump),4H) What is the main source of drinking water for members of your household?,Chebunyo,"Surface water (e.g. river, pond)",51H) What is the main source of drinking water for members of your household?,Chebunyo,Unprotected dug well,9H) What is the main source of drinking water for members of your household?,Chebunyo,Tanker truck,0H) What is the main source of drinking water for members of your household?,Chebunyo,Public tap/standpipe,0H) What is the main source of drinking water for members of your household?,Chebunyo,Piped water,0H) What is the main source of drinking water for members of your household?,Chebunyo,Unprotected spring,0H) What is the main source of drinking water for members of your household?,Chebunyo,Protected dug well,1H) What is the main source of drinking water for members of your household?,Chebunyo,Small water vendor,0H) What is the main source of drinking water for members of your household?,Chebunyo,Other,1H) What is the main source of drinking water for members of your household?,Chebunyo,Protected spring,0H) What is the main source of drinking water for members of your household?,Ndaraweta,Rain water collection,6H) What is the main source of drinking water for members of your household?,Ndaraweta,Tubewell/borehole (& pump),0H) What is the main source of drinking water for members of your household?,Ndaraweta,"Surface water (e.g. river, pond)",8H) What is the main source of drinking water for members of your household?,Ndaraweta,Unprotected dug well,7H) What is the main source of drinking water for members of your household?,Ndaraweta,Tanker truck,0H) What is the main source of drinking water for members of your household?,Ndaraweta,Public tap/standpipe,0H) What is the main source of drinking water for members of your household?,Ndaraweta,Piped water,0H) What is the main source of drinking water for members of your household?,Ndaraweta,Unprotected spring,30H) What is the main source of drinking water for members of your household?,Ndaraweta,Protected dug well,2H) What is the main source of drinking water for members of your household?,Ndaraweta,Small water vendor,0H) What is the main source of drinking water for members of your household?,Ndaraweta,Other,0H) What is the main source of drinking water for members of your household?,Ndaraweta,Protected spring,7H) What is the main source of drinking water for members of your household?,Cheseon,Rain water collection,5H) What is the main source of drinking water for members of your household?,Cheseon,Tubewell/borehole (& pump),0H) What is the main source of drinking water for members of your household?,Cheseon,"Surface water (e.g. river, pond)",21H) What is the main source of drinking water for members of your household?,Cheseon,Unprotected dug well,6H) What is the main source of drinking water for members of your household?,Cheseon,Tanker truck,0H) What is the main source of drinking water for members of your household?,Cheseon,Public tap/standpipe,0H) What is the main source of drinking water for members of your household?,Cheseon,Piped water,1H) What is the main source of drinking water for members of your household?,Cheseon,Unprotected spring,24H) What is the main source of drinking water for members of your household?,Cheseon,Protected dug well,10H) What is the main source of drinking water for members of your household?,Cheseon,Small water vendor,0H) What is the main source of drinking water for members of your household?,Cheseon,Other,2H) What is the main source of drinking water for members of your household?,Cheseon,Protected spring,23A) Main Occupation of the Household Head?,Sigor,Livestock herding,3A) Main Occupation of the Household Head?,Sigor,Employed (salaried),9A) Main Occupation of the Household Head?,Sigor,Waged labour (Casual),22A) Main Occupation of the Household Head?,Sigor,Own farm labour,49A) Main Occupation of the Household Head?,Sigor,Merchant/trader,2A) Main Occupation of the Household Head?,Sigor,Petty trade,9A) Main Occupation of the Household Head?,Sigor,Not Applicable,0A) Main Occupation of the Household Head?,Sigor,Firewood/charcoal,4A) Main Occupation of the Household Head?,Siongiroi,Livestock herding,13A) Main Occupation of the Household Head?,Siongiroi,Employed (salaried),10A) Main Occupation of the Household Head?,Siongiroi,Waged labour (Casual),17A) Main Occupation of the Household Head?,Siongiroi,Own farm labour,35A) Main Occupation of the Household Head?,Siongiroi,Merchant/trader,3A) Main Occupation of the Household Head?,Siongiroi,Petty trade,4A) Main Occupation of the Household Head?,Siongiroi,Not Applicable,2A) Main Occupation of the Household Head?,Siongiroi,Firewood/charcoal,0A) Main Occupation of the Household Head?,Singorwet,Livestock herding,0A) Main Occupation of the Household Head?,Singorwet,Employed (salaried),7A) Main Occupation of the Household Head?,Singorwet,Waged labour (Casual),18A) Main Occupation of the Household Head?,Singorwet,Own farm labour,30A) Main Occupation of the Household Head?,Singorwet,Merchant/trader,0A) Main Occupation of the Household Head?,Singorwet,Petty trade,1A) Main Occupation of the Household Head?,Singorwet,Not Applicable,3A) Main Occupation of the Household Head?,Singorwet,Firewood/charcoal,0A) Main Occupation of the Household Head?,Silibwet Township,Livestock herding,0A) Main Occupation of the Household Head?,Silibwet Township,Employed (salaried),5A) Main Occupation of the Household Head?,Silibwet Township,Waged labour (Casual),24A) Main Occupation of the Household Head?,Silibwet Township,Own farm labour,40A) Main Occupation of the Household Head?,Silibwet Township,Merchant/trader,2A) Main Occupation of the Household Head?,Silibwet Township,Petty trade,2A) Main Occupation of the Household Head?,Silibwet Township,Not Applicable,2A) Main Occupation of the Household Head?,Silibwet Township,Firewood/charcoal,1A) Main Occupation of the Household Head?,Kong'asis,Livestock herding,5A) Main Occupation of the Household Head?,Kong'asis,Employed (salaried),9A) Main Occupation of the Household Head?,Kong'asis,Waged labour (Casual),12A) Main Occupation of the Household Head?,Kong'asis,Own farm labour,49A) Main Occupation of the Household Head?,Kong'asis,Merchant/trader,3A) Main Occupation of the Household Head?,Kong'asis,Petty trade,1A) Main Occupation of the Household Head?,Kong'asis,Not Applicable,1A) Main Occupation of the Household Head?,Kong'asis,Firewood/charcoal,0A) Main Occupation of the Household Head?,Nyangores,Livestock herding,1A) Main Occupation of the Household Head?,Nyangores,Employed (salaried),14A) Main Occupation of the Household Head?,Nyangores,Waged labour (Casual),29A) Main Occupation of the Household Head?,Nyangores,Own farm labour,30A) Main Occupation of the Household Head?,Nyangores,Merchant/trader,5A) Main Occupation of the Household Head?,Nyangores,Petty trade,12A) Main Occupation of the Household Head?,Nyangores,Not Applicable,9A) Main Occupation of the Household Head?,Nyangores,Firewood/charcoal,1A) Main Occupation of the Household Head?,Mutarakwa,Livestock herding,1A) Main Occupation of the Household Head?,Mutarakwa,Employed (salaried),4A) Main Occupation of the Household Head?,Mutarakwa,Waged labour (Casual),17A) Main Occupation of the Household Head?,Mutarakwa,Own farm labour,34A) Main Occupation of the Household Head?,Mutarakwa,Merchant/trader,0A) Main Occupation of the Household Head?,Mutarakwa,Petty trade,2A) Main Occupation of the Household Head?,Mutarakwa,Not Applicable,0A) Main Occupation of the Household Head?,Mutarakwa,Firewood/charcoal,0A) Main Occupation of the Household Head?,Chebunyo,Livestock herding,1A) Main Occupation of the Household Head?,Chebunyo,Employed (salaried),17A) Main Occupation of the Household Head?,Chebunyo,Waged labour (Casual),20A) Main Occupation of the Household Head?,Chebunyo,Own farm labour,31A) Main Occupation of the Household Head?,Chebunyo,Merchant/trader,7A) Main Occupation of the Household Head?,Chebunyo,Petty trade,11A) Main Occupation of the Household Head?,Chebunyo,Not Applicable,5A) Main Occupation of the Household Head?,Chebunyo,Firewood/charcoal,0A) Main Occupation of the Household Head?,Ndaraweta,Livestock herding,0A) Main Occupation of the Household Head?,Ndaraweta,Employed (salaried),5A) Main Occupation of the Household Head?,Ndaraweta,Waged labour (Casual),11A) Main Occupation of the Household Head?,Ndaraweta,Own farm labour,43A) Main Occupation of the Household Head?,Ndaraweta,Merchant/trader,0A) Main Occupation of the Household Head?,Ndaraweta,Petty trade,1A) Main Occupation of the Household Head?,Ndaraweta,Not Applicable,0A) Main Occupation of the Household Head?,Ndaraweta,Firewood/charcoal,0A) Main Occupation of the Household Head?,Cheseon,Livestock herding,1A) Main Occupation of the Household Head?,Cheseon,Employed (salaried),9A) Main Occupation of the Household Head?,Cheseon,Waged labour (Casual),15A) Main Occupation of the Household Head?,Cheseon,Own farm labour,60A) Main Occupation of the Household Head?,Cheseon,Merchant/trader,0A) Main Occupation of the Household Head?,Cheseon,Petty trade,2A) Main Occupation of the Household Head?,Cheseon,Not Applicable,5A) Main Occupation of the Household Head?,Cheseon,Firewood/charcoal,0M) Where do you store water for drinking?,Sigor,Open container / Jerrican,15M) Where do you store water for drinking?,Sigor,Closed container / Jerrican,83M) Where do you store water for drinking?,Siongiroi,Open container / Jerrican,12M) Where do you store water for drinking?,Siongiroi,Closed container / Jerrican,72M) Where do you store water for drinking?,Singorwet,Open container / Jerrican,6M) Where do you store water for drinking?,Singorwet,Closed container / Jerrican,53M) Where do you store water for drinking?,Silibwet Township,Open container / Jerrican,6M) Where do you store water for drinking?,Silibwet Township,Closed container / Jerrican,70M) Where do you store water for drinking?,Kong'asis,Open container / Jerrican,17M) Where do you store water for drinking?,Kong'asis,Closed container / Jerrican,63M) Where do you store water for drinking?,Nyangores,Open container / Jerrican,8M) Where do you store water for drinking?,Nyangores,Closed container / Jerrican,93M) Where do you store water for drinking?,Mutarakwa,Open container / Jerrican,7M) Where do you store water for drinking?,Mutarakwa,Closed container / Jerrican,51M) Where do you store water for drinking?,Chebunyo,Open container / Jerrican,19M) Where do you store water for drinking?,Chebunyo,Closed container / Jerrican,73M) Where do you store water for drinking?,Ndaraweta,Open container / Jerrican,8M) Where do you store water for drinking?,Ndaraweta,Closed container / Jerrican,52M) Where do you store water for drinking?,Cheseon,Open container / Jerrican,10M) Where do you store water for drinking?,Cheseon,Closed container / Jerrican,82G) How many mosquito nets does this household have?,Sigor,1,12G) How many mosquito nets does this household have?,Sigor,0,30G) How many mosquito nets does this household have?,Sigor,3,17G) How many mosquito nets does this household have?,Sigor,2,28G) How many mosquito nets does this household have?,Sigor,5,3G) How many mosquito nets does this household have?,Sigor,4,8G) How many mosquito nets does this household have?,Sigor,7,0G) How many mosquito nets does this household have?,Sigor,6,0G) How many mosquito nets does this household have?,Sigor,9,0G) How many mosquito nets does this household have?,Sigor,8,0G) How many mosquito nets does this household have?,Siongiroi,1,12G) How many mosquito nets does this household have?,Siongiroi,0,14G) How many mosquito nets does this household have?,Siongiroi,3,16G) How many mosquito nets does this household have?,Siongiroi,2,26G) How many mosquito nets does this household have?,Siongiroi,5,0G) How many mosquito nets does this household have?,Siongiroi,4,12G) How many mosquito nets does this household have?,Siongiroi,7,0G) How many mosquito nets does this household have?,Siongiroi,6,3G) How many mosquito nets does this household have?,Siongiroi,9,0G) How many mosquito nets does this household have?,Siongiroi,8,1G) How many mosquito nets does this household have?,Singorwet,1,6G) How many mosquito nets does this household have?,Singorwet,0,13G) How many mosquito nets does this household have?,Singorwet,3,15G) How many mosquito nets does this household have?,Singorwet,2,18G) How many mosquito nets does this household have?,Singorwet,5,1G) How many mosquito nets does this household have?,Singorwet,4,6G) How many mosquito nets does this household have?,Singorwet,7,0G) How many mosquito nets does this household have?,Singorwet,6,0G) How many mosquito nets does this household have?,Singorwet,9,0G) How many mosquito nets does this household have?,Singorwet,8,0G) How many mosquito nets does this household have?,Silibwet Township,1,10G) How many mosquito nets does this household have?,Silibwet Township,0,12G) How many mosquito nets does this household have?,Silibwet Township,3,12G) How many mosquito nets does this household have?,Silibwet Township,2,18G) How many mosquito nets does this household have?,Silibwet Township,5,4G) How many mosquito nets does this household have?,Silibwet Township,4,11G) How many mosquito nets does this household have?,Silibwet Township,7,1G) How many mosquito nets does this household have?,Silibwet Township,6,8G) How many mosquito nets does this household have?,Silibwet Township,9,0G) How many mosquito nets does this household have?,Silibwet Township,8,0G) How many mosquito nets does this household have?,Kong'asis,1,4G) How many mosquito nets does this household have?,Kong'asis,0,19G) How many mosquito nets does this household have?,Kong'asis,3,17G) How many mosquito nets does this household have?,Kong'asis,2,20G) How many mosquito nets does this household have?,Kong'asis,5,4G) How many mosquito nets does this household have?,Kong'asis,4,12G) How many mosquito nets does this household have?,Kong'asis,7,0G) How many mosquito nets does this household have?,Kong'asis,6,3G) How many mosquito nets does this household have?,Kong'asis,9,1G) How many mosquito nets does this household have?,Kong'asis,8,0G) How many mosquito nets does this household have?,Nyangores,1,24G) How many mosquito nets does this household have?,Nyangores,0,22G) How many mosquito nets does this household have?,Nyangores,3,14G) How many mosquito nets does this household have?,Nyangores,2,32G) How many mosquito nets does this household have?,Nyangores,5,2G) How many mosquito nets does this household have?,Nyangores,4,7G) How many mosquito nets does this household have?,Nyangores,7,0G) How many mosquito nets does this household have?,Nyangores,6,0G) How many mosquito nets does this household have?,Nyangores,9,0G) How many mosquito nets does this household have?,Nyangores,8,0G) How many mosquito nets does this household have?,Mutarakwa,1,11G) How many mosquito nets does this household have?,Mutarakwa,0,9G) How many mosquito nets does this household have?,Mutarakwa,3,10G) How many mosquito nets does this household have?,Mutarakwa,2,21G) How many mosquito nets does this household have?,Mutarakwa,5,3G) How many mosquito nets does this household have?,Mutarakwa,4,4G) How many mosquito nets does this household have?,Mutarakwa,7,0G) How many mosquito nets does this household have?,Mutarakwa,6,0G) How many mosquito nets does this household have?,Mutarakwa,9,0G) How many mosquito nets does this household have?,Mutarakwa,8,0G) How many mosquito nets does this household have?,Chebunyo,1,12G) How many mosquito nets does this household have?,Chebunyo,0,36G) How many mosquito nets does this household have?,Chebunyo,3,10G) How many mosquito nets does this household have?,Chebunyo,2,23G) How many mosquito nets does this household have?,Chebunyo,5,2G) How many mosquito nets does this household have?,Chebunyo,4,8G) How many mosquito nets does this household have?,Chebunyo,7,0G) How many mosquito nets does this household have?,Chebunyo,6,1G) How many mosquito nets does this household have?,Chebunyo,9,0G) How many mosquito nets does this household have?,Chebunyo,8,0G) How many mosquito nets does this household have?,Ndaraweta,1,9G) How many mosquito nets does this household have?,Ndaraweta,0,10G) How many mosquito nets does this household have?,Ndaraweta,3,11G) How many mosquito nets does this household have?,Ndaraweta,2,10G) How many mosquito nets does this household have?,Ndaraweta,5,6G) How many mosquito nets does this household have?,Ndaraweta,4,11G) How many mosquito nets does this household have?,Ndaraweta,7,1G) How many mosquito nets does this household have?,Ndaraweta,6,2G) How many mosquito nets does this household have?,Ndaraweta,9,0G) How many mosquito nets does this household have?,Ndaraweta,8,0G) How many mosquito nets does this household have?,Cheseon,1,12G) How many mosquito nets does this household have?,Cheseon,0,10G) How many mosquito nets does this household have?,Cheseon,3,14G) How many mosquito nets does this household have?,Cheseon,2,22G) How many mosquito nets does this household have?,Cheseon,5,8G) How many mosquito nets does this household have?,Cheseon,4,21G) How many mosquito nets does this household have?,Cheseon,7,0G) How many mosquito nets does this household have?,Cheseon,6,4G) How many mosquito nets does this household have?,Cheseon,9,1G) How many mosquito nets does this household have?,Cheseon,8,0J) Who usually goes to this source to fetch water?,Sigor,Male child under 15 years old,0J) Who usually goes to this source to fetch water?,Sigor,Other,1J) Who usually goes to this source to fetch water?,Sigor,Female child under 15 years old,0J) Who usually goes to this source to fetch water?,Sigor,Adult woman,96J) Who usually goes to this source to fetch water?,Sigor,Adult man,1J) Who usually goes to this source to fetch water?,Siongiroi,Male child under 15 years old,0J) Who usually goes to this source to fetch water?,Siongiroi,Other,0J) Who usually goes to this source to fetch water?,Siongiroi,Female child under 15 years old,2J) Who usually goes to this source to fetch water?,Siongiroi,Adult woman,82J) Who usually goes to this source to fetch water?,Siongiroi,Adult man,0J) Who usually goes to this source to fetch water?,Singorwet,Male child under 15 years old,0J) Who usually goes to this source to fetch water?,Singorwet,Other,0J) Who usually goes to this source to fetch water?,Singorwet,Female child under 15 years old,0J) Who usually goes to this source to fetch water?,Singorwet,Adult woman,57J) Who usually goes to this source to fetch water?,Singorwet,Adult man,2J) Who usually goes to this source to fetch water?,Silibwet Township,Male child under 15 years old,0J) Who usually goes to this source to fetch water?,Silibwet Township,Other,2J) Who usually goes to this source to fetch water?,Silibwet Township,Female child under 15 years old,0J) Who usually goes to this source to fetch water?,Silibwet Township,Adult woman,74J) Who usually goes to this source to fetch water?,Silibwet Township,Adult man,0J) Who usually goes to this source to fetch water?,Kong'asis,Male child under 15 years old,1J) Who usually goes to this source to fetch water?,Kong'asis,Other,0J) Who usually goes to this source to fetch water?,Kong'asis,Female child under 15 years old,4J) Who usually goes to this source to fetch water?,Kong'asis,Adult woman,74J) Who usually goes to this source to fetch water?,Kong'asis,Adult man,1J) Who usually goes to this source to fetch water?,Nyangores,Male child under 15 years old,0J) Who usually goes to this source to fetch water?,Nyangores,Other,6J) Who usually goes to this source to fetch water?,Nyangores,Female child under 15 years old,2J) Who usually goes to this source to fetch water?,Nyangores,Adult woman,93J) Who usually goes to this source to fetch water?,Nyangores,Adult man,0J) Who usually goes to this source to fetch water?,Mutarakwa,Male child under 15 years old,1J) Who usually goes to this source to fetch water?,Mutarakwa,Other,0J) Who usually goes to this source to fetch water?,Mutarakwa,Female child under 15 years old,0J) Who usually goes to this source to fetch water?,Mutarakwa,Adult woman,57J) Who usually goes to this source to fetch water?,Mutarakwa,Adult man,0J) Who usually goes to this source to fetch water?,Chebunyo,Male child under 15 years old,1J) Who usually goes to this source to fetch water?,Chebunyo,Other,1J) Who usually goes to this source to fetch water?,Chebunyo,Female child under 15 years old,0J) Who usually goes to this source to fetch water?,Chebunyo,Adult woman,89J) Who usually goes to this source to fetch water?,Chebunyo,Adult man,1J) Who usually goes to this source to fetch water?,Ndaraweta,Male child under 15 years old,0J) Who usually goes to this source to fetch water?,Ndaraweta,Other,0J) Who usually goes to this source to fetch water?,Ndaraweta,Female child under 15 years old,0J) Who usually goes to this source to fetch water?,Ndaraweta,Adult woman,60J) Who usually goes to this source to fetch water?,Ndaraweta,Adult man,0J) Who usually goes to this source to fetch water?,Cheseon,Male child under 15 years old,0J) Who usually goes to this source to fetch water?,Cheseon,Other,0J) Who usually goes to this source to fetch water?,Cheseon,Female child under 15 years old,0J) Who usually goes to this source to fetch water?,Cheseon,Adult woman,87J) Who usually goes to this source to fetch water?,Cheseon,Adult man,5"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Sigor,Yes,33"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Sigor,No,65"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Siongiroi,Yes,31"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Siongiroi,No,53"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Singorwet,Yes,24"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Singorwet,No,35"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Silibwet Township,Yes,38"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Silibwet Township,No,38"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Kong'asis,Yes,16"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Kong'asis,No,64"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Nyangores,Yes,29"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Nyangores,No,72"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Mutarakwa,Yes,31"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Mutarakwa,No,27"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Chebunyo,Yes,36"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Chebunyo,No,56"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Ndaraweta,Yes,26"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Ndaraweta,No,34"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Cheseon,Yes,42"D) In the last month, have you or anyone in your household borrowed cash, food or other items with or without interest?",Cheseon,No,50L) What do you usually do to make the water safer to drink?,Sigor, ,24L) What do you usually do to make the water safer to drink?,Sigor,Use water filter (ceramic),0L) What do you usually do to make the water safer to drink?,Sigor,Sand/composite/etc.,0L) What do you usually do to make the water safer to drink?,Sigor,Strain through a cloth,0L) What do you usually do to make the water safer to drink?,Sigor,Other,0L) What do you usually do to make the water safer to drink?,Sigor,Add bleach/chlorine,20L) What do you usually do to make the water safer to drink?,Sigor,Let it stand and settle,2L) What do you usually do to make the water safer to drink?,Sigor,Don't know,1L) What do you usually do to make the water safer to drink?,Sigor,Boil,51L) What do you usually do to make the water safer to drink?,Siongiroi, ,19L) What do you usually do to make the water safer to drink?,Siongiroi,Use water filter (ceramic),10L) What do you usually do to make the water safer to drink?,Siongiroi,Sand/composite/etc.,1L) What do you usually do to make the water safer to drink?,Siongiroi,Strain through a cloth,1L) What do you usually do to make the water safer to drink?,Siongiroi,Other,0L) What do you usually do to make the water safer to drink?,Siongiroi,Add bleach/chlorine,13L) What do you usually do to make the water safer to drink?,Siongiroi,Let it stand and settle,0L) What do you usually do to make the water safer to drink?,Siongiroi,Don't know,0L) What do you usually do to make the water safer to drink?,Siongiroi,Boil,40L) What do you usually do to make the water safer to drink?,Singorwet, ,19L) What do you usually do to make the water safer to drink?,Singorwet,Use water filter (ceramic),4L) What do you usually do to make the water safer to drink?,Singorwet,Sand/composite/etc.,0L) What do you usually do to make the water safer to drink?,Singorwet,Strain through a cloth,0L) What do you usually do to make the water safer to drink?,Singorwet,Other,3L) What do you usually do to make the water safer to drink?,Singorwet,Add bleach/chlorine,6L) What do you usually do to make the water safer to drink?,Singorwet,Let it stand and settle,2L) What do you usually do to make the water safer to drink?,Singorwet,Don't know,0L) What do you usually do to make the water safer to drink?,Singorwet,Boil,25L) What do you usually do to make the water safer to drink?,Silibwet Township, ,24L) What do you usually do to make the water safer to drink?,Silibwet Township,Use water filter (ceramic),0L) What do you usually do to make the water safer to drink?,Silibwet Township,Sand/composite/etc.,0L) What do you usually do to make the water safer to drink?,Silibwet Township,Strain through a cloth,0L) What do you usually do to make the water safer to drink?,Silibwet Township,Other,1L) What do you usually do to make the water safer to drink?,Silibwet Township,Add bleach/chlorine,3L) What do you usually do to make the water safer to drink?,Silibwet Township,Let it stand and settle,1L) What do you usually do to make the water safer to drink?,Silibwet Township,Don't know,0L) What do you usually do to make the water safer to drink?,Silibwet Township,Boil,47L) What do you usually do to make the water safer to drink?,Kong'asis, ,14L) What do you usually do to make the water safer to drink?,Kong'asis,Use water filter (ceramic),4L) What do you usually do to make the water safer to drink?,Kong'asis,Sand/composite/etc.,0L) What do you usually do to make the water safer to drink?,Kong'asis,Strain through a cloth,0L) What do you usually do to make the water safer to drink?,Kong'asis,Other,0L) What do you usually do to make the water safer to drink?,Kong'asis,Add bleach/chlorine,5L) What do you usually do to make the water safer to drink?,Kong'asis,Let it stand and settle,1L) What do you usually do to make the water safer to drink?,Kong'asis,Don't know,0L) What do you usually do to make the water safer to drink?,Kong'asis,Boil,56L) What do you usually do to make the water safer to drink?,Nyangores, ,64L) What do you usually do to make the water safer to drink?,Nyangores,Use water filter (ceramic),2L) What do you usually do to make the water safer to drink?,Nyangores,Sand/composite/etc.,0L) What do you usually do to make the water safer to drink?,Nyangores,Strain through a cloth,0L) What do you usually do to make the water safer to drink?,Nyangores,Other,1L) What do you usually do to make the water safer to drink?,Nyangores,Add bleach/chlorine,8L) What do you usually do to make the water safer to drink?,Nyangores,Let it stand and settle,1L) What do you usually do to make the water safer to drink?,Nyangores,Don't know,0L) What do you usually do to make the water safer to drink?,Nyangores,Boil,25L) What do you usually do to make the water safer to drink?,Mutarakwa, ,35L) What do you usually do to make the water safer to drink?,Mutarakwa,Use water filter (ceramic),0L) What do you usually do to make the water safer to drink?,Mutarakwa,Sand/composite/etc.,1L) What do you usually do to make the water safer to drink?,Mutarakwa,Strain through a cloth,0L) What do you usually do to make the water safer to drink?,Mutarakwa,Other,0L) What do you usually do to make the water safer to drink?,Mutarakwa,Add bleach/chlorine,2L) What do you usually do to make the water safer to drink?,Mutarakwa,Let it stand and settle,2L) What do you usually do to make the water safer to drink?,Mutarakwa,Don't know,0L) What do you usually do to make the water safer to drink?,Mutarakwa,Boil,18L) What do you usually do to make the water safer to drink?,Chebunyo, ,23L) What do you usually do to make the water safer to drink?,Chebunyo,Use water filter (ceramic),0L) What do you usually do to make the water safer to drink?,Chebunyo,Sand/composite/etc.,0L) What do you usually do to make the water safer to drink?,Chebunyo,Strain through a cloth,0L) What do you usually do to make the water safer to drink?,Chebunyo,Other,0L) What do you usually do to make the water safer to drink?,Chebunyo,Add bleach/chlorine,20L) What do you usually do to make the water safer to drink?,Chebunyo,Let it stand and settle,2L) What do you usually do to make the water safer to drink?,Chebunyo,Don't know,0L) What do you usually do to make the water safer to drink?,Chebunyo,Boil,47L) What do you usually do to make the water safer to drink?,Ndaraweta, ,18L) What do you usually do to make the water safer to drink?,Ndaraweta,Use water filter (ceramic),2L) What do you usually do to make the water safer to drink?,Ndaraweta,Sand/composite/etc.,0L) What do you usually do to make the water safer to drink?,Ndaraweta,Strain through a cloth,0L) What do you usually do to make the water safer to drink?,Ndaraweta,Other,3L) What do you usually do to make the water safer to drink?,Ndaraweta,Add bleach/chlorine,6L) What do you usually do to make the water safer to drink?,Ndaraweta,Let it stand and settle,1L) What do you usually do to make the water safer to drink?,Ndaraweta,Don't know,0L) What do you usually do to make the water safer to drink?,Ndaraweta,Boil,30L) What do you usually do to make the water safer to drink?,Cheseon, ,35L) What do you usually do to make the water safer to drink?,Cheseon,Use water filter (ceramic),1L) What do you usually do to make the water safer to drink?,Cheseon,Sand/composite/etc.,0L) What do you usually do to make the water safer to drink?,Cheseon,Strain through a cloth,0L) What do you usually do to make the water safer to drink?,Cheseon,Other,0L) What do you usually do to make the water safer to drink?,Cheseon,Add bleach/chlorine,11L) What do you usually do to make the water safer to drink?,Cheseon,Let it stand and settle,1L) What do you usually do to make the water safer to drink?,Cheseon,Don't know,0L) What do you usually do to make the water safer to drink?,Cheseon,Boil,44"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Sigor,Put/rinsed into drain or ditch,7"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Sigor,Put/rinsed into toilet or latrine,63"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Sigor,Child used toilet/latrine,9"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Sigor,Buried,5"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Sigor,Thrown into garbage,6"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Sigor,Left in the open,7"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Sigor,Other,1"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Sigor,Don_t know,0"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Siongiroi,Put/rinsed into drain or ditch,0"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Siongiroi,Put/rinsed into toilet or latrine,45"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Siongiroi,Child used toilet/latrine,14"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Siongiroi,Buried,3"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Siongiroi,Thrown into garbage,2"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Siongiroi,Left in the open,7"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Siongiroi,Other,11"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Siongiroi,Don_t know,2"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Singorwet,Put/rinsed into drain or ditch,6"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Singorwet,Put/rinsed into toilet or latrine,25"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Singorwet,Child used toilet/latrine,4"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Singorwet,Buried,8"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Singorwet,Thrown into garbage,3"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Singorwet,Left in the open,0"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Singorwet,Other,2"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Singorwet,Don_t know,11"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Silibwet Township,Put/rinsed into drain or ditch,10"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Silibwet Township,Put/rinsed into toilet or latrine,35"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Silibwet Township,Child used toilet/latrine,9"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Silibwet Township,Buried,5"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Silibwet Township,Thrown into garbage,1"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Silibwet Township,Left in the open,1"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Silibwet Township,Other,6"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Silibwet Township,Don_t know,9"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Kong'asis,Put/rinsed into drain or ditch,2"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Kong'asis,Put/rinsed into toilet or latrine,41"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Kong'asis,Child used toilet/latrine,19"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Kong'asis,Buried,3"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Kong'asis,Thrown into garbage,6"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Kong'asis,Left in the open,6"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Kong'asis,Other,3"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Kong'asis,Don_t know,0"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Nyangores,Put/rinsed into drain or ditch,4"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Nyangores,Put/rinsed into toilet or latrine,63"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Nyangores,Child used toilet/latrine,13"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Nyangores,Buried,6"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Nyangores,Thrown into garbage,4"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Nyangores,Left in the open,6"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Nyangores,Other,2"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Nyangores,Don_t know,3"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Mutarakwa,Put/rinsed into drain or ditch,2"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Mutarakwa,Put/rinsed into toilet or latrine,24"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Mutarakwa,Child used toilet/latrine,15"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Mutarakwa,Buried,4"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Mutarakwa,Thrown into garbage,4"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Mutarakwa,Left in the open,0"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Mutarakwa,Other,4"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Mutarakwa,Don_t know,5"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Chebunyo,Put/rinsed into drain or ditch,4"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Chebunyo,Put/rinsed into toilet or latrine,51"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Chebunyo,Child used toilet/latrine,12"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Chebunyo,Buried,4"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Chebunyo,Thrown into garbage,4"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Chebunyo,Left in the open,11"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Chebunyo,Other,3"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Chebunyo,Don_t know,3"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Ndaraweta,Put/rinsed into drain or ditch,8"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Ndaraweta,Put/rinsed into toilet or latrine,21"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Ndaraweta,Child used toilet/latrine,17"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Ndaraweta,Buried,4"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Ndaraweta,Thrown into garbage,1"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Ndaraweta,Left in the open,0"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Ndaraweta,Other,5"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Ndaraweta,Don_t know,4"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Cheseon,Put/rinsed into drain or ditch,8"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Cheseon,Put/rinsed into toilet or latrine,38"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Cheseon,Child used toilet/latrine,22"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Cheseon,Buried,6"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Cheseon,Thrown into garbage,2"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Cheseon,Left in the open,0"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Cheseon,Other,8"R) The last time your youngest child passed stools, what was done to dispose of the stools?",Cheseon,Don_t know,8"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Sigor, ,2"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Sigor,Yes,4"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Sigor,No,92"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Siongiroi, ,2"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Siongiroi,Yes,8"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Siongiroi,No,74"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Singorwet, ,0"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Singorwet,Yes,9"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Singorwet,No,50"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Silibwet Township, ,0"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Silibwet Township,Yes,12"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Silibwet Township,No,64"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Kong'asis, ,0"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Kong'asis,Yes,0"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Kong'asis,No,80"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Nyangores, ,3"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Nyangores,Yes,6"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Nyangores,No,92"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Mutarakwa, ,0"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Mutarakwa,Yes,10"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Mutarakwa,No,48"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Chebunyo, ,7"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Chebunyo,Yes,2"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Chebunyo,No,83"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Ndaraweta, ,0"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Ndaraweta,Yes,5"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Ndaraweta,No,55"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Cheseon, ,0"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Cheseon,Yes,11"P) Does your toilet have hand washing facilities? (Sink, running tap, water bucket, etc.)",Cheseon,No,81K) What is the main reason you are not satisfied with the water supply?,Sigor, ,61K) What is the main reason you are not satisfied with the water supply?,Sigor,Long distance,5K) What is the main reason you are not satisfied with the water supply?,Sigor,Bad taste,0K) What is the main reason you are not satisfied with the water supply?,Sigor,Long waiting queue,8K) What is the main reason you are not satisfied with the water supply?,Sigor,Not enough,10K) What is the main reason you are not satisfied with the water supply?,Sigor,Irregular supply,8K) What is the main reason you are not satisfied with the water supply?,Sigor,Bad quality,5K) What is the main reason you are not satisfied with the water supply?,Sigor,Have to pay/buy,1K) What is the main reason you are not satisfied with the water supply?,Sigor,Other,0K) What is the main reason you are not satisfied with the water supply?,Sigor,Don_t know,0K) What is the main reason you are not satisfied with the water supply?,Siongiroi, ,47K) What is the main reason you are not satisfied with the water supply?,Siongiroi,Long distance,2K) What is the main reason you are not satisfied with the water supply?,Siongiroi,Bad taste,0K) What is the main reason you are not satisfied with the water supply?,Siongiroi,Long waiting queue,0K) What is the main reason you are not satisfied with the water supply?,Siongiroi,Not enough,15K) What is the main reason you are not satisfied with the water supply?,Siongiroi,Irregular supply,4K) What is the main reason you are not satisfied with the water supply?,Siongiroi,Bad quality,16K) What is the main reason you are not satisfied with the water supply?,Siongiroi,Have to pay/buy,0K) What is the main reason you are not satisfied with the water supply?,Siongiroi,Other,0K) What is the main reason you are not satisfied with the water supply?,Siongiroi,Don_t know,0K) What is the main reason you are not satisfied with the water supply?,Singorwet, ,28K) What is the main reason you are not satisfied with the water supply?,Singorwet,Long distance,8K) What is the main reason you are not satisfied with the water supply?,Singorwet,Bad taste,2K) What is the main reason you are not satisfied with the water supply?,Singorwet,Long waiting queue,3K) What is the main reason you are not satisfied with the water supply?,Singorwet,Not enough,16K) What is the main reason you are not satisfied with the water supply?,Singorwet,Irregular supply,1K) What is the main reason you are not satisfied with the water supply?,Singorwet,Bad quality,1K) What is the main reason you are not satisfied with the water supply?,Singorwet,Have to pay/buy,0K) What is the main reason you are not satisfied with the water supply?,Singorwet,Other,0K) What is the main reason you are not satisfied with the water supply?,Singorwet,Don_t know,0K) What is the main reason you are not satisfied with the water supply?,Silibwet Township, ,51K) What is the main reason you are not satisfied with the water supply?,Silibwet Township,Long distance,5K) What is the main reason you are not satisfied with the water supply?,Silibwet Township,Bad taste,1K) What is the main reason you are not satisfied with the water supply?,Silibwet Township,Long waiting queue,1K) What is the main reason you are not satisfied with the water supply?,Silibwet Township,Not enough,13K) What is the main reason you are not satisfied with the water supply?,Silibwet Township,Irregular supply,0K) What is the main reason you are not satisfied with the water supply?,Silibwet Township,Bad quality,4K) What is the main reason you are not satisfied with the water supply?,Silibwet Township,Have to pay/buy,0K) What is the main reason you are not satisfied with the water supply?,Silibwet Township,Other,0K) What is the main reason you are not satisfied with the water supply?,Silibwet Township,Don_t know,1K) What is the main reason you are not satisfied with the water supply?,Kong'asis, ,50K) What is the main reason you are not satisfied with the water supply?,Kong'asis,Long distance,1K) What is the main reason you are not satisfied with the water supply?,Kong'asis,Bad taste,1K) What is the main reason you are not satisfied with the water supply?,Kong'asis,Long waiting queue,0K) What is the main reason you are not satisfied with the water supply?,Kong'asis,Not enough,12K) What is the main reason you are not satisfied with the water supply?,Kong'asis,Irregular supply,6K) What is the main reason you are not satisfied with the water supply?,Kong'asis,Bad quality,10K) What is the main reason you are not satisfied with the water supply?,Kong'asis,Have to pay/buy,0K) What is the main reason you are not satisfied with the water supply?,Kong'asis,Other,0K) What is the main reason you are not satisfied with the water supply?,Kong'asis,Don_t know,0K) What is the main reason you are not satisfied with the water supply?,Nyangores, ,60K) What is the main reason you are not satisfied with the water supply?,Nyangores,Long distance,10K) What is the main reason you are not satisfied with the water supply?,Nyangores,Bad taste,0K) What is the main reason you are not satisfied with the water supply?,Nyangores,Long waiting queue,0K) What is the main reason you are not satisfied with the water supply?,Nyangores,Not enough,11K) What is the main reason you are not satisfied with the water supply?,Nyangores,Irregular supply,9K) What is the main reason you are not satisfied with the water supply?,Nyangores,Bad quality,3K) What is the main reason you are not satisfied with the water supply?,Nyangores,Have to pay/buy,4K) What is the main reason you are not satisfied with the water supply?,Nyangores,Other,4K) What is the main reason you are not satisfied with the water supply?,Nyangores,Don_t know,0K) What is the main reason you are not satisfied with the water supply?,Mutarakwa, ,16K) What is the main reason you are not satisfied with the water supply?,Mutarakwa,Long distance,6K) What is the main reason you are not satisfied with the water supply?,Mutarakwa,Bad taste,0K) What is the main reason you are not satisfied with the water supply?,Mutarakwa,Long waiting queue,3K) What is the main reason you are not satisfied with the water supply?,Mutarakwa,Not enough,11K) What is the main reason you are not satisfied with the water supply?,Mutarakwa,Irregular supply,9K) What is the main reason you are not satisfied with the water supply?,Mutarakwa,Bad quality,13K) What is the main reason you are not satisfied with the water supply?,Mutarakwa,Have to pay/buy,0K) What is the main reason you are not satisfied with the water supply?,Mutarakwa,Other,0K) What is the main reason you are not satisfied with the water supply?,Mutarakwa,Don_t know,0K) What is the main reason you are not satisfied with the water supply?,Chebunyo, ,55K) What is the main reason you are not satisfied with the water supply?,Chebunyo,Long distance,11K) What is the main reason you are not satisfied with the water supply?,Chebunyo,Bad taste,2K) What is the main reason you are not satisfied with the water supply?,Chebunyo,Long waiting queue,1K) What is the main reason you are not satisfied with the water supply?,Chebunyo,Not enough,15K) What is the main reason you are not satisfied with the water supply?,Chebunyo,Irregular supply,0K) What is the main reason you are not satisfied with the water supply?,Chebunyo,Bad quality,7K) What is the main reason you are not satisfied with the water supply?,Chebunyo,Have to pay/buy,0K) What is the main reason you are not satisfied with the water supply?,Chebunyo,Other,1K) What is the main reason you are not satisfied with the water supply?,Chebunyo,Don_t know,0K) What is the main reason you are not satisfied with the water supply?,Ndaraweta, ,37K) What is the main reason you are not satisfied with the water supply?,Ndaraweta,Long distance,6K) What is the main reason you are not satisfied with the water supply?,Ndaraweta,Bad taste,0K) What is the main reason you are not satisfied with the water supply?,Ndaraweta,Long waiting queue,1K) What is the main reason you are not satisfied with the water supply?,Ndaraweta,Not enough,12K) What is the main reason you are not satisfied with the water supply?,Ndaraweta,Irregular supply,4K) What is the main reason you are not satisfied with the water supply?,Ndaraweta,Bad quality,0K) What is the main reason you are not satisfied with the water supply?,Ndaraweta,Have to pay/buy,0K) What is the main reason you are not satisfied with the water supply?,Ndaraweta,Other,0K) What is the main reason you are not satisfied with the water supply?,Ndaraweta,Don_t know,0K) What is the main reason you are not satisfied with the water supply?,Cheseon, ,60K) What is the main reason you are not satisfied with the water supply?,Cheseon,Long distance,9K) What is the main reason you are not satisfied with the water supply?,Cheseon,Bad taste,0K) What is the main reason you are not satisfied with the water supply?,Cheseon,Long waiting queue,3K) What is the main reason you are not satisfied with the water supply?,Cheseon,Not enough,15K) What is the main reason you are not satisfied with the water supply?,Cheseon,Irregular supply,2K) What is the main reason you are not satisfied with the water supply?,Cheseon,Bad quality,2K) What is the main reason you are not satisfied with the water supply?,Cheseon,Have to pay/buy,0K) What is the main reason you are not satisfied with the water supply?,Cheseon,Other,1K) What is the main reason you are not satisfied with the water supply?,Cheseon,Don_t know,0O) Most people you know only wash their hands with soap after going to the toilet?,Sigor,Maybe,17O) Most people you know only wash their hands with soap after going to the toilet?,Sigor,Yes,53O) Most people you know only wash their hands with soap after going to the toilet?,Sigor,Don't Know,11O) Most people you know only wash their hands with soap after going to the toilet?,Sigor,No,17O) Most people you know only wash their hands with soap after going to the toilet?,Siongiroi,Maybe,18O) Most people you know only wash their hands with soap after going to the toilet?,Siongiroi,Yes,44O) Most people you know only wash their hands with soap after going to the toilet?,Siongiroi,Don't Know,16O) Most people you know only wash their hands with soap after going to the toilet?,Siongiroi,No,6O) Most people you know only wash their hands with soap after going to the toilet?,Singorwet,Maybe,6O) Most people you know only wash their hands with soap after going to the toilet?,Singorwet,Yes,23O) Most people you know only wash their hands with soap after going to the toilet?,Singorwet,Don't Know,11O) Most people you know only wash their hands with soap after going to the toilet?,Singorwet,No,19O) Most people you know only wash their hands with soap after going to the toilet?,Silibwet Township,Maybe,5O) Most people you know only wash their hands with soap after going to the toilet?,Silibwet Township,Yes,42O) Most people you know only wash their hands with soap after going to the toilet?,Silibwet Township,Don't Know,16O) Most people you know only wash their hands with soap after going to the toilet?,Silibwet Township,No,13O) Most people you know only wash their hands with soap after going to the toilet?,Kong'asis,Maybe,20O) Most people you know only wash their hands with soap after going to the toilet?,Kong'asis,Yes,47O) Most people you know only wash their hands with soap after going to the toilet?,Kong'asis,Don't Know,6O) Most people you know only wash their hands with soap after going to the toilet?,Kong'asis,No,7O) Most people you know only wash their hands with soap after going to the toilet?,Nyangores,Maybe,25O) Most people you know only wash their hands with soap after going to the toilet?,Nyangores,Yes,43O) Most people you know only wash their hands with soap after going to the toilet?,Nyangores,Don't Know,15O) Most people you know only wash their hands with soap after going to the toilet?,Nyangores,No,18O) Most people you know only wash their hands with soap after going to the toilet?,Mutarakwa,Maybe,8O) Most people you know only wash their hands with soap after going to the toilet?,Mutarakwa,Yes,18O) Most people you know only wash their hands with soap after going to the toilet?,Mutarakwa,Don't Know,8O) Most people you know only wash their hands with soap after going to the toilet?,Mutarakwa,No,24O) Most people you know only wash their hands with soap after going to the toilet?,Chebunyo,Maybe,16O) Most people you know only wash their hands with soap after going to the toilet?,Chebunyo,Yes,55O) Most people you know only wash their hands with soap after going to the toilet?,Chebunyo,Don't Know,12O) Most people you know only wash their hands with soap after going to the toilet?,Chebunyo,No,9O) Most people you know only wash their hands with soap after going to the toilet?,Ndaraweta,Maybe,6O) Most people you know only wash their hands with soap after going to the toilet?,Ndaraweta,Yes,23O) Most people you know only wash their hands with soap after going to the toilet?,Ndaraweta,Don't Know,15O) Most people you know only wash their hands with soap after going to the toilet?,Ndaraweta,No,16O) Most people you know only wash their hands with soap after going to the toilet?,Cheseon,Maybe,6O) Most people you know only wash their hands with soap after going to the toilet?,Cheseon,Yes,49O) Most people you know only wash their hands with soap after going to the toilet?,Cheseon,Don't Know,13O) Most people you know only wash their hands with soap after going to the toilet?,Cheseon,No,24

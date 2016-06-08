@@ -1,6 +1,3 @@
-//to do
-// questions in right order and clean question variables
-
 //Nepal
 /*
 var config = {
@@ -24,7 +21,7 @@ var config = {
 	colorbutton:'#EF5350',
 	colorfont:'#ffffff',
 	mapcolors:['#cccccc','#FFCDD2','#E57373','#F44336','#B71C1C'],
-	locations:'Location',
+	locations:'Ward',
 	datafile:'data/resultskrc.csv',
 	geomfile:'data/krc_wards.geojson',
 	joinAttr:'NAME'
