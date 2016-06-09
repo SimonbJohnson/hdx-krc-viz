@@ -117,6 +117,7 @@ function initDash(data,geom){
 function genQuestion(data){
 
 	// create crossfilter of subset
+	currentChart='barchart';
 	var cf = crossfilter(data);
 	cf.data = data;
 	cf.aggs = [];
@@ -145,7 +146,7 @@ function genQuestion(data){
 	var data = cf.answersGroup.all();
 
 	// set radio buttons to default graph
-	$("input[type=radio][name=chart][value=bar]").prop('checked',true);
+	//$("input[type=radio][name=chart][value=bar]").prop('checked',true);
 	
 	//make sure graphs is showing and map isn't
 	$('#graph').show();
